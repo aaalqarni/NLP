@@ -1,0 +1,6458 @@
+No. of Classes = 1
+Path C0 = C:\Users\aaalqarni.KACST\Documents\DataPaper\Data\SNP_Cultural_3
+Total No. of files = 1414
+Total No. of words = 346480
+Total No. of unique words = 43781
+
+------------------------------------------
+TF		Term		CHI		
+------------------------------------------
+5429		Џбм		NaN		
+1253		«бгд ќ»		NaN		
+1161		«д		NaN		
+1003		г«		NaN		
+930		«б”Џжѕн		NaN		
+817		бг		NaN		
+796		б«		NaN		
+786		я«д		NaN		
+781		«бм		NaN		
+635		«б‘»«»		NaN		
+510		«бЋ«дн		NaN		
+473		«бЁдн		NaN		
+446		«бгё»б		NaN		
+443		«бЏ«г		NaN		
+409		«бг«÷н		NaN		
+394		Џ«г		NaN		
+392		ёѕ		NaN		
+376		я«д 		NaN		
+367		«бѕж—н		NaN		
+330		«бѕжбн		NaN		
+316		бяд		NaN		
+305		еѕЁ		NaN		
+297		«б»—«“нбн		NaN		
+293		џн—		NaN		
+275		няжд		NaN		
+267		«б”«»ё		NaN		
+262		 г		NaN		
+261		«бде«∆н		NaN		
+258		«бЏ—»не		NaN		
+251		«б—н«÷н		NaN		
+229		ен		NaN		
+219		ё«б		NaN		
+208		’«Ќ»		NaN		
+199		«бЏ—»н		NaN		
+198		я»н—		NaN		
+196		«бж”Ў		NaN		
+192		«бг’—н		NaN		
+186		«бЌ«бн		NaN		
+186		«бЁ—д”н		NaN		
+178		«бћѕнѕ		NaN		
+177		ж”Ў		NaN		
+176		гбнжд		NaN		
+176		де«∆н		NaN		
+173		«бжЎдн		NaN		
+173		н г		NaN		
+172		Ќжб		NaN		
+164		Џ»—		NaN		
+163		«бЏ—»		NaN		
+162		 яжд		NaN		
+162		«бя—жн		NaN		
+162		гЋб		NaN		
+158		«б«ебн		NaN		
+156		Џёѕ		NaN		
+152		«бгџ—»н		NaN		
+151		ж«Ќѕ		NaN		
+151		ёѕг		NaN		
+145		Ќ«б		NaN		
+144		»д«ѕн		NaN		
+139		’«бЌ		NaN		
+139		«бЏѕнѕ		NaN		
+137		«бгбян		NaN		
+136		Ёёѕ		NaN		
+135		нбЏ»		NaN		
+133		бн”		NaN		
+128		ћ«Ѕ		NaN		
+128		«бё«ѕг		NaN		
+128		бЏ»		NaN		
+126		«бя»н—		NaN		
+123		«б‘—нЁнд		NaN		
+123		ўб		NaN		
+122		няд		NaN		
+122		нћ»		NaN		
+120		Ќёё		NaN		
+119		Ќяг		NaN		
+115		гг«		NaN		
+114		ећ—		NaN		
+113		ЏЎнЁ		NaN		
+111		«ббн»н		NaN		
+111		нгяд		NaN		
+111		”ћб		NaN		
+106		«б«жбм		NaN		
+105		«бЎ«∆н		NaN		
+105		ќ«—ћ		NaN		
+104		ж÷Џ		NaN		
+104		ўе—		NaN		
+102		«б«”»«дн		NaN		
+102		«бяЋн—		NaN		
+102		ё«г		NaN		
+100		гЏ«–		NaN		
+98		ћѕнѕ		NaN		
+98		‘—Ё		NaN		
+97		«б« Ќ«ѕн		NaN		
+95		«б—н«÷ннд		NaN		
+93		«бћ«—н		NaN		
+93		”гж		NaN		
+92		«бЏ—«ён		NaN		
+91		”Џнѕ		NaN		
+90		Џ«г«		NaN		
+88		Ћб«Ћ		NaN		
+86		ѕЏг		NaN		
+86		«бгЌ —Ё		NaN		
+86		«бёЎ—н		NaN		
+85		«б жд”н		NaN		
+85		Џ‘—		NaN		
+85		—ЁЏ		NaN		
+84		б«Џ»не		NaN		
+83		 ёѕг		NaN		
+81		н–я—		NaN		
+81		«бяжн н		NaN		
+81		Џгб		NaN		
+79		«бжЌнѕ		NaN		
+77		ж’б 		NaN		
+77		Ё«“		NaN		
+77		Ўб»		NaN		
+76		жёЏ		NaN		
+76		”»ё		NaN		
+73		бж		NaN		
+72		«бќ«—ћн		NaN		
+72		ж’б		NaN		
+72		дћг		NaN		
+72		“нд		NaN		
+70		Ќ«бн«		NaN		
+70		‘«—я		NaN		
+69		я«днѕ«		NaN		
+69		«б‘е—н		NaN		
+68		«бгЌбн		NaN		
+68		я«гб		NaN		
+68		 Џ—÷		NaN		
+67		«ћб		NaN		
+67		—Ё÷		NaN		
+66		д’нЁ		NaN		
+66		«бг жёЏ		NaN		
+66		нЏжѕ		NaN		
+65		дћ—«д		NaN		
+65		«бгЌ —Ёнд		NaN		
+65		«б»— џ«бн		NaN		
+64		Ќ’б		NaN		
+64		«Ё÷б		NaN		
+64		ж«’б		NaN		
+63		ќбнћн		NaN		
+63		«б‘»«»н		NaN		
+63		дћЌ		NaN		
+62		«б«г«—« н		NaN		
+62		«бЎ»н		NaN		
+62		 бём		NaN		
+62		Џ—÷		NaN		
+61		«бежбдѕн		NaN		
+61		ћ«Ѕ 		NaN		
+61		«бг«дн«		NaN		
+60		»ћ«д»		NaN		
+60		ѕб		NaN		
+59		ћнѕ		NaN		
+59		«бЏг«дн		NaN		
+59		«ќ—м		NaN		
+58		«бг‘—Ё		NaN		
+58		—ѕ		NaN		
+58		Ќб		NaN		
+58		н’б		NaN		
+58		гдЌ		NaN		
+58		я‘Ё		NaN		
+58		нёжг		NaN		
+57		«б«жбг»н		NaN		
+57		«б—”гн		NaN		
+57		жће		NaN		
+57		Ќ«гб		NaN		
+56		«бЏ«бгн		NaN		
+56		«бё«∆г		NaN		
+56		н‘«—я		NaN		
+56		бн” 		NaN		
+55		ѕЁЏ		NaN		
+55		нгбя		NaN		
+54		ѕќб		NaN		
+54		«»д		NaN		
+54		«б»Ќ—ндн		NaN		
+54		«яЋ—		NaN		
+54		‘еѕ 		NaN		
+54		«бћ“«∆—н		NaN		
+54		«бя»—м		NaN		
+53		«Ќѕ		NaN		
+53		—”гн«		NaN		
+53		яд 		NaN		
+53		нЏ »—		NaN		
+52		ќбЁ		NaN		
+52		«яѕ		NaN		
+52		—”гн		NaN		
+52		«б»бћнян		NaN		
+52		нЏѕ		NaN		
+51		«б—«∆ѕ		NaN		
+51		«бЁ«∆“		NaN		
+51		 ё«г		NaN		
+51		яЋн—«		NaN		
+51		«бЋб«Ћ		NaN		
+50		 яд		NaN		
+50		гќ бЁ		NaN		
+50		«бгг «“		NaN		
+50		 Џ«ѕб		NaN		
+50		ѕ		NaN		
+49		ќ”—		NaN		
+49		«б”ж—н		NaN		
+49		«бг—‘Ќнд		NaN		
+49		«д ем		NaN		
+49		 Ќёё		NaN		
+49		 ЌѕЋ		NaN		
+49		ё«ѕ		NaN		
+48		ќ«’		NaN		
+48		г‘н—«		NaN		
+48		«д ёб		NaN		
+48		нЏ«дн		NaN		
+47		Џ«ѕб		NaN		
+47		«д е 		NaN		
+47		«бгё——		NaN		
+46		ЌѕЋ		NaN		
+46		 ’б		NaN		
+46		нќж÷		NaN		
+46		«б”Џжѕннд		NaN		
+46		«бЌ«—Ћн		NaN		
+46		Џ«ѕ		NaN		
+45		н”Џм		NaN		
+45		н“«б		NaN		
+45		е«Ёнб«дћ		NaN		
+45		«бг‘«—янд		NaN		
+45		«бгд ў—		NaN		
+45		«бгд«”»		NaN		
+45		 ћ«ж“		NaN		
+45		«ббн«ёне		NaN		
+44		 —я		NaN		
+44		нѕќб		NaN		
+44		«б«ќн—		NaN		
+44		ед«		NaN		
+44		«бЋд«∆н		NaN		
+43		ќ—ћ		NaN		
+43		«б‘«»		NaN		
+43		 гяд		NaN		
+43		—н«÷н		NaN		
+43		«бЏ“н“		NaN		
+43		 —ян		NaN		
+43		я”»		NaN		
+43		нжћѕ		NaN		
+43		нёѕг		NaN		
+42		гƒяѕ«		NaN		
+42		н—нѕ		NaN		
+42		»ѕб		NaN		
+42		Џ“н“		NaN		
+42		дёб		NaN		
+42		«бд’—«жн		NaN		
+41		«бг”«Џѕ		NaN		
+41		«Ћ—		NaN		
+41		”«»ё		NaN		
+41		«бнгдм		NaN		
+41		«бЌѕнЋ		NaN		
+41		«бгж÷жЏ		NaN		
+40		«бжЎдне		NaN		
+40		«бг»«—я		NaN		
+40		«б’Ё—«Ѕ		NaN		
+40		’ЌнЌ		NaN		
+40		«бгЎбж»		NaN		
+40		«б”жн”—н		NaN		
+40		«б÷«∆Џ		NaN		
+40		Ё Ќ		NaN		
+40		«б«дћбн“н		NaN		
+40		Ў—ѕ		NaN		
+40		нд ў—		NaN		
+39		«жб		NaN		
+39		«бЌг—«Ѕ		NaN		
+39		«бгд ‘—н		NaN		
+39		«бгЌн«дн		NaN		
+38		ќг”		NaN		
+38		ћЏб		NaN		
+38		«бгќ÷—г		NaN		
+38		«ббн«ён		NaN		
+38		«бг”ƒжбнд		NaN		
+38		н” Ќё		NaN		
+38		нёжб		NaN		
+37		«бё—дн		NaN		
+37		џ«ѕ—		NaN		
+37		я‘Ё 		NaN		
+37		н»ѕж		NaN		
+37		«б–е»н		NaN		
+37		н Џбё		NaN		
+37		«бќ«’		NaN		
+37		ё——		NaN		
+36		 ÷г		NaN		
+36		«бќбнћне		NaN		
+36		«де«		NaN		
+36		гЎбЏ		NaN		
+36		«бЎ»нЏн		NaN		
+36		ж«яѕ		NaN		
+36		Ёдн		NaN		
+36		я«дж«		NaN		
+36		бняжд		NaN		
+36		«” Ў«Џ		NaN		
+35		«б —ян		NaN		
+35		«б«нЎ«бн		NaN		
+35		Ў«б»		NaN		
+35		нЏдн		NaN		
+34		н”ћб		NaN		
+34		«бЁ		NaN		
+34		гƒќ—«		NaN		
+34		«бЏбн«		NaN		
+34		«бд«ѕннд		NaN		
+34		«б«дябн“н		NaN		
+34		 ѕќб		NaN		
+34		”»»		NaN		
+33		 г 		NaN		
+33		«б« Ё«ён		NaN		
+33		н»ём		NaN		
+33		«бћедн		NaN		
+33		÷г		NaN		
+33		я»н—«		NaN		
+33		 Џ«ёѕ		NaN		
+33		 ёжг		NaN		
+33		«б«бг«дн		NaN		
+33		г Џ»		NaN		
+33		”Џжѕн		NaN		
+33		ёб»		NaN		
+33		ћнѕ«		NaN		
+32		ќ«÷		NaN		
+32		Ќ—’		NaN		
+32		н—џ»		NaN		
+32		«ќ—		NaN		
+32		 ‘«Ён		NaN		
+32		«б «бн		NaN		
+32		нЌ «ћ		NaN		
+32		«бн”—м		NaN		
+32		 Ёжё		NaN		
+32		«б—жг«дн		NaN		
+32		”ж“«		NaN		
+32		Џбг		NaN		
+32		«бя«гн—ждн		NaN		
+31		«б« Ќ«ѕннд		NaN		
+31		 —«ћЏ		NaN		
+31		«б‘ен—		NaN		
+31		нЌѕЋ		NaN		
+31		«бѕжбннд		NaN		
+31		гн”н		NaN		
+31		«бџ«дн		NaN		
+31		 Џ »—		NaN		
+31		«бгж«Ёё		NaN		
+31		«б»—нЎ«дн		NaN		
+31		нЏ—Ё		NaN		
+30		«бЁ—”«д		NaN		
+30		”«ег		NaN		
+30		«бжЌѕ«жн		NaN		
+30		жЌнѕ		NaN		
+30		 »ём		NaN		
+30		«бгябЁ		NaN		
+30		‘еѕ		NaN		
+30		«б—∆н”н		NaN		
+30		нЏгб		NaN		
+30		‘«—я 		NaN		
+29		«б дЁн–н		NaN		
+29		«бжѕн		NaN		
+29		н” ЎнЏ		NaN		
+29		гег«		NaN		
+29		«бЌ—»н		NaN		
+29		яб«Џ»		NaN		
+29		ё«∆б«		NaN		
+29		ё«г 		NaN		
+29		н—м		NaN		
+29		–я— 		NaN		
+29		 Ќгб		NaN		
+29		Ё÷б		NaN		
+29		 ƒяѕ		NaN		
+29		Џя”		NaN		
+28		«бЌёнён		NaN		
+28		«бг—‘Ќ		NaN		
+28		нƒяѕ		NaN		
+28		«бћнѕ		NaN		
+28		нж«’б		NaN		
+28		«б»—«Џг		NaN		
+28		«” г—		NaN		
+28		«бя»«—		NaN		
+28		Ёћ—		NaN		
+28		нЏбг		NaN		
+27		»« 		NaN		
+27		«бж«ёЏ		NaN		
+27		ггн“		NaN		
+27		 бЏ»		NaN		
+27		Ёдн«		NaN		
+27		нб ён		NaN		
+27		«Џбд		NaN		
+27		«б жнћ—н		NaN		
+27		г÷—		NaN		
+27		Ё‘б		NaN		
+27		Ё«“ 		NaN		
+27		«б»ѕ—н		NaN		
+27		Ќ«жб		NaN		
+27		‘«Ѕ		NaN		
+27		“«б		NaN		
+27		–я—		NaN		
+26		«ќ  г 		NaN		
+26		нќ÷Џ		NaN		
+26		нЌ б		NaN		
+26		н жёЏ		NaN		
+26		«бг«бн		NaN		
+26		«бг«ѕн		NaN		
+26		нг бя		NaN		
+26		«бж«Ќѕ		NaN		
+26		‘—«Ќнбн		NaN		
+26		ё—— 		NaN		
+26		жёЏ 		NaN		
+26		ёжн		NaN		
+26		ЁЏб		NaN		
+26		«бгжёЏ		NaN		
+26		«б”жѕ«дн		NaN		
+26		«бѕЁ«Џн		NaN		
+26		÷г 		NaN		
+26		«б ѕ—н»н		NaN		
+25		 Џѕ		NaN		
+25		 ‘«—я		NaN		
+25		«бЎжнб		NaN		
+25		Џ”н—н		NaN		
+25		«бёжн		NaN		
+25		«б”бнг		NaN		
+25		»ѕ«Џн		NaN		
+25		«бЁ«—”		NaN		
+25		 дЎбё		NaN		
+25		 ё——		NaN		
+25		г»я—		NaN		
+25		г«—”		NaN		
+25		«бћѕн—		NaN		
+25		н” г—		NaN		
+25		нћѕ		NaN		
+25		гЏн		NaN		
+25		г« ж—«д«		NaN		
+25		ЌѕнЋ		NaN		
+25		’Ќ«Ён		NaN		
+25		«бгёѕг		NaN		
+25		«бџ—»не		NaN		
+25		»		NaN		
+25		нўе—		NaN		
+24		«б«Ќ —«Ён		NaN		
+24		«бг—«д		NaN		
+24		«бё«÷н		NaN		
+24		«бќ»н—		NaN		
+24		н»ЌЋ		NaN		
+24		 Ќ «ћ		NaN		
+24		яЋн—		NaN		
+24		я»—м		NaN		
+24		«б”б»н		NaN		
+24		»ѕнб		NaN		
+24		нж«ће		NaN		
+24		«бЋб«Ћн		NaN		
+24		«Ћднд		NaN		
+24		 ‘еѕ		NaN		
+24		нќ’		NaN		
+24		«бгЁ —÷		NaN		
+24		дћѕ		NaN		
+24		гдн		NaN		
+24		Ёег		NaN		
+24		џ«»		NaN		
+24		‘яб		NaN		
+24		Ќ«∆б		NaN		
+24		»—«дѕнбн		NaN		
+24		«б»«бџ		NaN		
+24		нЏбд		NaN		
+24		«б’ЌЁн		NaN		
+23		Ќ’ѕ		NaN		
+23		ћгЏ		NaN		
+23		«бећжгн		NaN		
+23		ћ— 		NaN		
+23		н”н—		NaN		
+23		гд ќ»«		NaN		
+23		нЌёё		NaN		
+23		гж»«нбн		NaN		
+23		нЌ’б		NaN		
+23		нћ—н		NaN		
+23		н г Џ		NaN		
+23		«б‘—нЁ		NaN		
+23		«бћдж»н		NaN		
+23		«бгд«Ё”		NaN		
+23		г‘—жЏ		NaN		
+23		«б”дџ«бн		NaN		
+23		‘«—яж«		NaN		
+23		“«б 		NaN		
+23		«д÷г		NaN		
+23		 ”бг		NaN		
+23		 —ѕѕ		NaN		
+23		ж«Ёё		NaN		
+23		ёѕ—		NaN		
+23		Џѕ«		NaN		
+22		»б« ндн		NaN		
+22		Ќ÷—		NaN		
+22		«бг”«∆н		NaN		
+22		Џбг 		NaN		
+22		нЌўм		NaN		
+22		нћЏб		NaN		
+22		Џ—÷«		NaN		
+22		«б«ќ÷—		NaN		
+22		«бён«”н		NaN		
+22		я»«—		NaN		
+22		«б’Џ»		NaN		
+22		бя		NaN		
+22		«б		NaN		
+22		«бг—‘ѕн		NaN		
+22		гЌ —Ё		NaN		
+22		г‘—Ё		NaN		
+22		 гЋб		NaN		
+22		ё«ѕ—		NaN		
+22		«ёнг 		NaN		
+22		«бя—нг		NaN		
+22		«бг‘«—я		NaN		
+22		«Џ гѕ		NaN		
+22		«Џ ёѕ		NaN		
+22		нёЁ		NaN		
+22		н” ЎЏ		NaN		
+22		ж«ёЏ		NaN		
+22		Ё—÷		NaN		
+22		нгЋб		NaN		
+22		’—Ќ		NaN		
+22		 Ќёё 		NaN		
+22		ћгЏ 		NaN		
+22		”ѕѕ		NaN		
+22		—я“		NaN		
+21		ќн—		NaN		
+21		»ѕнб«		NaN		
+21		 ћѕ		NaN		
+21		дЁ”н		NaN		
+21		«бџдн		NaN		
+21		н ћ«ж“		NaN		
+21		”«»ё«		NaN		
+21		ёѕг 		NaN		
+21		Ўжнб		NaN		
+21		 д ў—		NaN		
+21		«б ёбнѕн		NaN		
+21		 ’ѕм		NaN		
+21		‘«еѕ		NaN		
+21		«б”жнѕн		NaN		
+21		 г«г«		NaN		
+20		ѕжбн		NaN		
+20		ћѕѕ		NaN		
+20		«б’«бЌ		NaN		
+20		нƒѕн		NaN		
+20		«б—«∆Џ		NaN		
+20		«б«н—«дн		NaN		
+20		гёѕг		NaN		
+20		«б«ћ«д»		NaN		
+20		«б”Џнѕ		NaN		
+20		«б ‘нян		NaN		
+20		 яЁб		NaN		
+20		«бг ’ѕ—		NaN		
+20		г ’б		NaN		
+20		 Џжѕ		NaN		
+20		Ќёё 		NaN		
+20		 ”»»		NaN		
+20		ж—ѕ		NaN		
+20		ж«÷Ќ		NaN		
+20		г— 		NaN		
+20		 »ѕж		NaN		
+20		«б»Ќ—н		NaN		
+20		«б—ж”н		NaN		
+19		ќЎЁ		NaN		
+19		ћб»		NaN		
+19		”—нЏ		NaN		
+19		 я—		NaN		
+19		«бќбнћн		NaN		
+19		«бгЌбннд		NaN		
+19		н” ÷нЁ		NaN		
+19		ггяд		NaN		
+19		Џ«бгн«		NaN		
+19		«бгё»бнд		NaN		
+19		»«ён		NaN		
+19		«я Ём		NaN		
+19		 Ўж—		NaN		
+19		«бѕ«ќбн		NaN		
+19		н÷г		NaN		
+19		дў—		NaN		
+19		нжгн		NaN		
+19		‘я—		NaN		
+18		 ж«’б		NaN		
+18		 жћ		NaN		
+18		»ён		NaN		
+18		дяжд		NaN		
+18		нќ—ћ		NaN		
+18		«бгЏ—жЁ		NaN		
+18		нћгЏ		NaN		
+18		«бгег		NaN		
+18		«б—ѕнЁ		NaN		
+18		Ў»нЏн		NaN		
+18		«б‘—ё		NaN		
+18		ўе— 		NaN		
+18		н ЎбЏ		NaN		
+18		«бЌгѕ«д		NaN		
+18		«б«—ћд ндн		NaN		
+18		»«—я		NaN		
+18		«б«ѕ«—н		NaN		
+18		«б”»нЏн		NaN		
+18		 д ен		NaN		
+18		«б—»«Џн		NaN		
+18		 ‘н—		NaN		
+18		—«∆Џ		NaN		
+18		«бћ«”г		NaN		
+18		гег		NaN		
+18		нёнг		NaN		
+18		Џж÷		NaN		
+18		”бг		NaN		
+17		«ё —»		NaN		
+17		ќ÷Џ		NaN		
+17		н“нѕ		NaN		
+17		н”»ё		NaN		
+17		»бџ		NaN		
+17		ѕ«∆г«		NaN		
+17		»бџ 		NaN		
+17		«б—«ён		NaN		
+17		д”Џм		NaN		
+17		дЌёё		NaN		
+17		дћЌ 		NaN		
+17		«дЎбё 		NaN		
+17		«бяждџжбн		NaN		
+17		«бяж—н		NaN		
+17		нб Ќё		NaN		
+17		«б«Џѕ«ѕн		NaN		
+17		«ћ гЏ		NaN		
+17		нЌё		NaN		
+17		жћѕ		NaN		
+17		гћѕѕ«		NaN		
+17		 Ќўм		NaN		
+17		«бг«÷ннд		NaN		
+17		«б’џн—		NaN		
+17		Џнд		NaN		
+17		н ж«ћѕ		NaN		
+16		«бг”ƒжб		NaN		
+16		  г		NaN		
+16		«” »Џѕ		NaN		
+16		нѕ—я		NaN		
+16		г‘нѕ«		NaN		
+16		нЌгб		NaN		
+16		”«ег 		NaN		
+16		«бећ—«жн		NaN		
+16		«б‘—Ён		NaN		
+16		Ћд«∆н		NaN		
+16		«б—«Ќб		NaN		
+16		д—нѕ		NaN		
+16		г«“нг»н		NaN		
+16		  ћ«ж“		NaN		
+16		гдЌ 		NaN		
+16		—г“н		NaN		
+16		«ж÷Ќ		NaN		
+16		»«  		NaN		
+16		“ћ		NaN		
+16		«”		NaN		
+16		—ЁЏ 		NaN		
+16		 жёЁ		NaN		
+16		«бќ÷—«Ѕ		NaN		
+16		 Џ«бм		NaN		
+16		гћ—ѕ		NaN		
+16		Ќг—«Ѕ		NaN		
+16		«—»Џ		NaN		
+16		г” Ќё		NaN		
+16		 ‘яб		NaN		
+16		 ”н—		NaN		
+16		дЁм		NaN		
+16		ж«ће		NaN		
+16		д‘—		NaN		
+16		д«б		NaN		
+16		Ќ’б 		NaN		
+16		Џ«бгн		NaN		
+16		«бЏ«∆ѕ		NaN		
+16		 «»Џ		NaN		
+16		«бѕ«∆г		NaN		
+16		Џг«		NaN		
+16		нё«г		NaN		
+16		—»«Џн		NaN		
+16		нд ёб		NaN		
+15		нЎб»		NaN		
+15		н‘Џ—		NaN		
+15		«бг÷нЁ		NaN		
+15		« Ёё 		NaN		
+15		«ќ «—		NaN		
+15		«б‘ёнё		NaN		
+15		гд”ж»н		NaN		
+15		«б’»«Ќн		NaN		
+15		«бгд’—г		NaN		
+15		«бб»д«дн		NaN		
+15		г ж”Ў		NaN		
+15		н»бџ		NaN		
+15		Џ—»н		NaN		
+15		гж÷Ќ«		NaN		
+15		ёжн«		NaN		
+15		«б‘ѕнѕ		NaN		
+15		н—Ќге		NaN		
+15		«бћѕѕ		NaN		
+15		н ЌѕЋ		NaN		
+15		г÷нЁ«		NaN		
+15		«б«”нжне		NaN		
+15		«бЌё		NaN		
+15		б«Џ»нд«		NaN		
+15		«я»—		NaN		
+15		«бгбнжд		NaN		
+15		 ж’б		NaN		
+15		 жћѕ		NaN		
+15		 Џ гѕ		NaN		
+15		 бё 		NaN		
+15		ж÷Џ 		NaN		
+15		гЌ»н		NaN		
+15		«б—жнбн		NaN		
+15		нџ«ѕ—		NaN		
+15		 ЏЋ—		NaN		
+15		 жн —		NaN		
+15		 ’ѕ—		NaN		
+15		 ћ«ж“ 		NaN		
+15		жёЁ		NaN		
+15		«»—“		NaN		
+15		г»я—«		NaN		
+15		я«ѕ		NaN		
+15		гЏ—жЁ		NaN		
+15		«” Ё«ѕ		NaN		
+15		«бѕ«Џг		NaN		
+15		нг ѕ		NaN		
+15		«бгед«		NaN		
+15		«бггяд		NaN		
+15		нё«б		NaN		
+15		«бгб«ннд		NaN		
+15		Ў»ё		NaN		
+15		«б’—»н		NaN		
+15		нџн»		NaN		
+15		–е»		NaN		
+14		«бћг«ен—н		NaN		
+14		н’ѕ—		NaN		
+14		н‘—Ё		NaN		
+14		 —м		NaN		
+14		Џёѕ«		NaN		
+14		«бг’ѕ—		NaN		
+14		»ЌЋ		NaN		
+14		н гяд		NaN		
+14		дў—н		NaN		
+14		«бн«»«дн		NaN		
+14		«бгд ёб		NaN		
+14		 џ«ѕ—		NaN		
+14		«б‘ќ’н		NaN		
+14		«б бЁ“нждн		NaN		
+14		«Ќ ”»		NaN		
+14		«бнгдн		NaN		
+14		«б«ег		NaN		
+14		«дЎ«бн«		NaN		
+14		«б”жЁн« н		NaN		
+14		«жбм		NaN		
+14		»«бџ		NaN		
+14		«б”—нЏ		NaN		
+14		нЌ«жб		NaN		
+14		«бЏб«ћн		NaN		
+14		«б«гн—ян		NaN		
+14		«бяжн ннд		NaN		
+14		«‘е—		NaN		
+14		«бдЁ”н		NaN		
+14		 џб»		NaN		
+14		«” —бндн		NaN		
+14		 ўе—		NaN		
+14		«Ќ—“		NaN		
+14		 жд”н		NaN		
+14		нг—		NaN		
+14		 »«ѕб		NaN		
+14		»—нЎ«дн«		NaN		
+14		 “нѕ		NaN		
+14		 “«б		NaN		
+14		«бёжгн		NaN		
+14		гд«		NaN		
+14		б” 		NaN		
+14		«бЋёнб		NaN		
+14		«бЋёЁн		NaN		
+14		бЏ» 		NaN		
+14		«бЏ«бн		NaN		
+14		нжЁё		NaN		
+14		ЌѕЋ 		NaN		
+14		нёжѕ		NaN		
+14		нЁя—		NaN		
+14		нЏ гѕ		NaN		
+14		Ќ«“г		NaN		
+14		нд ен		NaN		
+13		Ќгб		NaN		
+13		«бгЏбё		NaN		
+13		Ќѕѕ		NaN		
+13		«б«Ё÷б		NaN		
+13		»нЏ		NaN		
+13		«ёб		NaN		
+13		«бг”бг		NaN		
+13		нќѕг		NaN		
+13		ћг«ен—н		NaN		
+13		нћнѕ		NaN		
+13		«бг’«»нд		NaN		
+13		н жёЁ		NaN		
+13		»Џнѕ		NaN		
+13		«бж«ћ»		NaN		
+13		«б«”«”н		NaN		
+13		Џ«дм		NaN		
+13		«бќЎ—		NaN		
+13		д«ѕ—		NaN		
+13		«б»бж‘н		NaN		
+13		ћѕнѕ«		NaN		
+13		«бг ж«’б		NaN		
+13		 жће		NaN		
+13		«” џб		NaN		
+13		«б”—«Ќ		NaN		
+13		 гбя		NaN		
+13		 г ѕ		NaN		
+13		г—нЌ		NaN		
+13		«б«” —«бн		NaN		
+13		 Џгб		NaN		
+13		«б’ндн		NaN		
+13		’Ё—«Ѕ		NaN		
+13		«Џ б 		NaN		
+13		 ‘гб		NaN		
+13		« Ќ«ѕн		NaN		
+13		«Џ —Ё		NaN		
+13		«Џ »—		NaN		
+13		« ’б		NaN		
+13		 ”Џм		NaN		
+13		ж’Ё		NaN		
+13		 ѕЁЏ		NaN		
+13		гдЏ		NaN		
+13		ггд		NaN		
+13		«б«ж—ж»н		NaN		
+13		я »		NaN		
+13		ёб 		NaN		
+13		‘ќ’н«		NaN		
+13		”бнг		NaN		
+13		нджн		NaN		
+13		нгдЌ		NaN		
+13		«бггн“		NaN		
+13		Џ«б		NaN		
+13		÷џЎ		NaN		
+13		«б«н”—		NaN		
+13		нЏ‘ё		NaN		
+12		Ќўн		NaN		
+12		»Џнѕ«		NaN		
+12		н‘гб		NaN		
+12		н‘яб		NaN		
+12		 ёб		NaN		
+12		 ёЁ		NaN		
+12		н—ЁЏ		NaN		
+12		«бгЏѕ		NaN		
+12		«бгёежн		NaN		
+12		«бж”Ўм		NaN		
+12		«б«ћ г«Џн		NaN		
+12		«бЏ‘—		NaN		
+12		«б«Џб«гн		NaN		
+12		бЏ»д«		NaN		
+12		«бќг”		NaN		
+12		’ѕ— 		NaN		
+12		«бЏбн«дн		NaN		
+12		Џ“		NaN		
+12		«б’г		NaN		
+12		нЁ —÷		NaN		
+12		н «»Џ		NaN		
+12		н д«”»		NaN		
+12		 жбн		NaN		
+12		 ёжб		NaN		
+12		 ё»б		NaN		
+12		«»ѕм		NaN		
+12		«б”«»ёнд		NaN		
+12		еб«бн		NaN		
+12		«” г— 		NaN		
+12		 Ќ’б		NaN		
+12		 Ќ”д		NaN		
+12		 ћгЏ		NaN		
+12		  ће		NaN		
+12		нжёЏ		NaN		
+12		ндћЌ		NaN		
+12		«бгяжд		NaN		
+12		Ў»н		NaN		
+12		’ж»		NaN		
+12		’Џ»		NaN		
+12		’ѕ—		NaN		
+12		”ёЎ		NaN		
+12		«бяжбжг»н		NaN		
+12		б«Ё 		NaN		
+12		гд«”»		NaN		
+11		«бг” Ќё		NaN		
+11		ѕ«г		NaN		
+11		«” ѕЏм		NaN		
+11		«бЏ—нЁн		NaN		
+11		«бгЏћб		NaN		
+11		»б«Џ»		NaN		
+11		«бгЎжЏ		NaN		
+11		 д’		NaN		
+11		Џ—»н«		NaN		
+11		гѕ—»нд		NaN		
+11		«ѕм		NaN		
+11		«б «—нќн		NaN		
+11		нќ”—		NaN		
+11		«бё«—н		NaN		
+11		«бЎгжЌ		NaN		
+11		«— я»		NaN		
+11		”жн”—н		NaN		
+11		н” Ёнѕ		NaN		
+11		«бг гн“нд		NaN		
+11		«б«ќ—м		NaN		
+11		«б«»—“		NaN		
+11		я«ѕ 		NaN		
+11		«бЁ—ѕн		NaN		
+11		н Џ—÷		NaN		
+11		ќ«—ћн		NaN		
+11		г‘ѕѕ«		NaN		
+11		«‘ гб 		NaN		
+11		гяжд		NaN		
+11		н —ѕѕ		NaN		
+11		«б Ќё		NaN		
+11		Џ»ѕ«бЌЁнў		NaN		
+11		г‘ —я		NaN		
+11		—ж”«		NaN		
+11		гЁ’б		NaN		
+11		н Ќёё		NaN		
+11		«бг гн“		NaN		
+11		«бЌ«ѕн		NaN		
+11		ё«ѕг«		NaN		
+11		гќ бЁ нд		NaN		
+11		гЏнд		NaN		
+11		 я гб		NaN		
+11		 жЁ—		NaN		
+11		«бе“«“н		NaN		
+11		нЎ«б»		NaN		
+11		нЌ —г		NaN		
+11		«ббдѕдн		NaN		
+11		«б’Ќ«Ён		NaN		
+11		гЌбн		NaN		
+11		«бгд÷гнд		NaN		
+11		ќ«б’		NaN		
+11		«дЎбё		NaN		
+11		«бгя”нян		NaN		
+11		жћѕ 		NaN		
+11		ѕ—жџ»«		NaN		
+11		н÷Џ		NaN		
+11		« Ёё		NaN		
+11		 ”»ё		NaN		
+11		нгЋбжд		NaN		
+11		Ё—нѕ		NaN		
+11		 ќбЁ		NaN		
+11		”нЎ—		NaN		
+11		 ќѕг		NaN		
+11		«б«—ѕдн		NaN		
+11		«” ё«б		NaN		
+11		«б«нћ«»н		NaN		
+11		 »Џѕ		NaN		
+11		Ёж—н«		NaN		
+11		«бд«ћг		NaN		
+11		Џгѕ		NaN		
+11		«бЌ”«жн		NaN		
+11		ён«”н		NaN		
+11		«б«”нжн		NaN		
+11		“«—		NaN		
+11		“«ѕ		NaN		
+11		нЏЎн		NaN		
+10		нЎгЌ		NaN		
+10		Џгбн		NaN		
+10		«бёѕнг		NaN		
+10		«бЏгб«ё		NaN		
+10		 ж«ће		NaN		
+10		«ќ  г		NaN		
+10		«г—		NaN		
+10		ћЏб 		NaN		
+10		г»«‘—		NaN		
+10		нѕЁЏ		NaN		
+10		нЌѕѕ		NaN		
+10		нЋн—		NaN		
+10		«б—‘нѕ		NaN		
+10		н —я		NaN		
+10		н»—“		NaN		
+10		н жбм		NaN		
+10		ћѕѕ 		NaN		
+10		дЏгб		NaN		
+10		н гдм		NaN		
+10		«бгƒяѕ		NaN		
+10		«бгƒё 		NaN		
+10		 ” ЎнЏ		NaN		
+10		нё«—»		NaN		
+10		н ёѕг		NaN		
+10		д” ЎнЏ		NaN		
+10		«‘ —Ў		NaN		
+10		г«“«б		NaN		
+10		«б«” «ѕ		NaN		
+10		«бг»ѕ∆н		NaN		
+10		«бж«÷Ќ		NaN		
+10		«бћ“н—н		NaN		
+10		 ” ќѕг		NaN		
+10		«бЏ‘—нд		NaN		
+10		«б”бгн		NaN		
+10		 ” Ќё		NaN		
+10		«бЌ–—		NaN		
+10		—ж”н		NaN		
+10		«бџ—н»		NaN		
+10		н Ќ—я		NaN		
+10		»«—“		NaN		
+10		н—нѕжд		NaN		
+10		д’		NaN		
+10		«бћгнб		NaN		
+10		гЌѕжѕ		NaN		
+10		—Ё÷ 		NaN		
+10		«ёнг		NaN		
+10		 ѕ—н»н		NaN		
+10		гЏћ»		NaN		
+10		’«ѕё		NaN		
+10		 ѕ—н»н нд		NaN		
+10		 Џ«гб		NaN		
+10		жЎдн		NaN		
+10		«÷«Ё		NaN		
+10		«б«”б«гн		NaN		
+10		«бЁб”Ўндн		NaN		
+10		џ«ѕ— 		NaN		
+10		г”—Ќн		NaN		
+10		”б»н«		NaN		
+10		 Џгѕ		NaN		
+10		«б»—«“нбннд		NaN		
+10		«б»д«Ѕ		NaN		
+10		«Ќѕм		NaN		
+10		жће 		NaN		
+10		 ’—Ё		NaN		
+10		«бЏ—нё		NaN		
+10		нбн		NaN		
+10		«бгЁн—нћ		NaN		
+10		«б«еб«жн		NaN		
+10		« ќ–		NaN		
+10		няждж«		NaN		
+10		жѕн		NaN		
+10		г”ƒжб		NaN		
+10		Ё”нЌ		NaN		
+10		 –я—		NaN		
+10		ж«Ћё		NaN		
+10		д—м		NaN		
+10		Ќўн 		NaN		
+10		«бг” ёнб		NaN		
+10		 Ќжб		NaN		
+10		 Ќ—я		NaN		
+10		ёг 		NaN		
+10		ёЎЏ		NaN		
+10		«” ё»б		NaN		
+10		нд÷г		NaN		
+10		нбнё		NaN		
+10		«бћг«Џн		NaN		
+10		џ÷»		NaN		
+10		ня »		NaN		
+10		Ў—Ќ		NaN		
+10		’ж—		NaN		
+10		’ж 		NaN		
+10		«б—ен»		NaN		
+10		«б«нгд		NaN		
+10		‘—Ў		NaN		
+10		нѕ«ЁЏ		NaN		
+10		нЏя”		NaN		
+9		ѕ—»		NaN		
+9		«б«” »н«д		NaN		
+9		н÷нЁ		NaN		
+9		Ќћ“		NaN		
+9		н’»Ќ		NaN		
+9		н”гЌ		NaN		
+9		«б’«ѕё		NaN		
+9		«б’«ѕ—		NaN		
+9		ж«÷Ќ«		NaN		
+9		Џёѕ 		NaN		
+9		«ќ н—		NaN		
+9		«бг’«»		NaN		
+9		н—Ќб		NaN		
+9		«бяжбг»н		NaN		
+9		«ег		NaN		
+9		нѕн—		NaN		
+9		нѕж—		NaN		
+9		нЌ÷—		NaN		
+9		дёжг		NaN		
+9		нЌ—“		NaN		
+9		н ќ–		NaN		
+9		 ЌѕЋ 		NaN		
+9		н»Џѕ		NaN		
+9		«б я нян		NaN		
+9		ѕЁ«Џн		NaN		
+9		гё»жб		NaN		
+9		Ў«б»ж«		NaN		
+9		дЏ—Ё		NaN		
+9		дЎгЌ		NaN		
+9		’д«Џ		NaN		
+9		« ќ– 		NaN		
+9		«‘ гб		NaN		
+9		‘«—«»жЁ«		NaN		
+9		ѕќб 		NaN		
+9		ёгд«		NaN		
+9		«бебнб		NaN		
+9		Џ«ѕ 		NaN		
+9		«д ёб 		NaN		
+9		г— »Ў		NaN		
+9		я« «бждн«		NaN		
+9		н” Ќёжд		NaN		
+9		«бЌг—		NaN		
+9		«бгжёжЁ		NaN		
+9		 ”»» 		NaN		
+9		«бж«ѕЏн		NaN		
+9		 ”«Џѕ		NaN		
+9		Ќёёд«		NaN		
+9		«б «г		NaN		
+9		«б«ёб		NaN		
+9		“«е—		NaN		
+9		«бгЋ«бн		NaN		
+9		ё«ѕ—нд		NaN		
+9		«бдћ—«дн		NaN		
+9		дўнЁнд		NaN		
+9		«бЌ«÷—		NaN		
+9		г—		NaN		
+9		ўд		NaN		
+9		«б ‘нќн		NaN		
+9		«бг ёѕг		NaN		
+9		гЏбё		NaN		
+9		‘жеѕ		NaN		
+9		 ћ«еб		NaN		
+9		б«Џ»жд«		NaN		
+9		«” бг		NaN		
+9		г”бг		NaN		
+9		«бг— ё»		NaN		
+9		«бдг—н		NaN		
+9		–« не		NaN		
+9		 д«жб		NaN		
+9		г«ѕн		NaN		
+9		 Џя”		NaN		
+9		г” г—		NaN		
+9		«Ќ б		NaN		
+9		«ћ—м		NaN		
+9		–е» 		NaN		
+9		н’»		NaN		
+9		н” Џѕ		NaN		
+9		 ”бб		NaN		
+9		нЋё		NaN		
+9		джѕ		NaN		
+9		‘«еѕ 		NaN		
+9		 ѕж—		NaN		
+9		«д ёѕ		NaN		
+9		  жнћ		NaN		
+9		«б»н÷«Ѕ		NaN		
+9		  жёЁ		NaN		
+9		 Ќѕѕ		NaN		
+9		”дЌ 		NaN		
+9		  ќ–		NaN		
+9		ёѕгж«		NaN		
+9		нж÷Ќ		NaN		
+9		ндЎбё		NaN		
+9		ндЎ»ё		NaN		
+9		нгдЏ		NaN		
+9		 ж«’б 		NaN		
+9		 ќ бЁ		NaN		
+9		«б’»н«дн		NaN		
+9		 ќ  г		NaN		
+9		Ё«—ё		NaN		
+9		«бгЏджн		NaN		
+9		нЁж“		NaN		
+9		нЁ÷б		NaN		
+9		нЁ Ќ		NaN		
+9		«бгбЌг		NaN		
+9		’дЏ		NaN		
+9		’Џѕ		NaN		
+9		’—Ё		NaN		
+9		  Џбё		NaN		
+9		Ќ«Ёў		NaN		
+9		‘џб		NaN		
+9		‘ѕѕ		NaN		
+9		ћгнб		NaN		
+9		”еб		NaN		
+9		—н«÷ннд		NaN		
+9		«б’ЌнЌ		NaN		
+9		нЏн‘		NaN		
+9		—Ќ»		NaN		
+9		«бг” г—		NaN		
+9		«б»«—“		NaN		
+8		ѕЏ«		NaN		
+8		нЎ—Ќ		NaN		
+8		« гдм		NaN		
+8		Ќб 		NaN		
+8		Ќѕ«		NaN		
+8		н‘еѕ		NaN		
+8		»дн		NaN		
+8		»ѕ«		NaN		
+8		”ћб 		NaN		
+8		Џ‘—« 		NaN		
+8		ЌѕнЋ«		NaN		
+8		ѕЁЏ 		NaN		
+8		«г ѕЌ		NaN		
+8		«Ќ —«Ён		NaN		
+8		«бг—∆н		NaN		
+8		дёѕг		NaN		
+8		«бЏ«гбнд		NaN		
+8		  «»Џ		NaN		
+8		нЋ» 		NaN		
+8		нё ’—		NaN		
+8		ё—н»«		NaN		
+8		г Ё«∆б		NaN		
+8		Ќн« н		NaN		
+8		ћ«е“		NaN		
+8		д‘— 		NaN		
+8		«б—«гн		NaN		
+8		нќ  г		NaN		
+8		н” Џнд		NaN		
+8		«б’ЌЁннд		NaN		
+8		г«ѕн«		NaN		
+8		«бгёѕждн		NaN		
+8		«б“—ё«Ѕ		NaN		
+8		«б”»Џ		NaN		
+8		Ќёнён		NaN		
+8		«б”джн		NaN		
+8		н ÷гд		NaN		
+8		ѕ«∆г		NaN		
+8		’Џ»«		NaN		
+8		д»нб		NaN		
+8		н ’ѕ—		NaN		
+8		»—џг		NaN		
+8		н ”дм		NaN		
+8		н ѕ—»		NaN		
+8		’—нЌ		NaN		
+8		гЁ жЌ		NaN		
+8		’ЌЁн		NaN		
+8		ё—н»		NaN		
+8		«бе“«Џ		NaN		
+8		«б“ћ		NaN		
+8		«бб«“г		NaN		
+8		гЎбё		NaN		
+8		«бг ж«÷Џ		NaN		
+8		«бџ«дг		NaN		
+8		«бЏбгн		NaN		
+8		«” Џѕ		NaN		
+8		ќ—ћ 		NaN		
+8		нЌ ”»		NaN		
+8		«бг«бн“н		NaN		
+8		ё«б 		NaN		
+8		«Џбм		NaN		
+8		ё«ѕг		NaN		
+8		«бћЏнѕ		NaN		
+8		г я«гб		NaN		
+8		нб«ён		NaN		
+8		«бћ“«∆н		NaN		
+8		гдже«		NaN		
+8		г«бн		NaN		
+8		 Џдн		NaN		
+8		 Џбд		NaN		
+8		г« «		NaN		
+8		«” ЎЏд«		NaN		
+8		 ÷гд		NaN		
+8		б«Ќё«		NaN		
+8		«бдЏнг		NaN		
+8		нЏ—Ёжд		NaN		
+8		нёб		NaN		
+8		«бг »ён		NaN		
+8		н—ѕ		NaN		
+8		нЌб		NaN		
+8		Ё÷б 		NaN		
+8		нд ў—жд		NaN		
+8		Ё‘б 		NaN		
+8		‘ќ’н		NaN		
+8		 ёѕг 		NaN		
+8		е»Ў		NaN		
+8		е«г		NaN		
+8		ж«—ѕ		NaN		
+8		г÷ 		NaN		
+8		бЏб		NaN		
+8		«бЁ«∆“нд		NaN		
+8		нЏ”я—		NaN		
+8		«бг ж«ћѕнд		NaN		
+8		 »бџ		NaN		
+8		«б”«»ё нд		NaN		
+8		  я——		NaN		
+8		 »ЌЋ		NaN		
+8		”б»н		NaN		
+8		я«гб«		NaN		
+8		«б—н«÷нжд		NaN		
+8		»б«Џ»н		NaN		
+8		няЁн		NaN		
+8		«бг” ћѕнд		NaN		
+8		 ƒЋ—		NaN		
+8		нё÷н		NaN		
+8		нёѕ—		NaN		
+8		нЁнѕ		NaN		
+8		нЁжё		NaN		
+8		нЁег		NaN		
+8		нё»б		NaN		
+8		Џ—Ё		NaN		
+8		Џћ“		NaN		
+8		«б«гя«дн« 		NaN		
+8		ж«Ёё 		NaN		
+8		«бжЎдннд		NaN		
+8		‘гб		NaN		
+8		”Џѕ«Ѕ		NaN		
+8		ѕ«ќбн		NaN		
+7		г»ѕ∆н		NaN		
+7		ѕ«—		NaN		
+7		ќ«—ћн«		NaN		
+7		«бЏ—ндн		NaN		
+7		Ќ«д		NaN		
+7		ћ—м		NaN		
+7		«бгЎбё		NaN		
+7		 г—		NaN		
+7		«б’«Џѕ		NaN		
+7		 ÷Џ		NaN		
+7		 ’»		NaN		
+7		 ѕб		NaN		
+7		б«Ё  «Ќ		NaN		
+7		  Ќёё		NaN		
+7		н—Ё÷		NaN		
+7		»ЏЋ		NaN		
+7		н–е»		NaN		
+7		нѕЏг		NaN		
+7		н‘«—яжд		NaN		
+7		дбЏ»		NaN		
+7		«бЏ«гнд		NaN		
+7		нќ‘м		NaN		
+7		дёб 		NaN		
+7		 ” ягб		NaN		
+7		«б ёдн		NaN		
+7		дЁ”я		NaN		
+7		дЁ– 		NaN		
+7		«б«ћд»н		NaN		
+7		”«Ё—		NaN		
+7		н Ёё		NaN		
+7		ж«Ќѕ«		NaN		
+7		«бгЌѕѕ		NaN		
+7		«бгёнгнд		NaN		
+7		«бггн“нд		NaN		
+7		«— ѕ 		NaN		
+7		нёжбжд		NaN		
+7		«бЋё«Ён		NaN		
+7		 Ў«б»		NaN		
+7		нбЏ»жд		NaN		
+7		дЏжѕ		NaN		
+7		«б«—»Џ		NaN		
+7		нƒЋ—		NaN		
+7		нбЏ»«д		NaN		
+7		дўнЁ		NaN		
+7		–е»н нд		NaN		
+7		ж”нЎ—		NaN		
+7		«бЁЏбн		NaN		
+7		 ” ÷нЁ		NaN		
+7		нќ бЁ		NaN		
+7		«б—«ед		NaN		
+7		гЌбн«		NaN		
+7		«б«»н÷		NaN		
+7		‘е—ќ«дн		NaN		
+7		«Ё  Ќ		NaN		
+7		нг«—”		NaN		
+7		«бгжеж»		NaN		
+7		ѕ«ЁЏ		NaN		
+7		«бг»«‘—		NaN		
+7		 ” г—		NaN		
+7		г”«Џѕ«		NaN		
+7		н—«ё»		NaN		
+7		»—“ 		NaN		
+7		д«ў—		NaN		
+7		«б ём		NaN		
+7		»ЌЋ«		NaN		
+7		«бг ж”Ў		NaN		
+7		«Џ гѕ 		NaN		
+7		«бгнѕ«дн		NaN		
+7		«б”Џжѕн« 		NaN		
+7		нЁ ёѕ		NaN		
+7		«бб«Ё 		NaN		
+7		нЁ  Ќ		NaN		
+7		н д«жб		NaN		
+7		«б«Ё—нён		NaN		
+7		’«Џѕ		NaN		
+7		 жбм		NaN		
+7		 жёЏ		NaN		
+7		“гб«∆н		NaN		
+7		 ж—Ў		NaN		
+7		 жћ 		NaN		
+7		гЌ»не		NaN		
+7		«” еб		NaN		
+7		е« Ён		NaN		
+7		 дћЌ		NaN		
+7		 гдЏ		NaN		
+7		 бён		NaN		
+7		«Џ—Ё		NaN		
+7		«бг—«Ёё		NaN		
+7		Ў«б» 		NaN		
+7		«бЁ Ќ«жн		NaN		
+7		«‘—Ё		NaN		
+7		«б«д ќ«»н		NaN		
+7		«‘«ѕ		NaN		
+7		ќ«Ў∆		NaN		
+7		ѕќбж«		NaN		
+7		гбнжднд		NaN		
+7		ж’бдн		NaN		
+7		«б“бЁн		NaN		
+7		г»——		NaN		
+7		 Џнѕ		NaN		
+7		 Џ»—		NaN		
+7		бядн		NaN		
+7		г” Џѕ		NaN		
+7		 —я“ 		NaN		
+7		«б»ж—”Џнѕн		NaN		
+7		«Џ –—		NaN		
+7		«бЋб«Ћнд		NaN		
+7		н” џб		NaN		
+7		‘ѕнѕ		NaN		
+7		 ”ћб		NaN		
+7		«бЏѕѕн		NaN		
+7		 жёЁ 		NaN		
+7		гЌбннд		NaN		
+7		д’б		NaN		
+7		ѕжб”н		NaN		
+7		«б»«—“нд		NaN		
+7		гЏя		NaN		
+7		г—÷		NaN		
+7		бЁ 		NaN		
+7		«д ў—		NaN		
+7		«д “Џ		NaN		
+7		«бя«Ён		NaN		
+7		ябЁ		NaN		
+7		ёбб		NaN		
+7		 ћЏб		NaN		
+7		 ћ—н		NaN		
+7		 ё ’—		NaN		
+7		«” ё— 		NaN		
+7		«бЏ«ћн		NaN		
+7		 Џ«ѕб«		NaN		
+7		Ќ—н’		NaN		
+7		 ё«—»		NaN		
+7		неѕѕ		NaN		
+7		нден		NaN		
+7		нд”м		NaN		
+7		«бге гнд		NaN		
+7		Ќѕѕ 		NaN		
+7		«бгднЏ		NaN		
+7		«бгќ ’нд		NaN		
+7		ня‘Ё		NaN		
+7		 ж’б 		NaN		
+7		«б»ѕдн		NaN		
+7		«бгЏгжб		NaN		
+7		«” џ—»		NaN		
+7		«бг” ÷нЁ		NaN		
+7		 г бя		NaN		
+7		нЁ—÷		NaN		
+7		«” Џ«д		NaN		
+7		бЌё 		NaN		
+7		«бгё«б		NaN		
+7		’«—		NaN		
+7		‘Џ—		NaN		
+7		”Џм		NaN		
+7		  ÷гд		NaN		
+7		—гм		NaN		
+7		нЏнѕ		NaN		
+7		—”г		NaN		
+7		яб«ег«		NaN		
+7		Ќя«гд«		NaN		
+7		нЏёѕ		NaN		
+7		 бё«е		NaN		
+6		«б«жбннд		NaN		
+6		«ё ’—		NaN		
+6		«бгџдг		NaN		
+6		нЎ»ё		NaN		
+6		Ќ—г		NaN		
+6		н÷«Ё		NaN		
+6		«” ќѕг		NaN		
+6		Ќ–—		NaN		
+6		Ќ«“		NaN		
+6		н’Џ»		NaN		
+6		Џбё 		NaN		
+6		н‘н—		NaN		
+6		н‘ЁЏ		NaN		
+6		«ё ’— 		NaN		
+6		ён«”н«		NaN		
+6		 ег		NaN		
+6		 д”		NaN		
+6		 ёЏ		NaN		
+6		джЁё		NaN		
+6		 ќ’		NaN		
+6		н—жд		NaN		
+6		»д 		NaN		
+6		н—÷н		NaN		
+6		ддў—		NaN		
+6		дд”м		NaN		
+6		«ё —» 		NaN		
+6		«б‘Џб«д		NaN		
+6		«б’жн«д		NaN		
+6		«ќ–		NaN		
+6		«г ѕ 		NaN		
+6		н»«ѕ—		NaN		
+6		ќ—жће		NaN		
+6		”—нЏ«		NaN		
+6		«бгѕбћ		NaN		
+6		«бг‘«—яжд		NaN		
+6		н жћ		NaN		
+6		«бгќ’’		NaN		
+6		д” Ёнѕ		NaN		
+6		н»–б		NaN		
+6		«бг Ёё		NaN		
+6		ћѕн—		NaN		
+6		«бг»я—		NaN		
+6		«гн—ян		NaN		
+6		нƒ—ё		NaN		
+6		 ЌѕЋд«		NaN		
+6		н” ё»б		NaN		
+6		 ябб 		NaN		
+6		гг «“		NaN		
+6		«бќ «гн		NaN		
+6		«бЎн»		NaN		
+6		«бЏбн«д		NaN		
+6		«б’б»		NaN		
+6		нг «“		NaN		
+6		«бде÷«жн		NaN		
+6		«б«”»«д		NaN		
+6		гжѕ—д		NaN		
+6		«Ќ—“ 		NaN		
+6		Џ«ћб		NaN		
+6		гжћжѕ		NaN		
+6		«бЌ÷—н		NaN		
+6		г‘—Ё«		NaN		
+6		«бЁќ—н		NaN		
+6		»”нЎ		NaN		
+6		«б«бя —ждн		NaN		
+6		«бнжгн		NaN		
+6		нЌгбжд		NaN		
+6		гжЌѕ		NaN		
+6		д»ЌЋ		NaN		
+6		«бг‘нёЌ		NaN		
+6		«б ег		NaN		
+6		дћЌд«		NaN		
+6		«бЁ«Џб		NaN		
+6		гяЋЁ		NaN		
+6		«нћ«»н		NaN		
+6		н ѕќб		NaN		
+6		н Ќгб		NaN		
+6		ё«ѕ—жд		NaN		
+6		н” »Џѕ		NaN		
+6		«ебн		NaN		
+6		«еѕ—		NaN		
+6		»«я—		NaN		
+6		н Џ«гб		NaN		
+6		«Џбд 		NaN		
+6		д’—«жн		NaN		
+6		«бг—		NaN		
+6		«бЏ”я—н		NaN		
+6		«б” 		NaN		
+6		«яжд		NaN		
+6		«ёжм		NaN		
+6		гЁ«ћ∆		NaN		
+6		  жнће		NaN		
+6		«бЏднЁ		NaN		
+6		«бџ«бн		NaN		
+6		’ЌнЌ«		NaN		
+6		гЌ»ж»		NaN		
+6		»«я—«		NaN		
+6		‘яб 		NaN		
+6		 дёб		NaN		
+6		«ћ гЏ 		NaN		
+6		 гн“		NaN		
+6		«бг—Ќжг		NaN		
+6		Ёжћ∆		NaN		
+6		«б генѕн		NaN		
+6		нб “г		NaN		
+6		«Џбг		NaN		
+6		ё«»б		NaN		
+6		 Ёёѕ		NaN		
+6		гЌбб		NaN		
+6		гЌёё		NaN		
+6		гЌѕѕ		NaN		
+6		«÷Ў—		NaN		
+6		гЋн—		NaN		
+6		’«Ќ» 		NaN		
+6		«дЏя”		NaN		
+6		Ўб» 		NaN		
+6		ж’бд«		NaN		
+6		 џн—		NaN		
+6		 џн»		NaN		
+6		г«ен		NaN		
+6		гЎ«б»«		NaN		
+6		г”ћб«		NaN		
+6		 Ўб»		NaN		
+6		гƒяѕ		NaN		
+6		 Ў»ё		NaN		
+6		нд’		NaN		
+6		нёЏ		NaN		
+6		« ег		NaN		
+6		н’—		NaN		
+6		н“ћ		NaN		
+6		 ”жѕ		NaN		
+6		нѕб		NaN		
+6		—«Џн		NaN		
+6		нќЁ		NaN		
+6		 ”гм		NaN		
+6		« ће		NaN		
+6		жЁм		NaN		
+6		ж” 		NaN		
+6		 —нѕ		NaN		
+6		 —ЁЏ		NaN		
+6		н”«ег		NaN		
+6		 —‘Ќ		NaN		
+6		 —»Ў		NaN		
+6		«” Ёѕд«		NaN		
+6		еѕѕ		NaN		
+6		ѕжбн«		NaN		
+6		ж«”Џ		NaN		
+6		«бЏћж“		NaN		
+6		ћ«еѕнд		NaN		
+6		 ѕЏж		NaN		
+6		гЁ жЌ«		NaN		
+6		бён		NaN		
+6		«д ўг		NaN		
+6		 ЌнЎ		NaN		
+6		нЌ «ћжд		NaN		
+6		«бя«гб		NaN		
+6		«бднћн—н		NaN		
+6		ёнб		NaN		
+6		ё÷м		NaN		
+6		 ћѕѕ		NaN		
+6		«бёбнб		NaN		
+6		Џ«бн«		NaN		
+6		 Ћ» 		NaN		
+6		«бЏ«г—		NaN		
+6		«бќн«—		NaN		
+6		  ÷Ќ		NaN		
+6		нжёЁ		NaN		
+6		ёѕгд«		NaN		
+6		нжће		NaN		
+6		«бгдћ“« 		NaN		
+6		неѕЁ		NaN		
+6		бнден		NaN		
+6		ндў—		NaN		
+6		«”«”н«		NaN		
+6		гѕќбн		NaN		
+6		«” Ў«Џ 		NaN		
+6		нягб		NaN		
+6		«бд«ћЌ		NaN		
+6		нё——		NaN		
+6		нё»Џ		NaN		
+6		«бгбям		NaN		
+6		÷—»		NaN		
+6		÷ќг		NaN		
+6		ћж«б		NaN		
+6		«бгЁ÷б		NaN		
+6		нЏ«жѕ		NaN		
+6		‘ня		NaN		
+6		ггн“«		NaN		
+6		нЏ«ѕб		NaN		
+6		Ќ«’б		NaN		
+6		гд ўг		NaN		
+6		нб ён«д		NaN		
+6		 ж«ћѕн		NaN		
+6		  ЎбЏ		NaN		
+6		Ё		NaN		
+6		«б«н—бдѕн		NaN		
+6		—џ»		NaN		
+6		нд ўг		NaN		
+6		«б»«я—		NaN		
+6		«б«д”»		NaN		
+6		«б“н«дн		NaN		
+5		ѕ—”		NaN		
+5		нЎбё		NaN		
+5		ќбё		NaN		
+5		нд«Ё”		NaN		
+5		ќЎЎ		NaN		
+5		нд«”»		NaN		
+5		н÷гд		NaN		
+5		«б«”г—н		NaN		
+5		Џгнё		NaN		
+5		ЌЁў		NaN		
+5		жё«∆ѕ		NaN		
+5		Џгб 		NaN		
+5		д ЌѕЋ		NaN		
+5		«б«ёжм		NaN		
+5		«б«я»—		NaN		
+5		«бёѕн—		NaN		
+5		 «»Џ 		NaN		
+5		Џбня		NaN		
+5		Џбгн		NaN		
+5		гƒё «		NaN		
+5		 ж«Ёё		NaN		
+5		жЌнѕ«		NaN		
+5		н‘—я		NaN		
+5		н‘»е		NaN		
+5		н”ег		NaN		
+5		н”бг		NaN		
+5		ж«’бж«		NaN		
+5		н”ѕѕ		NaN		
+5		 Ќѕ		NaN		
+5		 «г		NaN		
+5		«б еѕнЁн		NaN		
+5		н—я“		NaN		
+5		»–б		NaN		
+5		«гб		NaN		
+5		 ” еѕЁ		NaN		
+5		г ж«’б		NaN		
+5		нЌ”д		NaN		
+5		нЌ—я		NaN		
+5		дёѕ—		NaN		
+5		нћѕ—		NaN		
+5		«бжЎдм		NaN		
+5		 Ё  Ќ		NaN		
+5		«бгд‘жѕ		NaN		
+5		”«Џѕ		NaN		
+5		н ће		NaN		
+5		н »ё		NaN		
+5		дЌ «ћ		NaN		
+5		ћ«“«д		NaN		
+5		«б”«Ќбн		NaN		
+5		«б«Џб«гннд		NaN		
+5		ћг«Џн		NaN		
+5		«бгЋн—		NaN		
+5		«бЌднЁ		NaN		
+5		«бгЏ гѕ		NaN		
+5		г” Ќё« н		NaN		
+5		 Ќ ÷д		NaN		
+5		»бѕн		NaN		
+5		 ÷гд 		NaN		
+5		 ќббе«		NaN		
+5		н гн“		NaN		
+5		»ён 		NaN		
+5		нгбяе«		NaN		
+5		н гЋб		NaN		
+5		н бём		NaN		
+5		« —«г		NaN		
+5		«бг »«ѕб		NaN		
+5		«бя—ж« н		NaN		
+5		÷«∆Џ		NaN		
+5		гж’жб		NaN		
+5		гЎбё«		NaN		
+5		д”гЏ		NaN		
+5		ё«дждн		NaN		
+5		«б Ќянгн		NaN		
+5		нќ «—		NaN		
+5		ё«гж«		NaN		
+5		ќЎн»н		NaN		
+5		ё«бж«		NaN		
+5		«’Ўѕг 		NaN		
+5		я«д«		NaN		
+5		гЌёё«		NaN		
+5		н џгѕ		NaN		
+5		«б”еб		NaN		
+5		Џ«ѕн		NaN		
+5		гќ бЁ«		NaN		
+5		Џ«ћ“		NaN		
+5		”нб«ён		NaN		
+5		«бя« «бждн		NaN		
+5		«бг—ѕ«”н		NaN		
+5		н Ўб»		NaN		
+5		н— ѕн		NaN		
+5		«б‘«џ—		NaN		
+5		»«—“нд		NaN		
+5		«б«”я бдѕн		NaN		
+5		д«б 		NaN		
+5		д«ё‘		NaN		
+5		гдўг		NaN		
+5		«б ”жнён		NaN		
+5		н—џ»жд		NaN		
+5		нж«Ёё		NaN		
+5		нж«“н		NaN		
+5		гёдЏ		NaN		
+5		«бЏ”н—н		NaN		
+5		де«∆н«		NaN		
+5		гё«г		NaN		
+5		«б”Џжѕм		NaN		
+5		ёЎЏ 		NaN		
+5		“«еѕ		NaN		
+5		«жёЁ		NaN		
+5		г” џ—»		NaN		
+5		«бЌ»н»		NaN		
+5		  д«”»		NaN		
+5		«бг гЋб		NaN		
+5		«дем		NaN		
+5		«де 		NaN		
+5		»«‘—«Ё		NaN		
+5		»«‘—		NaN		
+5		«гбя		NaN		
+5		ћЏбд«		NaN		
+5		 ѕ—нћн		NaN		
+5		ёѕг«		NaN		
+5		«бг—“жё		NaN		
+5		‘гб 		NaN		
+5		г’—н		NaN		
+5		«” ёб		NaN		
+5		 еѕЁ		NaN		
+5		нЌ жн		NaN		
+5		 я« Ё		NaN		
+5		нЌ гб		NaN		
+5		г‘ћЏ		NaN		
+5		«бджжн		NaN		
+5		 бнё		NaN		
+5		 Џ«дн		NaN		
+5		 ягд		NaN		
+5		ё«г«		NaN		
+5		н”Џжд		NaN		
+5		 я——		NaN		
+5		 ёнг		NaN		
+5		 ёжѕ		NaN		
+5		«бгжћжѕ		NaN		
+5		 Ё—÷		NaN		
+5		«ЎбЏ		NaN		
+5		«бгџбж»		NaN		
+5		«б«” —« нћн		NaN		
+5		 Џ«ёѕд«		NaN		
+5		«— ЁЏ 		NaN		
+5		Ёёѕ 		NaN		
+5		Ќ—н’нд		NaN		
+5		«бдё«»		NaN		
+5		бн»н		NaN		
+5		Ќгб 		NaN		
+5		«б”«Ќ—		NaN		
+5		«бћже—н		NaN		
+5		«б“гдн		NaN		
+5		«д ё«бн		NaN		
+5		д«еня		NaN		
+5		«ћ «“		NaN		
+5		«—«ѕ		NaN		
+5		 ЏЎн		NaN		
+5		 Џ–—		NaN		
+5		«бг‘ —я		NaN		
+5		«ѕ—я		NaN		
+5		«б»—«“нбн«д		NaN		
+5		ѕжбннд		NaN		
+5		«я ”»		NaN		
+5		 ÷нЏ		NaN		
+5		Ёўе—		NaN		
+5		г»нд«		NaN		
+5		нжб		NaN		
+5		‘—Џн		NaN		
+5		нёг		NaN		
+5		«Џ “б		NaN		
+5		«бЏдё—н		NaN		
+5		нўб		NaN		
+5		 ”гЌ		NaN		
+5		 ”ёЎ		NaN		
+5		« ÷Ќ		NaN		
+5		ћ«е“жд		NaN		
+5		жЏѕ		NaN		
+5		”джн«		NaN		
+5		«»Џѕ		NaN		
+5		«бЏ«бгннд		NaN		
+5		«бћ«е“		NaN		
+5		дяд		NaN		
+5		д гдм		NaN		
+5		«бЏ—«ённд		NaN		
+5		г÷н		NaN		
+5		г÷м		NaN		
+5		г——		NaN		
+5		 ќбж		NaN		
+5		 ќ÷Џ		NaN		
+5		Ё—÷ 		NaN		
+5		«ѕ«—н		NaN		
+5		 ќ—ћ		NaN		
+5		Ё—ѕн		NaN		
+5		Ќёнён«		NaN		
+5		 ЌЁў		NaN		
+5		«бгЎ«б»		NaN		
+5		 Ќ—“		NaN		
+5		я”—		NaN		
+5		н г Џж«		NaN		
+5		яЋЁ		NaN		
+5		ёЁ“		NaN		
+5		ё–Ё		NaN		
+5		”еб«		NaN		
+5		«бЏ»ѕн		NaN		
+5		г ёѕг«		NaN		
+5		«бЏ«ѕн		NaN		
+5		  ж«’б		NaN		
+5		н»ЌЋжд		NaN		
+5		«бядџжбн		NaN		
+5		”яд 		NaN		
+5		ндЁ–		NaN		
+5		«бнжџ”б«Ён		NaN		
+5		б”д«		NaN		
+5		«б’џ«—		NaN		
+5		«б’Џ«»		NaN		
+5		«бгЏежѕ		NaN		
+5		 Ќжб 		NaN		
+5		џб»		NaN		
+5		гƒяѕнд		NaN		
+5		ня”»		NaN		
+5		«бгдўг		NaN		
+5		нЎ«б»жд		NaN		
+5		«бгд÷г		NaN		
+5		нёбб		NaN		
+5		гЏ —я		NaN		
+5		Џбё		NaN		
+5		нЁЏб		NaN		
+5		џ—н»		NaN		
+5		нЁ’Ќ		NaN		
+5		«Ќ —«Ён«		NaN		
+5		Ўн»		NaN		
+5		÷нё		NaN		
+5		ж Џ«бм		NaN		
+5		г«“«б 		NaN		
+5		ндќ—Ў		NaN		
+5		Ќ«б 		NaN		
+5		‘—Ќ		NaN		
+5		  Ўб»		NaN		
+5		”«—		NaN		
+5		нџн—		NaN		
+5		 бёж«		NaN		
+5		«		NaN		
+5		—“ё		NaN		
+5		–нб		NaN		
+5		б«Ќё		NaN		
+5		—«÷		NaN		
+4		«бг” Ќнб		NaN		
+4		ЏднЁ		NaN		
+4		«бгџбё		NaN		
+4		ќѕг		NaN		
+4		Ќё«		NaN		
+4		Џгб«		NaN		
+4		«б«яЋ—		NaN		
+4		Ќ‘ѕ		NaN		
+4		н’дЏ		NaN		
+4		«” Ќж–		NaN		
+4		н” ЎнЏжд		NaN		
+4		«бЌ÷«—н		NaN		
+4		г—ежд		NaN		
+4		 ж«“н		NaN		
+4		нгядя		NaN		
+4		н‘—Ќ		NaN		
+4		н‘«—		NaN		
+4		бн”ж«		NaN		
+4		 жѕ		NaN		
+4		н”ѕб		NaN		
+4		ж«’б 		NaN		
+4		 ”нЎ—		NaN		
+4		гдЁ—ѕ«		NaN		
+4		н—«г		NaN		
+4		»—“		NaN		
+4		н» Џѕ		NaN		
+4		«бг”Ё—		NaN		
+4		дгбя		NaN		
+4		«Ќ»		NaN		
+4		г ж«÷Џ		NaN		
+4		нќЎЎ		NaN		
+4		гё——«		NaN		
+4		н—ЁЏжд		NaN		
+4		нЌян		NaN		
+4		нжгн«		NaN		
+4		нЌ”г		NaN		
+4		дёжб		NaN		
+4		нЌ—’		NaN		
+4		нЌћ»		NaN		
+4		г ж«ћѕнд		NaN		
+4		«бнжд«дн		NaN		
+4		гёѕг«		NaN		
+4		«б”жЁн н		NaN		
+4		дЁж“		NaN		
+4		нћѕѕ		NaN		
+4		“жћн		NaN		
+4		дЁя—		NaN		
+4		гжЁё«		NaN		
+4		”»ё 		NaN		
+4		дЁ«е		NaN		
+4		«бд«’—н		NaN		
+4		 ” ё»б		NaN		
+4		«бгян		NaN		
+4		÷—» 		NaN		
+4		”«— 		NaN		
+4		г’«»«		NaN		
+4		«бг«д		NaN		
+4		«бЌгнѕн		NaN		
+4		Џўнг		NaN		
+4		Џўгм		NaN		
+4		«б«’бн		NaN		
+4		«б«’Ё—		NaN		
+4		ж«Ћё«		NaN		
+4		нёжгжд		NaN		
+4		«— ЁЏ		NaN		
+4		г‘яжя		NaN		
+4		«бќ«бн		NaN		
+4		ћѕн«		NaN		
+4		н жће		NaN		
+4		н жћ»		NaN		
+4		«” ÷«Ё 		NaN		
+4		«б«“—ё		NaN		
+4		я—г 		NaN		
+4		«бд—жнћн		NaN		
+4		нж«’бжд		NaN		
+4		нё —»		NaN		
+4		дЏбг		NaN		
+4		«бг«ћѕ		NaN		
+4		нгбяжд		NaN		
+4		д” џдн		NaN		
+4		«Џѕ«ѕн		NaN		
+4		Џ—Ё 		NaN		
+4		н Ёжё		NaN		
+4		гЎбж»		NaN		
+4		«‘ е—		NaN		
+4		«б‘—ён		NaN		
+4		гќ«бЁ		NaN		
+4		«б‘«∆Џ« 		NaN		
+4		« ће 		NaN		
+4		гЏ »—«		NaN		
+4		Ћгнд		NaN		
+4		д—џ»		NaN		
+4		нќ«бЁ		NaN		
+4		—«∆Џ«		NaN		
+4		г«—” 		NaN		
+4		«бж«Џѕ		NaN		
+4		«б’бн»н		NaN		
+4		гг«Ћб		NaN		
+4		ёбнб		NaN		
+4		дѕ—я		NaN		
+4		 –«я—		NaN		
+4		бЏ»ж«		NaN		
+4		н џн—		NaN		
+4		«бЁ—нѕ		NaN		
+4		«б”н∆		NaN		
+4		«б”б”		NaN		
+4		ёб»н		NaN		
+4		Џ«жѕ		NaN		
+4		«б”ќн		NaN		
+4		Џ«Ўб		NaN		
+4		 джЏ 		NaN		
+4		Џ«∆ѕ		NaN		
+4		г«ЌѕЋ		NaN		
+4		г— «д		NaN		
+4		г—‘Ќнд		NaN		
+4		дћЌ«		NaN		
+4		гџбё«		NaN		
+4		«бЌ’—н		NaN		
+4		’џн—		NaN		
+4		н Ў—ё		NaN		
+4		д Ёё		NaN		
+4		 ” Ћг—		NaN		
+4		«б‘«гб		NaN		
+4		«б«Џ÷«Ѕ		NaN		
+4		’џ«—		NaN		
+4		ѕ«— 		NaN		
+4		гЁ÷б«		NaN		
+4		«б’«Џѕнд		NaN		
+4		н— »Ў		NaN		
+4		нбё«е		NaN		
+4		гж—ж”ндн		NaN		
+4		гж «		NaN		
+4		 ” Џѕ		NaN		
+4		«Ќ —Ё		NaN		
+4		н ”бг		NaN		
+4		»–б 		NaN		
+4		 ”«ег		NaN		
+4		«б«÷«Ён		NaN		
+4		»ѕ«ЁЏ		NaN		
+4		Џ‘ж«∆н		NaN		
+4		«б ”Џ		NaN		
+4		«ћд»н		NaN		
+4		ћ«—”н«		NaN		
+4		гё——		NaN		
+4		н ќб’		NaN		
+4		ёбнб«		NaN		
+4		ё——д«		NaN		
+4		н Ќѕѕ		NaN		
+4		нћнѕжд		NaN		
+4		«бгё —Ќ		NaN		
+4		ѕ«ќбн«		NaN		
+4		н‘«еѕ		NaN		
+4		г»ѕ∆н«		NaN		
+4		«бћднд		NaN		
+4		н Џ«ёѕ		NaN		
+4		н Џ«ѕб		NaN		
+4		Ёя		NaN		
+4		’д		NaN		
+4		‘д		NaN		
+4		—ЁнЏ		NaN		
+4		б«г” 		NaN		
+4		«бгЌ		NaN		
+4		«бџм		NaN		
+4		ё«ѕ—«		NaN		
+4		гџбё		NaN		
+4		«янѕ		NaN		
+4		ћЏбдн		NaN		
+4		«ё’м		NaN		
+4		«бгџ«ѕ—нд		NaN		
+4		«ё—»		NaN		
+4		 ћ«ж»		NaN		
+4		«‘ Џб 		NaN		
+4		н ќббе		NaN		
+4		 нян		NaN		
+4		‘е—н		NaN		
+4		Ќ«жб 		NaN		
+4		«бџ«б»		NaN		
+4		«” ќѕг 		NaN		
+4		гџ—»н		NaN		
+4		’«ѕ—		NaN		
+4		ќ”— 		NaN		
+4		 жЁн		NaN		
+4		«бџ«∆»		NaN		
+4		«дЌ’— 		NaN		
+4		 е г		NaN		
+4		г‘—ё		NaN		
+4		нЌ Ёў		NaN		
+4		г”гм		NaN		
+4		дд ў—		NaN		
+4		 д”м		NaN		
+4		«бћ»—нд		NaN		
+4		«б»н÷«жн		NaN		
+4		Ћ«» 		NaN		
+4		г”»ё		NaN		
+4		ге“ж“		NaN		
+4		 бЁ“нждн		NaN		
+4		ё«—н		NaN		
+4		«Џгб		NaN		
+4		ё«ѕ 		NaN		
+4		«б”н«”н		NaN		
+4		«ўе—		NaN		
+4		 ЁбЌ		NaN		
+4		ў«Ё—		NaN		
+4		—‘Ќ 		NaN		
+4		г Џ»нд		NaN		
+4		ж÷ЏЁ		NaN		
+4		«бяжн нжд		NaN		
+4		 д«ж»		NaN		
+4		 д«ёб		NaN		
+4		 д«Ё”		NaN		
+4		ббнжг		NaN		
+4		нЏ »—жд		NaN		
+4		«бдЁ“н		NaN		
+4		ќ«г”		NaN		
+4		«‘—я		NaN		
+4		«‘«—		NaN		
+4		«”Ёб		NaN		
+4		 «—нќн		NaN		
+4		ж“Џ 		NaN		
+4		 гяд 		NaN		
+4		«—нѕ		NaN		
+4		 Џбг		NaN		
+4		«бё«дждн		NaN		
+4		 Џ’Ё		NaN		
+4		«ѕќб		NaN		
+4		гƒнѕ		NaN		
+4		Ќ«÷—«		NaN		
+4		гƒё 		NaN		
+4		«бгЎ—жЌ		NaN		
+4		 Ў—ё		NaN		
+4		ќ”—д«		NaN		
+4		ггн“нд		NaN		
+4		г” џ—»«		NaN		
+4		«бдўнЁ		NaN		
+4		–едн		NaN		
+4		г”»ё«		NaN		
+4		 ’»Ќ		NaN		
+4		«бЏ—н÷		NaN		
+4		—«жџ		NaN		
+4		н” бг		NaN		
+4		—«Ёё		NaN		
+4		н÷—		NaN		
+4		«Џ «ѕ		NaN		
+4		 ”ег		NaN		
+4		н ё«»б		NaN		
+4		«дќЁ÷		NaN		
+4		жбѕ		NaN		
+4		«бг «»Џ		NaN		
+4		«бѕ—«”н		NaN		
+4		«дќ—Ў		NaN		
+4		 —я 		NaN		
+4		 —џ»		NaN		
+4		«дЌ’—		NaN		
+4		е“г		NaN		
+4		е“ 		NaN		
+4		«б»жбнЁн		NaN		
+4		џ«б«я”н		NaN		
+4		«бгЁ«ж÷		NaN		
+4		«бћ«”—		NaN		
+4		«ќ бЁ 		NaN		
+4		д‘Ў		NaN		
+4		«бЋгнд		NaN		
+4		 ѕн—		NaN		
+4		 ѕ—»		NaN		
+4		 ќж÷		NaN		
+4		 ќЎм		NaN		
+4		«бЁ—д”ннд		NaN		
+4		«б’Ё«ё		NaN		
+4		 ЌЁб		NaN		
+4		 Ќ”г		NaN		
+4		 Ќ—’		NaN		
+4		Ќ÷— 		NaN		
+4		яЋ—		NaN		
+4		я«Ё		NaN		
+4		ёбё		NaN		
+4		  —«жЌ		NaN		
+4		г  «бн нд		NaN		
+4		”ж—н		NaN		
+4		 ћ—м		NaN		
+4		Ќ’ѕ 		NaN		
+4		«” ёб 		NaN		
+4		”джн		NaN		
+4		‘«гб		NaN		
+4		 Ёжё 		NaN		
+4		Ё г		NaN		
+4		дќ бЁ		NaN		
+4		«бЏ«гб		NaN		
+4		 Ќянгн		NaN		
+4		  гЋб		NaN		
+4		»«Ё  «Ќ		NaN		
+4		«” Ёѕ 		NaN		
+4		нжЁ—		NaN		
+4		”«бгнд		NaN		
+4		Ё«“ж«		NaN		
+4		Ќ—г 		NaN		
+4		Ќж«—н		NaN		
+4		 »—“		NaN		
+4		 ё«»б		NaN		
+4		ндЁн		NaN		
+4		«б»‘—н		NaN		
+4		«б’џ—м		NaN		
+4		Ё Ќ 		NaN		
+4		«бгжЁё		NaN		
+4		нбег		NaN		
+4		”н«”н		NaN		
+4		нбЁ 		NaN		
+4		«бгжЌѕ		NaN		
+4		 —‘Ќн		NaN		
+4		нбЌё		NaN		
+4		«» Џѕ		NaN		
+4		«бгеѕѕ		NaN		
+4		«бд«е÷		NaN		
+4		 ƒѕн		NaN		
+4		Џдн		NaN		
+4		нё’ѕ		NaN		
+4		Џ““		NaN		
+4		Џ—»		NaN		
+4		Џѕ 		NaN		
+4		 ќ«бЁ		NaN		
+4		ўб 		NaN		
+4		«бг«÷н нд		NaN		
+4		«” Џѕ 		NaN		
+4		«” Џ«ѕ		NaN		
+4		Ў«б 		NaN		
+4		нЏ “г		NaN		
+4		«” ЎнЏ		NaN		
+4		«бгяЋЁ		NaN		
+4		«” ЎЏ 		NaN		
+4		”«∆бнд		NaN		
+4		нЏ«ё»		NaN		
+4		‘д 		NaN		
+4		‘яя		NaN		
+4		  Џѕм		NaN		
+4		‘ м		NaN		
+4		«б Ќбнбн		NaN		
+4		«’»Ќ 		NaN		
+4		 — ЁЏ		NaN		
+4		нд гн		NaN		
+4		—‘Ќ		NaN		
+4		дж«’б		NaN		
+4		нЏбё		NaN		
+4		—ѕ 		NaN		
+4		—Ќг		NaN		
+4		бб«”Ё		NaN		
+4		гд«Ќн		NaN		
+4		нЏ““		NaN		
+4		нЏ—÷		NaN		
+4		гЏ гѕнд		NaN		
+4		г»ѕн«		NaN		
+3		нд»џн		NaN		
+3		ѕЏ 		NaN		
+3		ќнг		NaN		
+3		ќ’’		NaN		
+3		гЎ«б»жд		NaN		
+3		Џдѕн		NaN		
+3		ќ«б		NaN		
+3		н÷—»		NaN		
+3		ЌЎг		NaN		
+3		н’бЌ		NaN		
+3		яЁнб		NaN		
+3		»—нЎ«дн		NaN		
+3		«бгЏ«—		NaN		
+3		«” Ќё 		NaN		
+3		«б«ё—»		NaN		
+3		г—ж—н		NaN		
+3		н’«»		NaN		
+3		н‘я—		NaN		
+3		«бгя‘жЁ		NaN		
+3		Ќ«жбж«		NaN		
+3		н”еб		NaN		
+3		н”гм		NaN		
+3		÷ЏнЁ		NaN		
+3		н”ёЎ		NaN		
+3		Ћ» 		NaN		
+3		 Џг		NaN		
+3		«б—«џ»нд		NaN		
+3		бн”ћб		NaN		
+3		 Ќб		NaN		
+3		ж«’Ё«		NaN		
+3		«бг’дЁ		NaN		
+3		бг«“нг»н		NaN		
+3		  Ќгб		NaN		
+3		«бгЏ—жЁнд		NaN		
+3		«ќ Ём		NaN		
+3		«ќ «— 		NaN		
+3		«бя»н—нд		NaN		
+3		  Ќѕѕ		NaN		
+3		”Ќнг		NaN		
+3		н—Ќ»		NaN		
+3		н—ћЌ		NaN		
+3		н—«е		NaN		
+3		»«ё		NaN		
+3		»«Џ		NaN		
+3		«бг’н—н		NaN		
+3		«бн		NaN		
+3		»н÷«Ѕ		NaN		
+3		«бг‘«—		NaN		
+3		«бг”гм		NaN		
+3		г—я“«		NaN		
+3		ѕёнё		NaN		
+3		«—м		NaN		
+3		«” »ѕб		NaN		
+3		«ѕ 		NaN		
+3		«Ўбё 		NaN		
+3		«бг”Ќб		NaN		
+3		« м		NaN		
+3		«бг“гд		NaN		
+3		«бг“гЏ		NaN		
+3		«” Ћг«—н		NaN		
+3		ЌѕнЋн		NaN		
+3		нѕ—”		NaN		
+3		г«бн«		NaN		
+3		нќн»		NaN		
+3		«—»нбж«		NaN		
+3		г ж«“д		NaN		
+3		«бЏ«гжѕн		NaN		
+3		 ѕ—н»н«		NaN		
+3		«бг—Џ»		NaN		
+3		«бг—÷н		NaN		
+3		Ўб»д«		NaN		
+3		нЌбж		NaN		
+3		«бгдЎён		NaN		
+3		«бг—ћЌ		NaN		
+3		н гядж«		NaN		
+3		«нћ«»н«		NaN		
+3		«бгнб«ѕн		NaN		
+3		«бё«ЎЏ		NaN		
+3		нћн»		NaN		
+3		«б ён«		NaN		
+3		нћеб		NaN		
+3		нЌ»–		NaN		
+3		«бё« б		NaN		
+3		«бгѕе‘		NaN		
+3		»нд 		NaN		
+3		«бгќнЁ		NaN		
+3		«б«ќн— нд		NaN		
+3		”»» 		NaN		
+3		н ег		NaN		
+3		н—Ё÷жд		NaN		
+3		н бё		NaN		
+3		«бгЌнЎ		NaN		
+3		«бг”«Џѕнд		NaN		
+3		н ÷Ќ		NaN		
+3		дЌ —г		NaN		
+3		ж«ће 		NaN		
+3		«б”бнЎнд		NaN		
+3		«бЁё—н		NaN		
+3		нќ‘жд		NaN		
+3		н” еѕЁ		NaN		
+3		«— ём		NaN		
+3		н»ѕЏ		NaN		
+3		гЁнѕ«		NaN		
+3		дЌ«жб		NaN		
+3		«б‘»нян		NaN		
+3		гЋ«бн		NaN		
+3		бн«ён		NaN		
+3		«бг жћ		NaN		
+3		ѕЏг 		NaN		
+3		«бг »Џ		NaN		
+3		н” г Џ		NaN		
+3		«б‘Џ»н		NaN		
+3		гЁежг		NaN		
+3		я—жн		NaN		
+3		« ”г 		NaN		
+3		нƒгд		NaN		
+3		«бг»——		NaN		
+3		«бЌянг		NaN		
+3		«б«—ћЌ		NaN		
+3		«б«нЎ«бннд		NaN		
+3		г—÷н«		NaN		
+3		 ЌѕЋж«		NaN		
+3		«бЌ—нён		NaN		
+3		Ќ÷—ж«		NaN		
+3		н‘ябжд		NaN		
+3		дўе—		NaN		
+3		дўг 		NaN		
+3		«б”ж«ѕн		NaN		
+3		г ёѕг		NaN		
+3		 Ќ«жб		NaN		
+3		—ЁЏж«		NaN		
+3		 б ён		NaN		
+3		г”«Џѕнд		NaN		
+3		«б«г«—« ннд		NaN		
+3		«б«ќжн		NaN		
+3		н яжд		NaN		
+3		Џ—÷ 		NaN		
+3		«ж«ќ—		NaN		
+3		—”гннд		NaN		
+3		«бгƒеб		NaN		
+3		÷«Џ 		NaN		
+3		нё« б		NaN		
+3		нё«»б		NaN		
+3		н ё»б		NaN		
+3		«бЁЏ«б		NaN		
+3		ћ»бн		NaN		
+3		г——д«		NaN		
+3		г‘џжб		NaN		
+3		д‘Џ—		NaN		
+3		«‘ —м		NaN		
+3		«‘ ѕ 		NaN		
+3		«б—«џ»		NaN		
+3		д”Џѕ		NaN		
+3		”»«ёнд		NaN		
+3		бняждж«		NaN		
+3		«бЋг«дн		NaN		
+3		«Џѕ«ѕн«		NaN		
+3		«” Џ«д 		NaN		
+3		«ћ г«Џн		NaN		
+3		«бћнѕнд		NaN		
+3		«‘«— 		NaN		
+3		”—Џ«д		NaN		
+3		«б÷ќг		NaN		
+3		 яЁб 		NaN		
+3		«бедѕн		NaN		
+3		дѕЏг		NaN		
+3		ќ«÷ж«		NaN		
+3		 ” ѕЏн		NaN		
+3		гд«Ё”нд		NaN		
+3		«б“«г»н		NaN		
+3		Џ«ёб		NaN		
+3		нг«Ўб		NaN		
+3		г” ж«я		NaN		
+3		н Џнд		NaN		
+3		Ќ’бж«		NaN		
+3		«б—ж”		NaN		
+3		Џб«ћн		NaN		
+3		д”»н«		NaN		
+3		 ’«Џѕн		NaN		
+3		г‘—ж»		NaN		
+3		н— ён		NaN		
+3		«б‘«гќ		NaN		
+3		г Џгѕ«		NaN		
+3		д”«∆н		NaN		
+3		«бЌ“нд		NaN		
+3		н ёѕгж«		NaN		
+3		гжѕн		NaN		
+3		г«»нд		NaN		
+3		 ” дѕ		NaN		
+3		«Ќ б 		NaN		
+3		 ” џб		NaN		
+3		«бгё—жЅ		NaN		
+3		 ќнбж«		NaN		
+3		«бћжн		NaN		
+3		н ”бЌ		NaN		
+3		г «»Џ н		NaN		
+3		«б«‘ —«ян		NaN		
+3		я»н— нд		NaN		
+3		”«—Џ 		NaN		
+3		н ”»»		NaN		
+3		н” ѕЏн		NaN		
+3		гбн«		NaN		
+3		«б«ѕ«—ннд		NaN		
+3		«б«жя—«дн		NaN		
+3		нƒ”Ёдн		NaN		
+3		« Ёёд«		NaN		
+3		г ќ’’		NaN		
+3		н –я—		NaN		
+3		ё«ЎЏ«		NaN		
+3		г Ќг”		NaN		
+3		негдн		NaN		
+3		«бЁ«ѕЌ		NaN		
+3		гё—»		NaN		
+3		н‘Џ—жд		NaN		
+3		”«Ќё«		NaN		
+3		«б«гд		NaN		
+3		«б«ќ—		NaN		
+3		ёЎ—н		NaN		
+3		ёЎ»н		NaN		
+3		«беѕ«н«		NaN		
+3		«бџ—«Ѕ		NaN		
+3		џ«б»«		NaN		
+3		«б»—нЎ«дннд		NaN		
+3		«б«Ќ н«Ўн		NaN		
+3		ё’н—		NaN		
+3		ё’г 		NaN		
+3		«ж’м		NaN		
+3		  д«Ё”		NaN		
+3		 дЏя”		NaN		
+3		«бг бён		NaN		
+3		«д ‘— 		NaN		
+3		ё”г 		NaN		
+3		ж÷Џд«		NaN		
+3		—я“ 		NaN		
+3		»«—ѕ		NaN		
+3		»«ѕ—		NaN		
+3		«бЌ«’б		NaN		
+3		«бЌ«”г		NaN		
+3		ёб		NaN		
+3		ё’		NaN		
+3		г «»Џ		NaN		
+3		Џѕ		NaN		
+3		«бЌ«∆“		NaN		
+3		«бг я——		NaN		
+3		«г÷м		NaN		
+3		Ќ—н’«		NaN		
+3		ќ’		NaN		
+3		ќ–		NaN		
+3		Ќ—		NaN		
+3		«г ѕ		NaN		
+3		«д “Џ 		NaN		
+3		«бЏ»		NaN		
+3		«б”дж”н		NaN		
+3		«ягб		NaN		
+3		дЏ —Ё		NaN		
+3		«ёжб		NaN		
+3		«бядѕн		NaN		
+3		жёЁ“		NaN		
+3		«бб« н		NaN		
+3		«бЏжЁн		NaN		
+3		«бгЁёжѕ		NaN		
+3		«ёѕг		NaN		
+3		  “«гд		NaN		
+3		«ё«г		NaN		
+3		н ж«ћѕжд		NaN		
+3		«бг” »Џѕнд		NaN		
+3		 ѕ—» 		NaN		
+3		жЁ— 		NaN		
+3		 я ”»		NaN		
+3		дЏ«дн		NaN		
+3		«б‘—»ндн		NaN		
+3		«бџ«дм		NaN		
+3		гбЌжў		NaN		
+3		гЌ гб		NaN		
+3		«д ќ» 		NaN		
+3		нЁ«ћ∆		NaN		
+3		«бгг дЏ		NaN		
+3		«бЏгбн		NaN		
+3		«бѕжбм		NaN		
+3		”Џжѕннд		NaN		
+3		 ж“Џ		NaN		
+3		г’«»		NaN		
+3		«” ё—		NaN		
+3		 «»Џд«		NaN		
+3		 еѕѕ		NaN		
+3		нбЌё«		NaN		
+3		 »«ѕб«		NaN		
+3		 дЁ–		NaN		
+3		Ўжнб«		NaN		
+3		 дўг		NaN		
+3		 дѕ—ћ		NaN		
+3		 гдм		NaN		
+3		«бЏёнг		NaN		
+3		г”ћб		NaN		
+3		« Ќ«ѕн«		NaN		
+3		г” Ќнб		NaN		
+3		 г”я		NaN		
+3		ё»б 		NaN		
+3		«”«”н		NaN		
+3		 ягб		NaN		
+3		 ябЁ		NaN		
+3		нЌ«Ёў		NaN		
+3		г  «бннд		NaN		
+3		«бжнб“н		NaN		
+3		дд«Ё”		NaN		
+3		“—ё«Ѕ		NaN		
+3		ё«ЎЏ		NaN		
+3		 ёдн		NaN		
+3		 ёбб		NaN		
+3		«ЏЎм		NaN		
+3		жћѕж«		NaN		
+3		гѕдн		NaN		
+3		«‘ —Ў 		NaN		
+3		«бя «бждн		NaN		
+3		жћѕд«		NaN		
+3		«Џ—»		NaN		
+3		«ћ—н 		NaN		
+3		 Ёя—		NaN		
+3		—’ѕ 		NaN		
+3		гябЁ«		NaN		
+3		«Ўбё		NaN		
+3		’ЌЁн«		NaN		
+3		«бг‘—жЏ		NaN		
+3		«Џ —Ё 		NaN		
+3		«бЌ«бннд		NaN		
+3		гЌ—г		NaN		
+3		нЏгбжд		NaN		
+3		Ё—д”н		NaN		
+3		«’н»		NaN		
+3		«÷«Џ		NaN		
+3		«б«”б«гм		NaN		
+3		Ћ«» «		NaN		
+3		Ќ—н’жд		NaN		
+3		гЏбё«		NaN		
+3		 ’Ўѕг		NaN		
+3		ЎбЏ 		NaN		
+3		е« Ён«		NaN		
+3		«‘я—		NaN		
+3		 д«ѕн		NaN		
+3		«‘Џ—		NaN		
+3		н” ќѕгжд		NaN		
+3		нџ«“б		NaN		
+3		ќ«’«		NaN		
+3		«бг–яж—		NaN		
+3		«б”«Џн		NaN		
+3		 ёѕгж«		NaN		
+3		«бг џн»нд		NaN		
+3		г «Ќ		NaN		
+3		«”—Џ		NaN		
+3		‘Џ— 		NaN		
+3		«дЎбёж«		NaN		
+3		«бћ“нб		NaN		
+3		«я ”» 		NaN		
+3		нд гжд		NaN		
+3		 Џ«ёѕ 		NaN		
+3		«÷«Ён		NaN		
+3		«б Ќёж«		NaN		
+3		г»”Ў		NaN		
+3		џн—н		NaN		
+3		«—”б		NaN		
+3		г«дЏ		NaN		
+3		ж—ѕ 		NaN		
+3		г«бг		NaN		
+3		 Џеѕ		NaN		
+3		 Џёѕ		NaN		
+3		г”бЌнд		NaN		
+3		 Џ—Ё		NaN		
+3		«б«ќн—нд		NaN		
+3		гнябнд		NaN		
+3		 Џ«ѕ		NaN		
+3		ЌЁб 		NaN		
+3		—ћЌ 		NaN		
+3		д«бж«		NaN		
+3		нЏ«джд		NaN		
+3		«ћ«д»		NaN		
+3		»«‘— 		NaN		
+3		«я Ё 		NaN		
+3		«б’нЁн		NaN		
+3		«бЏ’»н		NaN		
+3		гƒеб		NaN		
+3		«я ‘Ё		NaN		
+3		«ќ—ћ		NaN		
+3		»Џнѕнд		NaN		
+3		ўе—ж«		NaN		
+3		г” ё—		NaN		
+3		ЁЏбн		NaN		
+3		гƒЋ—		NaN		
+3		«Ќ”д		NaN		
+3		«б—г÷«дне		NaN		
+3		«б‘г«бн		NaN		
+3		Ќ«’— 		NaN		
+3		«б—«Ќбнд		NaN		
+3		«ћгб		NaN		
+3		 ÷«Ё		NaN		
+3		«ћ— 		NaN		
+3		жЋнё		NaN		
+3		«б”—нб«дян		NaN		
+3		г”»жё		NaN		
+3		 я нян		NaN		
+3		ќ÷Џж«		NaN		
+3		нёѕгж«		NaN		
+3		 »«Џѕ		NaN		
+3		«бЏ—нћ		NaN		
+3		 ‘ЁЏ		NaN		
+3		Ёќ—н«		NaN		
+3		нд”		NaN		
+3		 ‘Џ—		NaN		
+3		«Џ ѕм		NaN		
+3		 ‘—Ё		NaN		
+3		 ”нЅ		NaN		
+3		нѕЏ		NaN		
+3		нЌ»		NaN		
+3		«бг”янд		NaN		
+3		«дѕЁЏ		NaN		
+3		 ћ«еб 		NaN		
+3		Џгб«ё		NaN		
+3		 Џ—÷ж«		NaN		
+3		д жёЏ		NaN		
+3		жѕЏ		NaN		
+3		 —я“		NaN		
+3		 —Ё÷		NaN		
+3		«»ѕ«		NaN		
+3		џ«ѕ—ж«		NaN		
+3		 жёЏ 		NaN		
+3		 –е»		NaN		
+3		дЌ «ће		NaN		
+3		дже		NaN		
+3		дЁн		NaN		
+3		дЁ–		NaN		
+3		дЁ 		NaN		
+3		д’—		NaN		
+3		Ё“д«		NaN		
+3		«” дя—		NaN		
+3		 ѕЏг		NaN		
+3		«бе«ѕмЅ		NaN		
+3		 ѕ—”		NaN		
+3		г ж«ћѕ«		NaN		
+3		гѕѕ		NaN		
+3		гЌ»		NaN		
+3		бнд		NaN		
+3		«б«ж“»ян		NaN		
+3		бг”		NaN		
+3		 Џбнёя		NaN		
+3		б”д		NaN		
+3		«б«”—«∆нбн		NaN		
+3		”н∆«		NaN		
+3		  жЁ—		NaN		
+3		«бг’—ннд		NaN		
+3		«бЏ—н÷нд		NaN		
+3		«б»дндн		NaN		
+3		«бгЌ гб		NaN		
+3		”жн«		NaN		
+3		Џ«дж«		NaN		
+3		нћѕж«		NaN		
+3		Џ«дё 		NaN		
+3		ёб’		NaN		
+3		Ќ’б«		NaN		
+3		гдўг«		NaN		
+3		 ћ”ѕ		NaN		
+3		«д»—м		NaN		
+3		 ћѕ—		NaN		
+3		ё’ѕ		NaN		
+3		ё б		NaN		
+3		Ёбж		NaN		
+3		«бдќбн		NaN		
+3		гЋн—«		NaN		
+3		  гдм		NaN		
+3		Ё« 		NaN		
+3		 д«ж»ж«		NaN		
+3		Ќ”г 		NaN		
+3		«б«Ќг—н		NaN		
+3		нЌ «ће		NaN		
+3		«бЏ«ѕб		NaN		
+3		нжбн		NaN		
+3		«бЏ«ћб		NaN		
+3		нб “гж«		NaN		
+3		нжЌн		NaN		
+3		Џ«бгннд		NaN		
+3		 »–б		NaN		
+3		не г		NaN		
+3		Ќ—’н		NaN		
+3		Ќ—’ 		NaN		
+3		ндё’		NaN		
+3		  ёѕг		NaN		
+3		нЏ —÷жд		NaN		
+3		  Ёжё		NaN		
+3		нгж 		NaN		
+3		нд»Џ		NaN		
+3		я«д «		NaN		
+3		”ёЎ 		NaN		
+3		«бгб«Ќў		NaN		
+3		«беж«∆н		NaN		
+3		нг——		NaN		
+3		н’бж«		NaN		
+3		«бё«ѕ—нд		NaN		
+3		«бг‘ћЏжд		NaN		
+3		«бгедн		NaN		
+3		нб“г		NaN		
+3		нбЌў		NaN		
+3		нћ«д»		NaN		
+3		«бгднЁ		NaN		
+3		Ё«Џб		NaN		
+3		«бгд’Ё		NaN		
+3		н —«ћЏ		NaN		
+3		«бд«ѕ—		NaN		
+3		бѕня		NaN		
+3		Џеѕ		NaN		
+3		«бд«»÷		NaN		
+3		гЏ «ѕ		NaN		
+3		«бќЁнЁ		NaN		
+3		Џ«‘		NaN		
+3		н” Џѕжд		NaN		
+3		д ЎбЏ		NaN		
+3		Ўж—		NaN		
+3		ЎжЌ		NaN		
+3		гдЌж«		NaN		
+3		нЏжѕж«		NaN		
+3		нЏ “б		NaN		
+3		нЏ —Ё		NaN		
+3		 —ѕѕ 		NaN		
+3		ћ«е“«		NaN		
+3		нжЁёд«		NaN		
+3		÷»Ў		NaN		
+3		«б’—нЌ		NaN		
+3		«бгЁ’б		NaN		
+3		 г«—”		NaN		
+3		’Ќн		NaN		
+3		÷—ж—н		NaN		
+3		гд ем		NaN		
+3		  Џ—÷		NaN		
+3		«б«” Џѕ«ѕн		NaN		
+3		‘—»		NaN		
+3		Ќ«“ 		NaN		
+3		”н∆		NaN		
+3		‘«»		NaN		
+3		”гЌ		NaN		
+3		«б“«∆ѕ		NaN		
+3		«бЁё—«Ѕ		NaN		
+3		«б’ѕнё		NaN		
+3		нёЁжд		NaN		
+3		  Ё«ёг		NaN		
+3		“б 		NaN		
+3		« егждн		NaN		
+3		—яб		NaN		
+3		ё		NaN		
+3		 — »Ў		NaN		
+3		 жће 		NaN		
+3		—Џм		NaN		
+3		нЏбж		NaN		
+3		—«ё		NaN		
+3		яд г		NaN		
+3		«б»«ѕ∆		NaN		
+3		«бдг”«жн		NaN		
+3		«б”бжЁндн		NaN		
+3		гё»жб«		NaN		
+3		еѕЁ 		NaN		
+2		г ж—Ў«		NaN		
+2		–«ѕ		NaN		
+2		 џб» 		NaN		
+2		џ–«∆н		NaN		
+2		еѕѕ 		NaN		
+2		д ѕ—»		NaN		
+2		ябЁ 		NaN		
+2		«бгдёЎЏ		NaN		
+2		г жћенд		NaN		
+2		«б«гЋб		NaN		
+2		Ё«—џ«”		NaN		
+2		«ё д’		NaN		
+2		ѕ‘д		NaN		
+2		’»«Ќн«		NaN		
+2		«бгё—»нд		NaN		
+2		 —«Џн		NaN		
+2		  ”бг		NaN		
+2		нЎбЏ		NaN		
+2		«бќЎн—		NaN		
+2		нд«ж—		NaN		
+2		«бг”»жё		NaN		
+2		нд«е“		NaN		
+2		ѕ«д		NaN		
+2		ќб 		NaN		
+2		нд«ё‘		NaN		
+2		«ё —Ќ		NaN		
+2		н’Ўѕг		NaN		
+2		«” ѕЏ 		NaN		
+2		«бќЎЎн		NaN		
+2		ќ÷ 		NaN		
+2		н÷нЅ		NaN		
+2		«бџ‘«‘нд		NaN		
+2		  ”»»		NaN		
+2		нд«ѕн		NaN		
+2		гЎ«б»нд		NaN		
+2		«бгџ—н		NaN		
+2		—«Ёё 		NaN		
+2		ќ г		NaN		
+2		Ќбё		NaN		
+2		н—«жѕдн		NaN		
+2		н÷ЏЁ		NaN		
+2		ё÷«∆н		NaN		
+2		Ќ—я		NaN		
+2		  —ё»		NaN		
+2		н’Ёё		NaN		
+2		Џг—н		NaN		
+2		«бг”∆жб		NaN		
+2		«бгЏ ё		NaN		
+2		Џгѕ 		NaN		
+2		Џбжн		NaN		
+2		«б«Ё  «Ќн		NaN		
+2		гё»бнд		NaN		
+2		н” ЎнЏж«		NaN		
+2		 ж«б 		NaN		
+2		гё»бжд		NaN		
+2		 ж«я»		NaN		
+2		н’ѕё		NaN		
+2		 ж«Ёѕ		NaN		
+2		  —ћг		NaN		
+2		Џ«ѕж«		NaN		
+2		ћ”ѕ		NaN		
+2		н’»ж		NaN		
+2		ћ–»		NaN		
+2		н‘яж		NaN		
+2		н‘яя		NaN		
+2		«” —« нћн		NaN		
+2		 –я— 		NaN		
+2		гнѕ«дн		NaN		
+2		ћ∆ 		NaN		
+2		жЎдн«		NaN		
+2		«бж«Ёѕнд		NaN		
+2		н‘ѕѕ		NaN		
+2		н”нЅ		NaN		
+2		нёЏжд		NaN		
+2		н”жѕ		NaN		
+2		н‘»Џ		NaN		
+2		н‘«Џ		NaN		
+2		н”гЏ		NaN		
+2		н”яд		NaN		
+2		«” Ћг—		NaN		
+2		 г÷		NaN		
+2		 гѕ		NaN		
+2		д‘«—я		NaN		
+2		н”ЏЁ		NaN		
+2		жЁёд«		NaN		
+2		ж«÷Џ«		NaN		
+2		нЏ«—÷жд		NaN		
+2		н”—н		NaN		
+2		г» ѕ∆		NaN		
+2		«бг” »Џѕ		NaN		
+2		  ѕќб		NaN		
+2		 Ўб		NaN		
+2		”нѕн—жд		NaN		
+2		н“ж—		NaN		
+2		«бгЏЎ«Ѕ		NaN		
+2		н”»»		NaN		
+2		«бгѕЏжг		NaN		
+2		 ќб		NaN		
+2		гё’жѕ		NaN		
+2		г’ѕё«		NaN		
+2		 «ћ		NaN		
+2		н÷«нёдн		NaN		
+2		 ѕ—нћн«		NaN		
+2		гжеж»		NaN		
+2		 ‘ гб		NaN		
+2		н—яб		NaN		
+2		н—Џм		NaN		
+2		деѕЁ		NaN		
+2		«ё —д 		NaN		
+2		  Ќ”д		NaN		
+2		н—”г		NaN		
+2		н—”б		NaN		
+2		«нЎ«бн		NaN		
+2		  ЌѕЋ		NaN		
+2		н—ѕѕ		NaN		
+2		е«г«		NaN		
+2		«ќ — 		NaN		
+2		н—Ќг		NaN		
+2		н—ћЏ		NaN		
+2		г»«гн		NaN		
+2		нё÷ж«		NaN		
+2		»——		NaN		
+2		«бЋ«дм		NaN		
+2		»ѕѕ		NaN		
+2		”Ќё 		NaN		
+2		»Ќ 		NaN		
+2		«ж÷Ќ 		NaN		
+2		н» ”г		NaN		
+2		»«ѕ		NaN		
+2		г»«џ 		NaN		
+2		е«ћг		NaN		
+2		ж”нЎ— 		NaN		
+2		«Џѕ		NaN		
+2		Џ—«ён		NaN		
+2		”Ќ» 		NaN		
+2		«б д»ƒ		NaN		
+2		«ќд		NaN		
+2		«ћѕ		NaN		
+2		«ЎбЏ 		NaN		
+2		нѕЏж		NaN		
+2		дгЋб		NaN		
+2		нѕ‘д		NaN		
+2		нѕ—н		NaN		
+2		гжбжн		NaN		
+2		н‘«—яж«		NaN		
+2		«” «–н		NaN		
+2		нЌ÷—жд		NaN		
+2		нќбё		NaN		
+2		нќбЁ		NaN		
+2		«г дЏ		NaN		
+2		нќЁё		NaN		
+2		д«”нжд«бн		NaN		
+2		ж«Ћёжд		NaN		
+2		«бг—н—		NaN		
+2		ќ—жћег		NaN		
+2		нќ’’		NaN		
+2		 ” г Џ		NaN		
+2		 ‘«»я		NaN		
+2		Џ«»ж«		NaN		
+2		ж«—ѕЁ		NaN		
+2		нЌжб		NaN		
+2		Ўб»ж«		NaN		
+2		нЌбб		NaN		
+2		«бЏ«г—н		NaN		
+2		н»«ѕб		NaN		
+2		г«я—е		NaN		
+2		гжяѕ«		NaN		
+2		нЌ”»		NaN		
+2		н д«ёбжд		NaN		
+2		«б«Џбм		NaN		
+2		«бЌ«÷—нд		NaN		
+2		«бё«ѕ—		NaN		
+2		нЌ ћ		NaN		
+2		нћжб		NaN		
+2		нћж“		NaN		
+2		«бг÷«ЏЁ		NaN		
+2		нћб”		NaN		
+2		нћб»		NaN		
+2		 Ќ—я 		NaN		
+2		нћ—м		NaN		
+2		дё»б		NaN		
+2		«б—÷«Ѕ		NaN		
+2		—«÷жд		NaN		
+2		«бгѕ—ћ		NaN		
+2		дЁЏб		NaN		
+2		 Ё ёѕ		NaN		
+2		Ё÷бж«		NaN		
+2		«бгќн»		NaN		
+2		«дќЁ÷ 		NaN		
+2		 џнн—нд		NaN		
+2		«бдѕн		NaN		
+2		н нЌ		NaN		
+2		дЎ«б»		NaN		
+2		«бгЌдя		NaN		
+2		«бгЌяг		NaN		
+2		г‘ —я«		NaN		
+2		н ќб		NaN		
+2		“гдн		NaN		
+2		н »Џ		NaN		
+2		”«∆—		NaN		
+2		÷ѕд«		NaN		
+2		«бћѕнѕнд		NaN		
+2		гƒЋ—нд		NaN		
+2		«Ќ н«Ўн«		NaN		
+2		«бећ—«жннд		NaN		
+2		 Ё«ж÷		NaN		
+2		«б«Џб«гнжд		NaN		
+2		н»ён		NaN		
+2		г ег«		NaN		
+2		н»ЏЋ		NaN		
+2		«бгЋбм		NaN		
+2		н»‘—		NaN		
+2		н’«ЁЌ		NaN		
+2		«бћ”г«дн		NaN		
+2		«— ѕм		NaN		
+2		«дёЎЏ 		NaN		
+2		дЌ«Ёў		NaN		
+2		«— »Ў		NaN		
+2		«бг ег		NaN		
+2		гЏ —Ё«		NaN		
+2		«бг”ћбнд		NaN		
+2		«бг’«»жд		NaN		
+2		—Ќбж«		NaN		
+2		« ÷Ќ 		NaN		
+2		н’«Ќ»		NaN		
+2		«бќ«Ў∆		NaN		
+2		н— ѕжд		NaN		
+2		г гн“		NaN		
+2		«бг ћ—		NaN		
+2		«бж»«—н		NaN		
+2		«бгЏ ’г		NaN		
+2		«бЌд«ян		NaN		
+2		«бгЏ “б		NaN		
+2		ѕЏ«я		NaN		
+2		«б«”»ё		NaN		
+2		«бгѕ—нѕн		NaN		
+2		г г”я		NaN		
+2		«бгЏ «ѕ		NaN		
+2		 Ќ жн		NaN		
+2		 Џ«ѕб «		NaN		
+2		 Ќ гб		NaN		
+2		 Ќ Ён		NaN		
+2		 Ќ Ёў		NaN		
+2		нƒнѕ		NaN		
+2		нƒгб		NaN		
+2		«бг»—г		NaN		
+2		нд«Ё”жд		NaN		
+2		я—— 		NaN		
+2		н” ёнб		NaN		
+2		нё ÷н		NaN		
+2		дЏн‘		NaN		
+2		нƒћб		NaN		
+2		«Ќ Ёж«		NaN		
+2		«бгЏ«жд		NaN		
+2		г я——		NaN		
+2		«Ќ Ёб 		NaN		
+2		гб“гжд		NaN		
+2		Ћгнд«		NaN		
+2		н г”я		NaN		
+2		«б—Ќ«б		NaN		
+2		н г—д		NaN		
+2		нЌ’бжд		NaN		
+2		«бЏг—«д		NaN		
+2		ќбнћннд		NaN		
+2		«б÷—н»н		NaN		
+2		 Ќ«Ёў		NaN		
+2		дЎбё		NaN		
+2		дЎб»		NaN		
+2		н’»Ќж«		NaN		
+2		 Ќ«’—		NaN		
+2		  ”«»ё		NaN		
+2		н яЁб		NaN		
+2		’Џ»нд		NaN		
+2		’дЁ 		NaN		
+2		«ўе—ж«		NaN		
+2		’дЏ 		NaN		
+2		д÷гд		NaN		
+2		«б÷—ж—н		NaN		
+2		«бгƒ””		NaN		
+2		«бгƒЋ—		NaN		
+2		нƒѕжд		NaN		
+2		«б«Ќ”д		NaN		
+2		Џѕд«		NaN		
+2		гЌж—н		NaN		
+2		яЋнЁ		NaN		
+2		гЎг∆д		NaN		
+2		«б–едн		NaN		
+2		«‘ ям		NaN		
+2		«Џ «ѕж«		NaN		
+2		гЎбЏ«		NaN		
+2		 б«‘ 		NaN		
+2		«бгќбжЏ		NaN		
+2		гг «“нд		NaN		
+2		 б«Ќў		NaN		
+2		 ёбнѕн		NaN		
+2		«б‘—Џн		NaN		
+2		нжћежд		NaN		
+2		н «»Џжд		NaN		
+2		д”н—		NaN		
+2		ё«ѕгнд		NaN		
+2		нќ ’—		NaN		
+2		ћ«ѕ«		NaN		
+2		Џ«ёѕнд		NaN		
+2		«” Ў«Џж«		NaN		
+2		я »е		NaN		
+2		я » 		NaN		
+2		«бгд гнд		NaN		
+2		д”Ќ»		NaN		
+2		д“не		NaN		
+2		д“нѕ		NaN		
+2		«жёЁж«		NaN		
+2		н—÷нд«		NaN		
+2		 ‘«еѕж«		NaN		
+2		ге«ћг н		NaN		
+2		д“«б		NaN		
+2		«бџ–«∆н		NaN		
+2		н” Џнѕ		NaN		
+2		д—Ќ»		NaN		
+2		н’жгж«		NaN		
+2		‘е—н«		NaN		
+2		«б —Ёнен		NaN		
+2		г«–я—		NaN		
+2		«бж«Џн		NaN		
+2		н д«жбжд		NaN		
+2		н” Џћб		NaN		
+2		н ”«Ѕб		NaN		
+2		«б’Ќн		NaN		
+2		 –»–»		NaN		
+2		«б Џ«Ён		NaN		
+2		дѕќб		NaN		
+2		ёбё«		NaN		
+2		«Ё ёѕ 		NaN		
+2		ќ«Ў»д		NaN		
+2		«Ќ ÷д 		NaN		
+2		 Џя— 		NaN		
+2		нг«дн		NaN		
+2		дќ—ћ		NaN		
+2		Џ«дн		NaN		
+2		Џ«д 		NaN		
+2		дЌгб		NaN		
+2		«” Џ—«÷н«		NaN		
+2		 ћЏбдн		NaN		
+2		нг«Ћб		NaN		
+2		дЌ’б		NaN		
+2		дЌ’ѕ		NaN		
+2		н Џ—Ё		NaN		
+2		«бгЌ”ж»нд		NaN		
+2		’—нЌ«		NaN		
+2		д” ќѕг		NaN		
+2		«бгё’жѕ		NaN		
+2		«б’ндннд		NaN		
+2		гнян		NaN		
+2		«бќЎ«»н		NaN		
+2		«бЎ—нЁ		NaN		
+2		г ‘жё		NaN		
+2		«б–ян		NaN		
+2		н” Џнѕж«		NaN		
+2		«я ”»ж«		NaN		
+2		ѕ«д 		NaN		
+2		ѕ«г 		NaN		
+2		»‘—н		NaN		
+2		д бё		NaN		
+2		Ёќж—жд		NaN		
+2		ѕ«Џг		NaN		
+2		«б‘«џб		NaN		
+2		нжћнд		NaN		
+2		д ќ–		NaN		
+2		 “«нѕ 		NaN		
+2		гжё 		NaN		
+2		н ’ж—		NaN		
+2		«бг»«ѕ—		NaN		
+2		жћжѕн		NaN		
+2		гжће		NaN		
+2		гедн		NaN		
+2		«бгж—н «дн		NaN		
+2		«Ќ жм		NaN		
+2		»—ёг		NaN		
+2		«Ќ Ём		NaN		
+2		«Ќ Ёў		NaN		
+2		 ” ЎЏ		NaN		
+2		н—«жЌ		NaN		
+2		н—«ед		NaN		
+2		гднЏ		NaN		
+2		ќ—ћж«		NaN		
+2		ѕƒж»		NaN		
+2		г” ё»бн		NaN		
+2		нёббжд		NaN		
+2		 дёЎЏ		NaN		
+2		гдЏ 		NaN		
+2		 дё”г		NaN		
+2		д«—н		NaN		
+2		н—«ћЏ		NaN		
+2		д«ѕм		NaN		
+2		г” Ё“«		NaN		
+2		«бг‘еѕ«дн		NaN		
+2		«бЏ‘ж«∆н		NaN		
+2		«бћ«ѕ		NaN		
+2		‘«—яд«		NaN		
+2		 дЁ—ѕ		NaN		
+2		н‘я—жд		NaN		
+2		гбнЅ		NaN		
+2		нћЏбд«		NaN		
+2		«Ќ«жб		NaN		
+2		н —яя		NaN		
+2		‘«—я «		NaN		
+2		н —ё»		NaN		
+2		 —нѕжд		NaN		
+2		«б ё 		NaN		
+2		«бг ёѕгнд		NaN		
+2		н” ќѕг		NaN		
+2		Ќёёж«		NaN		
+2		«бЏ«∆бн		NaN		
+2		 гядж«		NaN		
+2		д Џ«ёѕ		NaN		
+2		«б “г		NaN		
+2		гябЁ		NaN		
+2		дƒяѕ		NaN		
+2		н –нб		NaN		
+2		н” џбжд		NaN		
+2		н ћ«ж»		NaN		
+2		дћЌж«		NaN		
+2		”жѕ«Ѕ		NaN		
+2		гЋ«бн«		NaN		
+2		гё дЏ«		NaN		
+2		ћ–—н«		NaN		
+2		«б «енбн		NaN		
+2		Ё÷«∆н		NaN		
+2		—жЏн		NaN		
+2		н” Ћг—		NaN		
+2		н‘Џ—ж«		NaN		
+2		н ќнб		NaN		
+2		н ќбм		NaN		
+2		н”нЎ—		NaN		
+2		џ«г÷«		NaN		
+2		«бћџ—«Ёне		NaN		
+2		н‘ гб		NaN		
+2		н Ќжб		NaN		
+2		гЌўжў«		NaN		
+2		‘« нжд		NaN		
+2		н‘ —Ў		NaN		
+2		“«ѕ 		NaN		
+2		н‘ »е		NaN		
+2		 ћѕѕ 		NaN		
+2		«жбн		NaN		
+2		«жЁ—		NaN		
+2		гЏджн«		NaN		
+2		«жће		NaN		
+2		Ћё«Ён		NaN		
+2		яЋн—нд		NaN		
+2		  д«“б		NaN		
+2		н” »ѕб		NaN		
+2		«бћж«б		NaN		
+2		«б–—нЏ		NaN		
+2		н” «еб		NaN		
+2		н Џгѕж«		NaN		
+2		«бгё»жб		NaN		
+2		«еѕм		NaN		
+2		«џ«ѕ—		NaN		
+2		н Џ«жд		NaN		
+2		’Ќн«		NaN		
+2		гЌ—“«		NaN		
+2		дя Ён		NaN		
+2		«бЌ«Ёб		NaN		
+2		ж÷Џж«		NaN		
+2		ё«—» 		NaN		
+2		н Џ«—÷		NaN		
+2		н—нѕдн		NaN		
+2		д—		NaN		
+2		 д«жб 		NaN		
+2		«ѕ«—н«		NaN		
+2		гƒебнд		NaN		
+2		«бЁн—ж”н		NaN		
+2		 я нян«		NaN		
+2		«бе“нб		NaN		
+2		г” ÷нЁ		NaN		
+2		Ќн		NaN		
+2		ЌЎ		NaN		
+2		ЌЋ		NaN		
+2		»Ћ		NaN		
+2		«бём		NaN		
+2		«бЌг«ѕн		NaN		
+2		 ћ гЏ		NaN		
+2		«бџ 		NaN		
+2		 дЎ»ё		NaN		
+2		ќЎЁ 		NaN		
+2		‘нѕ 		NaN		
+2		 Џ–— 		NaN		
+2		«бгЏ«—нд		NaN		
+2		÷ЏнЁ«		NaN		
+2		«я——		NaN		
+2		«б ќ’’н		NaN		
+2		нЁ ќ—		NaN		
+2		«яѕ 		NaN		
+2		г÷нЁ«д		NaN		
+2		«ёнб		NaN		
+2		жёЁ 		NaN		
+2		«бб«∆н		NaN		
+2		«бб«∆ё		NaN		
+2		гЏѕн		NaN		
+2		ёѕ— 		NaN		
+2		жЁё 		NaN		
+2		«Ёб 		NaN		
+2		Ќнж«дн		NaN		
+2		ќ’’ 		NaN		
+2		е«ѕ∆«		NaN		
+2		б«Ќўд«		NaN		
+2		«бг ж«ћѕ		NaN		
+2		«бг егнд		NaN		
+2		н гджд		NaN		
+2		«бЏднѕ		NaN		
+2		н д«Ё”		NaN		
+2		б«Ќў г		NaN		
+2		’«— 		NaN		
+2		н д«“б		NaN		
+2		«бџ«÷»		NaN		
+2		гЌ ‘г		NaN		
+2		«бгбн«д		NaN		
+2		гЌ —г		NaN		
+2		ћг«ен—н«		NaN		
+2		«б«” г «Џ		NaN		
+2		«бЏгнё		NaN		
+2		 жяѕ		NaN		
+2		е«ћг 		NaN		
+2		 ѕќб 		NaN		
+2		«бѕ«Џгжд		NaN		
+2		нѕќбжд		NaN		
+2		”Џжѕнжд		NaN		
+2		 жѕн		NaN		
+2		е—»ж«		NaN		
+2		«бЏбжн		NaN		
+2		«бдгж–ћн		NaN		
+2		н Џбгжд		NaN		
+2		 Џ ёѕ		NaN		
+2		 ж«ћед«		NaN		
+2		нёнгжд		NaN		
+2		 «»Џж«		NaN		
+2		нѕќб«д		NaN		
+2		 Џ “г		NaN		
+2		 еѕг		NaN		
+2		«” ЎЏ		NaN		
+2		 е Ё		NaN		
+2		 е “		NaN		
+2		 джн		NaN		
+2		« егж«		NaN		
+2		нЌ яг		NaN		
+2		«” Ќё		NaN		
+2		 дё’		NaN		
+2		 дё–		NaN		
+2		 дЁЏ		NaN		
+2		 д«жбж«		NaN		
+2		«” «Ѕ		NaN		
+2		нЌ ÷д		NaN		
+2		 дў—		NaN		
+2		Ёд«б 		NaN		
+2		нЌ —Ё		NaN		
+2		«бг ж—Ўнд		NaN		
+2		«б÷ЏнЁ		NaN		
+2		гб “г		NaN		
+2		 гнб		NaN		
+2		« жгн”н		NaN		
+2		нЏ«дёжд		NaN		
+2		«бг«бннд		NaN		
+2		«бќн«бн		NaN		
+2		ё«∆г«		NaN		
+2		«бг Џгѕ		NaN		
+2		ќнбћн		NaN		
+2		Ћд«∆н«		NaN		
+2		Ёж—н		NaN		
+2		нЌ»жд		NaN		
+2		«бгƒЋ—нд		NaN		
+2		 бг”		NaN		
+2		 Џ«бћ		NaN		
+2		г—нЏ		NaN		
+2		г—н÷		NaN		
+2		г—её		NaN		
+2		”нгдЌ		NaN		
+2		Ќ”«»н«		NaN		
+2		 бЌё		NaN		
+2		«џЁб		NaN		
+2		 б«е		NaN		
+2		ё«е—		NaN		
+2		г—— 		NaN		
+2		г–нЏ		NaN		
+2		«бг Ўж—		NaN		
+2		“«бж«		NaN		
+2		 я‘Ё		NaN		
+2		 я”—		NaN		
+2		«Џжѕ		NaN		
+2		’«—ж«		NaN		
+2		«д ў—д«		NaN		
+2		 я«ѕ		NaN		
+2		«бе«ѕЁ		NaN		
+2		ё«∆г		NaN		
+2		«бг— ЁЏ		NaN		
+2		—н«÷н нд		NaN		
+2		бё«∆н		NaN		
+2		«бћ—н”н		NaN		
+2		«г«гд«		NaN		
+2		«бе«∆б		NaN		
+2		 ё÷н		NaN		
+2		 ё’—		NaN		
+2		 ё’ѕ		NaN		
+2		 ёѕ—		NaN		
+2		«бгџгж—		NaN		
+2		«б”н«Ќн		NaN		
+2		 Ёнѕ		NaN		
+2		 Ёж“		NaN		
+2		 Ёег		NaN		
+2		 я—нгн		NaN		
+2		гќн»		NaN		
+2		геѕѕ«		NaN		
+2		 Ё÷б		NaN		
+2		 Ё’Ќ		NaN		
+2		няджд		NaN		
+2		 Ё Ќ		NaN		
+2		Ёб«Ќ		NaN		
+2		гџ«н—		NaN		
+2		гЌяг		NaN		
+2		«Ў«Ќ		NaN		
+2		Ёя— 		NaN		
+2		гЌ—ћ		NaN		
+2		«Џ —÷ 		NaN		
+2		гЌ»Ў		NaN		
+2		Ќжб 		NaN		
+2		«’Џ»		NaN		
+2		гЏбд«		NaN		
+2		 д«ё÷		NaN		
+2		 д«ё‘		NaN		
+2		«’»Ќ		NaN		
+2		 д«”»		NaN		
+2		нѕ—яжд		NaN		
+2		‘џб 		NaN		
+2		ё«дждн«		NaN		
+2		г Ёё		NaN		
+2		«б”«гн		NaN		
+2		«б—”гннд		NaN		
+2		«”ег		NaN		
+2		ќ«÷ 		NaN		
+2		г ”Џ		NaN		
+2		«б”«ќд		NaN		
+2		«б”«Ќё		NaN		
+2		г”ѕжѕ		NaN		
+2		–едн«		NaN		
+2		б«“б 		NaN		
+2		ж’бж«		NaN		
+2		«ћг«бн		NaN		
+2		«б»ж–н		NaN		
+2		гден«		NaN		
+2		«÷«Ё 		NaN		
+2		г»ѕЏ		NaN		
+2		 яждж«		NaN		
+2		«бћ«гЏн		NaN		
+2		Џўг«Ѕ		NaN		
+2		Џ‘ж«∆н«		NaN		
+2		г«Ён		NaN		
+2		Ќ—’ж«		NaN		
+2		нягбжд		NaN		
+2		”ћбж«		NaN		
+2		«бг”нЎ—		NaN		
+2		»—“ж«		NaN		
+2		 Џн‘		NaN		
+2		 Џжб		NaN		
+2		 Џж÷		NaN		
+2		«бг ќ’’		NaN		
+2		 Џбё		NaN		
+2		нджжд		NaN		
+2		д»«—я		NaN		
+2		«бќбнћннд		NaN		
+2		«бг Ќг”		NaN		
+2		”Џнѕ«		NaN		
+2		 Џѕж		NaN		
+2		«ѕбм		NaN		
+2		«бяе—»«∆н		NaN		
+2		 ћ—н»н		NaN		
+2		гбЌжў«		NaN		
+2		«ѕЏм		NaN		
+2		ж’Ёж«		NaN		
+2		г д«ё÷		NaN		
+2		«ѕ—ћ		NaN		
+2		Џѕ«∆н		NaN		
+2		 “«гд		NaN		
+2		н»–бжд		NaN		
+2		«я гб		NaN		
+2		—«ћЏжд		NaN		
+2		 Ўжб		NaN		
+2		«—«ѕж«		NaN		
+2		 Ўџм		NaN		
+2		«б»бѕн		NaN		
+2		«бгжћжѕнд		NaN		
+2		Џ»—ж«		NaN		
+2		«б —»жн		NaN		
+2		ЁЏб 		NaN		
+2		«бџ«÷»жд		NaN		
+2		б«Ќў 		NaN		
+2		«б»«—Џнд		NaN		
+2		«бг‘«џ»		NaN		
+2		«ћгЏ		NaN		
+2		”нд«ё‘		NaN		
+2		”нд«Ё”		NaN		
+2		 ’ж—		NaN		
+2		 ’дЁ		NaN		
+2		Ёб”Ўндн		NaN		
+2		д«ё‘ 		NaN		
+2		 ’Ёё		NaN		
+2		 «—янд		NaN		
+2		«бг”гжЌ		NaN		
+2		нƒяѕжд		NaN		
+2		«бёЎ—н« 		NaN		
+2		 ’Џ»		NaN		
+2		«б«д÷»«Ўн		NaN		
+2		«Ћн—		NaN		
+2		«б»бџ«—н		NaN		
+2		»«—“«		NaN		
+2		 ’ѕё		NaN		
+2		«бЏ«∆ѕнд		NaN		
+2		Ќ«”г«		NaN		
+2		«бЏ«∆ѕжд		NaN		
+2		 ‘же		NaN		
+2		нёѕгжд		NaN		
+2		 ‘ж»		NaN		
+2		нжЁ		NaN		
+2		не“		NaN		
+2		нг÷		NaN		
+2		Џгбн«		NaN		
+2		нЁж“ж«		NaN		
+2		«Ћ— 		NaN		
+2		н” еб		NaN		
+2		н” дѕ		NaN		
+2		Џ»ѕ—»		NaN		
+2		г’«»нд		NaN		
+2		«бгЌ—жг		NaN		
+2		н” ё—		NaN		
+2		н” Ё“		NaN		
+2		«Ћ» 		NaN		
+2		 ‘—»		NaN		
+2		г–ебнд		NaN		
+2		нѕя		NaN		
+2		нќб		NaN		
+2		 ”дѕ		NaN		
+2		нќ»		NaN		
+2		 ”Ё—		NaN		
+2		н»ё		NaN		
+2		н ё«÷м		NaN		
+2		н»Ћ		NaN		
+2		н” ѕЏ		NaN		
+2		ж«ћеж«		NaN		
+2		ж«ћед«		NaN		
+2		« —я		NaN		
+2		ѕ«ег 		NaN		
+2		«бгЁ жЌ		NaN		
+2		нЌ«жбжд		NaN		
+2		 ”—н		NaN		
+2		 ”Ќ»		NaN		
+2		 “нд		NaN		
+2		жёЁж«		NaN		
+2		‘ѕѕ 		NaN		
+2		«бгЌѕжѕ		NaN		
+2		«»дн		NaN		
+2		ж”Џ		NaN		
+2		ж“Џ		NaN		
+2		ж“ћ		NaN		
+2		«бяЋнЁ		NaN		
+2		«бЌяжгн		NaN		
+2		—ѕѕж«		NaN		
+2		ж«д ё«бе		NaN		
+2		–ян«		NaN		
+2		 —÷н		NaN		
+2		г”ƒбн		NaN		
+2		н”«Џѕ		NaN		
+2		е Ё		NaN		
+2		дёг		NaN		
+2		дёЁ		NaN		
+2		 жЁн 		NaN		
+2		егд«		NaN		
+2		дЏѕ		NaN		
+2		дўг		NaN		
+2		д÷Џ		NaN		
+2		д’»		NaN		
+2		д”ќ		NaN		
+2		«б‘—«Џн		NaN		
+2		дћ«		NaN		
+2		дЋё		NaN		
+2		 жЁ— 		NaN		
+2		д«”		NaN		
+2		Ќўж«		NaN		
+2		 ѕЏм		NaN		
+2		 ѕ—ћ		NaN		
+2		гжћжѕнд		NaN		
+2		 ѕ»—		NaN		
+2		»« ж«		NaN		
+2		 ѕ«—		NaN		
+2		‘»«»н		NaN		
+2		 ќбм		NaN		
+2		 ќбб		NaN		
+2		 ќб’		NaN		
+2		бн 		NaN		
+2		«бЏћ«Ё		NaN		
+2		гд«Ё”«		NaN		
+2		«д Ё÷		NaN		
+2		бям		NaN		
+2		г »«ѕб		NaN		
+2		 ќЎ 		NaN		
+2		 ќЎ∆		NaN		
+2		 ќ’’		NaN		
+2		нЌ”дж«		NaN		
+2		  жёЏ		NaN		
+2		”нѕ—”		NaN		
+2		«б«–—»нћ«дн		NaN		
+2		«бг’—нжд		NaN		
+2		ябн		NaN		
+2		 Ќ÷—		NaN		
+2		«б»Џнѕ		NaN		
+2		 Ќ”»		NaN		
+2		нЌ”гж«		NaN		
+2		 Ќ——		NaN		
+2		 Ќ г		NaN		
+2		я–«		NaN		
+2		 ће“		NaN		
+2		нЏЎндн		NaN		
+2		‘ё—«Ѕ		NaN		
+2		д ёѕг		NaN		
+2		‘»не		NaN		
+2		д ё»б		NaN		
+2		ё÷ 		NaN		
+2		 Ћн—		NaN		
+2		«Ћ» ж«		NaN		
+2		Ќ’—н		NaN		
+2		Ёќж—		NaN		
+2		 Ћг—		NaN		
+2		«д«‘ѕ		NaN		
+2		  гн“		NaN		
+2		«” г Џж«		NaN		
+2		  нЌ		NaN		
+2		Ё—ѕ		NaN		
+2		‘«∆Џ« 		NaN		
+2		«бќн—н		NaN		
+2		Ў—Ќ 		NaN		
+2		  бё		NaN		
+2		ЁћЏ		NaN		
+2		Ќ”д«		NaN		
+2		ндЏёѕ		NaN		
+2		г÷«ЏЁ		NaN		
+2		‘«”Џ		NaN		
+2		‘«—Ё		NaN		
+2		  —я		NaN		
+2		”дћѕ		NaN		
+2		  г Џ		NaN		
+2		  »Џ		NaN		
+2		нжбѕ		NaN		
+2		  «Ќ		NaN		
+2		нж÷Џ		NaN		
+2		нж’н		NaN		
+2		нж‘я		NaN		
+2		ќн«бн		NaN		
+2		»”нЎ«		NaN		
+2		  ябб		NaN		
+2		нед∆		NaN		
+2		 ябнЁн		NaN		
+2		 »ён		NaN		
+2		«б«”«”ннд		NaN		
+2		ќн«—н		NaN		
+2		«б»’—н		NaN		
+2		 »ЏЋ		NaN		
+2		 ё«”г		NaN		
+2		не“г		NaN		
+2		гѕ—я«		NaN		
+2		 ё«—д		NaN		
+2		неѕн		NaN		
+2		неѕг		NaN		
+2		 »—Џ		NaN		
+2		«” Ё«ѕ 		NaN		
+2		«б’ѕнёнд		NaN		
+2		Џ«ё» 		NaN		
+2		не»Ў		NaN		
+2		нћ гЏ		NaN		
+2		«бгЏдннд		NaN		
+2		ндё–		NaN		
+2		ндўг		NaN		
+2		г —«ћЏ«		NaN		
+2		я»«ён		NaN		
+2		нд“Ё		NaN		
+2		«б»”нЎ		NaN		
+2		 Ўж— 		NaN		
+2		нгнб		NaN		
+2		нгеб		NaN		
+2		нд»∆		NaN		
+2		Ќ–— 		NaN		
+2		«бгжё 		NaN		
+2		нг‘н		NaN		
+2		«бгж”Џ		NaN		
+2		нбг”		NaN		
+2		нбён		NaN		
+2		ћ—н∆«		NaN		
+2		«бќбжё		NaN		
+2		ѕ«Џг«		NaN		
+2		«бќбЁн		NaN		
+2		«бяЋн—нд		NaN		
+2		«б»—нЅ		NaN		
+2		ћ«б«я”н		NaN		
+2		 ƒнѕ		NaN		
+2		ня дЁ		NaN		
+2		нягд		NaN		
+2		 ƒеб		NaN		
+2		ня гб		NaN		
+2		няЁб		NaN		
+2		г Ёжё«		NaN		
+2		«бг” Џ«д		NaN		
+2		џдм		NaN		
+2		ндѕгћж«		NaN		
+2		гЏ гѕ		NaN		
+2		нж«ћежд		NaN		
+2		ня—г		NaN		
+2		ня——		NaN		
+2		Џ«“гжд		NaN		
+2		 ƒќ—		NaN		
+2		џ—г		NaN		
+2		џ—ё		NaN		
+2		нд”ћг		NaN		
+2		ќ«‘ёћн		NaN		
+2		«бгдЌб		NaN		
+2		«” џдм		NaN		
+2		Џгн		NaN		
+2		«” џб 		NaN		
+2		Џг 		NaN		
+2		 гЋб 		NaN		
+2		Џб 		NaN		
+2		н ЌѕЋжд		NaN		
+2		Џ”м		NaN		
+2		«” џ—ё		NaN		
+2		нЁж 		NaN		
+2		г Џ«жджд		NaN		
+2		Ў»н«		NaN		
+2		нЁёѕ		NaN		
+2		«бггЋб		NaN		
+2		я«Ён«		NaN		
+2		«бгг Џ		NaN		
+2		Џ«—		NaN		
+2		Џ«»		NaN		
+2		ўЁ—		NaN		
+2		«бгбё»		NaN		
+2		нЁ”ѕ		NaN		
+2		нЁ—ё		NaN		
+2		нЁ—џ		NaN		
+2		гќнЁ«		NaN		
+2		Ёжћ∆ 		NaN		
+2		н ”бгж«		NaN		
+2		‘«еѕд«		NaN		
+2		«бгбЌё		NaN		
+2		нЏбгж«		NaN		
+2		гдЌдн		NaN		
+2		’ѕнён		NaN		
+2		нЏ —÷		NaN		
+2		Ў«—ѕ		NaN		
+2		нёѕ—жд		NaN		
+2		÷гд 		NaN		
+2		Ў»Џ		NaN		
+2		Ў«б		NaN		
+2		Ў«—		NaN		
+2		”«егж«		NaN		
+2		Џ—÷д«		NaN		
+2		  џн—		NaN		
+2		«бг” ‘—н		NaN		
+2		«бгё—д		NaN		
+2		÷Ќм		NaN		
+2		нжЁёж«		NaN		
+2		’б»		NaN		
+2		«ќ—«ће		NaN		
+2		’ѕё		NaN		
+2		«б«г—нян		NaN		
+2		Ќ»–«		NaN		
+2		нЏ«дм		NaN		
+2		 Ёян—н		NaN		
+2		«” ÷«Ё		NaN		
+2		Ќ«гн		NaN		
+2		д—«ед		NaN		
+2		‘ё 		NaN		
+2		Ќ«Ёб		NaN		
+2		«б“«е—		NaN		
+2		нЏ«—÷		NaN		
+2		Ќ«”г		NaN		
+2		«б”ж—нжд		NaN		
+2		«бжЌнѕ«д		NaN		
+2		”гЏ		NaN		
+2		«б“«ќ—		NaN		
+2		е“г 		NaN		
+2		г“ѕжћ		NaN		
+2		 ж«ћѕ 		NaN		
+2		«бё’н—		NaN		
+2		”— 		NaN		
+2		«бё’жм		NaN		
+2		«бд«гж”		NaN		
+2		”ќн		NaN		
+2		«ё‘Џ— 		NaN		
+2		”ќ—		NaN		
+2		”∆б		NaN		
+2		«бгждѕн«бн		NaN		
+2		«б«ж”Ў		NaN		
+2		Џнд 		NaN		
+2		«б«жЌѕ		NaN		
+2		‘«”Џ«		NaN		
+2		« нЌ 		NaN		
+2		 — я“		NaN		
+2		г— «Ќжд		NaN		
+2		»«ѕ—ж«		NaN		
+2		гд»Џ«		NaN		
+2		нџбё		NaN		
+2		”ѕѕж«		NaN		
+2		“ћ 		NaN		
+2		—ж”		NaN		
+2		н” ёбжд		NaN		
+2		«б’жнбЌн		NaN		
+2		нд ёѕ		NaN		
+2		Џбнед		NaN		
+2		ггджЏ		NaN		
+2		г»——«		NaN		
+2		нѕ«Џ»		NaN		
+2		дЁ”н«		NaN		
+2		—’ѕ		NaN		
+2		«б»«ён		NaN		
+2		нЏн»		NaN		
+2		« жёЏ		NaN		
+2		нЏж÷		NaN		
+2		нд ”»		NaN		
+2		Ќ÷ж—н		NaN		
+2		б«“г		NaN		
+2		«бг“нѕн		NaN		
+2		—Ќб		NaN		
+2		б«Ќў		NaN		
+2		«÷«Ённд		NaN		
+2		—»Ў		NaN		
+2		—«Ќ		NaN		
+2		дж«ће		NaN		
+2		‘«—Ё 		NaN		
+2		нЏЎб		NaN		
+2		Џжд«		NaN		
+2		  ’ѕ—		NaN		
+2		нЏћ»		NaN		
+2		нЏ»Ћ		NaN		
+2		нЏ«—		NaN		
+2		 ‘—Ё 		NaN		
+1		ѕе”		NaN		
+1		–«ё		NaN		
+1		ябн«		NaN		
+1		ѕгн		NaN		
+1		ѕг 		NaN		
+1		«б«ж—ж»ннд		NaN		
+1		ѕб 		NaN		
+1		«бўе—«д		NaN		
+1		 —«ед		NaN		
+1		«б—ЁнЏ		NaN		
+1		н“ѕ«ѕ		NaN		
+1		«бгдё÷н		NaN		
+1		д ѕќб		NaN		
+1		  ‘—Ё		NaN		
+1		ѕндн		NaN		
+1		«Ћ»  		NaN		
+1		ѕЁЏдн		NaN		
+1		д”нд«		NaN		
+1		«ё дЏ		NaN		
+1		—«ёнд		NaN		
+1		нЎж—		NaN		
+1		«бё—н»		NaN		
+1		«бё—жн		NaN		
+1		нЎгЏ		NaN		
+1		’нѕбн		NaN		
+1		«ќ–д«		NaN		
+1		«” ѕнж		NaN		
+1		н”»Ќжд		NaN		
+1		нгджд		NaN		
+1		Џеѕ 		NaN		
+1		«‘я—я		NaN		
+1		д ќЎм		NaN		
+1		г—н÷«		NaN		
+1		«ё ÷ 		NaN		
+1		нЎџм		NaN		
+1		ќб’		NaN		
+1		ќб«		NaN		
+1		«б—«∆ѕн		NaN		
+1		ќЁн		NaN		
+1		ќЁЁ		NaN		
+1		 —«»Ў		NaN		
+1		џ«г÷		NaN		
+1		ггяд«		NaN		
+1		«ё Ќг		NaN		
+1		н’ЎЌ»		NaN		
+1		«” ѕЏн		NaN		
+1		 ќжЁж«		NaN		
+1		нЎ—ѕ		NaN		
+1		ќЎн		NaN		
+1		Ё«Ёж—н		NaN		
+1		дЁ–ж«		NaN		
+1		н÷нЏ		NaN		
+1		«бЋг«дндн		NaN		
+1		д Ќгб		NaN		
+1		«” ѕ—я		NaN		
+1		ќ—ё		NaN		
+1		џ«÷»		NaN		
+1		Ќгм		NaN		
+1		«бг”«дѕ		NaN		
+1		н÷џЎ		NaN		
+1		«бќ«ЎнЅ		NaN		
+1		—«ЁЏ«		NaN		
+1		Џ«—÷ 		NaN		
+1		 ж»нќ		NaN		
+1		н÷Ў—		NaN		
+1		—«Ё÷«		NaN		
+1		џ«» 		NaN		
+1		џ«»«		NaN		
+1		џ«∆»		NaN		
+1		Џгё 		NaN		
+1		«бб« Ён		NaN		
+1		н÷Ќя		NaN		
+1		ЌЎ 		NaN		
+1		 ” ёЎ»«д		NaN		
+1		«б”г—«Ѕ		NaN		
+1		н’ж—		NaN		
+1		н÷»Ў		NaN		
+1		н’дЁ		NaN		
+1		Ќ——		NaN		
+1		Ќ—«		NaN		
+1		нЁ÷б«д		NaN		
+1		н’гѕ		NaN		
+1		н’бн		NaN		
+1		Ќѕ 		NaN		
+1		  —я“		NaN		
+1		н »«ежд		NaN		
+1		ЌЋ 		NaN		
+1		Ќ г		NaN		
+1		ће“		NaN		
+1		Ќ«—		NaN		
+1		Ќ«ѕ		NaN		
+1		ћб”		NaN		
+1		«бгЏ«ѕ		NaN		
+1		Џбгн«		NaN		
+1		Џбн«		NaN		
+1		н’Џѕ		NaN		
+1		«бгўбг		NaN		
+1		«бя« «бждннд		NaN		
+1		Џбдн		NaN		
+1		Џбгд«		NaN		
+1		«бжЁн—		NaN		
+1		н’—Ё		NaN		
+1		н’—Ќ		NaN		
+1		  —ѕѕ		NaN		
+1		н’ѕг		NaN		
+1		гћгЏнд		NaN		
+1		«б‘енѕ		NaN		
+1		« ябг		NaN		
+1		н‘«Ѕжд		NaN		
+1		«б«ќ—н« 		NaN		
+1		«ё«г 		NaN		
+1		н‘нѕ		NaN		
+1		нћ«—ж«		NaN		
+1		г—её«		NaN		
+1		ћ—н		NaN		
+1		Џ«ѕб 		NaN		
+1		ћ—»		NaN		
+1		ћѕн		NaN		
+1		  –я—		NaN		
+1		«б’«бЌнд		NaN		
+1		ћ«ѕ		NaN		
+1		н‘џб		NaN		
+1		н‘Џб		NaN		
+1		 —«ћЏ 		NaN		
+1		»б«ѕн		NaN		
+1		н‘Ў»		NaN		
+1		Ќяжгн		NaN		
+1		г жћжд		NaN		
+1		я«‘Ё«		NaN		
+1		«дёб» 		NaN		
+1		д‘«еѕ		NaN		
+1		«бгћ—жЌ		NaN		
+1		н Ё«ег		NaN		
+1		г» ж—		NaN		
+1		е Ё 		NaN		
+1		н‘ ѕ		NaN		
+1		н”жё		NaN		
+1		н”е—		NaN		
+1		«б’«гѕ		NaN		
+1		н”дѕ		NaN		
+1		н”дЌ		NaN		
+1		н”бя		NaN		
+1		Џя”н		NaN		
+1		Џя” 		NaN		
+1		н”Ё—		NaN		
+1		 жн		NaN		
+1		Џя— 		NaN		
+1		гёдЏнд		NaN		
+1		 е“		NaN		
+1		«” ћ«»		NaN		
+1		«бг÷нЅ		NaN		
+1		 г”		NaN		
+1		 б«		NaN		
+1		 ёж		NaN		
+1		÷ЏЁ 		NaN		
+1		 ёг		NaN		
+1		н”Џѕ		NaN		
+1		 ё—		NaN		
+1		 Ён		NaN		
+1		 Ё“		NaN		
+1		н”ЎЏ		NaN		
+1		« ёѕг		NaN		
+1		е «д		NaN		
+1		 џЎ		NaN		
+1		 џ÷		NaN		
+1		н”ѕн		NaN		
+1		 ЏЎ		NaN		
+1		 Џ“		NaN		
+1		 Џћ		NaN		
+1		 ўб		NaN		
+1		‘ќ’н нд		NaN		
+1		н”Ќ»		NaN		
+1		 ’Ё		NaN		
+1		н“нд		NaN		
+1		 ’—		NaN		
+1		 ‘д		NaN		
+1		н“нЌ		NaN		
+1		 ‘Џ		NaN		
+1		  ѕ»—		NaN		
+1		«бќбнћм		NaN		
+1		 —ё		NaN		
+1		 —ѕ		NaN		
+1		 ѕг		NaN		
+1		»«ежндн		NaN		
+1		 ћ—		NaN		
+1		 Ћё		NaN		
+1		  Ќ		NaN		
+1		н—Ќбжд		NaN		
+1		дж÷Ќ		NaN		
+1		 » 		NaN		
+1		 « 		NaN		
+1		н”«ег«		NaN		
+1		«бг÷«Ё		NaN		
+1		«бг÷«ѕ		NaN		
+1		  ќЎм		NaN		
+1		джће		NaN		
+1		’Ќ—«жн		NaN		
+1		г —«гн		NaN		
+1		гё’ж—«		NaN		
+1		«бёб«∆б		NaN		
+1		”ѕѕ 		NaN		
+1		н“ѕѕ		NaN		
+1		  б«Џ»		NaN		
+1		н“ќ—		NaN		
+1		 ‘ ен		NaN		
+1		д »дм		NaN		
+1		«бЏёб«дн		NaN		
+1		  Ќжб		NaN		
+1		«б—«џ»« 		NaN		
+1		н—жћ		NaN		
+1		н—её		NaN		
+1		 Ќн« н		NaN		
+1		н—гн		NaN		
+1		н—гм		NaN		
+1		«б яжндн		NaN		
+1		н—яд		NaN		
+1		«”нжн«		NaN		
+1		«ќ бЁ		NaN		
+1		н—ёѕ		NaN		
+1		«бЁнЁн		NaN		
+1		«бг‘нд		NaN		
+1		 ” жЏ»		NaN		
+1		»д«		NaN		
+1		«—”б 		NaN		
+1		н—÷м		NaN		
+1		н—“ё		NaN		
+1		”ќ— 		NaN		
+1		дден		NaN		
+1		гЌбн нд		NaN		
+1		н—ѕг		NaN		
+1		н—ѕЏ		NaN		
+1		«ќ —Џ		NaN		
+1		«бгЏћ»нд		NaN		
+1		яџн—н		NaN		
+1		ддёб		NaN		
+1		ддЁн		NaN		
+1		н—Ћм		NaN		
+1		 ” ебя		NaN		
+1		»‘—		NaN		
+1		н— »		NaN		
+1		  ћдм		NaN		
+1		н—»ж		NaN		
+1		н—»я		NaN		
+1		н—»Ў		NaN		
+1		»—Џ		NaN		
+1		  ћбм		NaN		
+1		»ѕ 		NaN		
+1		«бг‘—ё		NaN		
+1		ж«’Ёнд		NaN		
+1		«жѕ		NaN		
+1		гё”г«		NaN		
+1		«яд		NaN		
+1		Ћ«джн«		NaN		
+1		ћЏбя		NaN		
+1		г—я“н		NaN		
+1		е«ѕ∆		NaN		
+1		ддћЌ		NaN		
+1		ж«”Џ«		NaN		
+1		«Ёёѕ 		NaN		
+1		дЁ ќ—		NaN		
+1		–я—д«		NaN		
+1		дгдЌ		NaN		
+1		е«∆б		NaN		
+1		«б жд”ннд		NaN		
+1		д «»Џ		NaN		
+1		«” »‘—		NaN		
+1		«’—		NaN		
+1		Џж бн		NaN		
+1		«‘я		NaN		
+1		«бћ«б”нд		NaN		
+1		нѕжд		NaN		
+1		«”—		NaN		
+1		«Ўг∆д		NaN		
+1		нѕбн		NaN		
+1		«ќн		NaN		
+1		«ќб		NaN		
+1		«Ќ—		NaN		
+1		«Ћё		NaN		
+1		«бгдЏёѕ		NaN		
+1		«” «дЁ		NaN		
+1		нЎн—ж«		NaN		
+1		нѕЏн		NaN		
+1		я« «бждннд		NaN		
+1		нЏ »—е		NaN		
+1		«б«”жн«Ѕ		NaN		
+1		нѕ—»		NaN		
+1		дбг”		NaN		
+1		нѕќд		NaN		
+1		«бЁж—н		NaN		
+1		г ж«Ё—		NaN		
+1		 ‘«еѕ		NaN		
+1		«бг“Џћ		NaN		
+1		нќнб		NaN		
+1		«б «—нќм		NaN		
+1		»ѕдн«		NaN		
+1		нќжб		NaN		
+1		«б”бжян		NaN		
+1		н ћеж«		NaN		
+1		“нд 		NaN		
+1		«” »н«д		NaN		
+1		нќдЏ		NaN		
+1		нѕ«—		NaN		
+1		нќбж		NaN		
+1		г«бя«		NaN		
+1		нќбЎ		NaN		
+1		нќЁн		NaN		
+1		нќЁм		NaN		
+1		нќЁЁ		NaN		
+1		ж«Ћёнд		NaN		
+1		«бг—н÷		NaN		
+1		«бг—нЌ		NaN		
+1		«бг—жЏ		NaN		
+1		«ћ гЏж«		NaN		
+1		гнж‘жћн		NaN		
+1		»жбдѕнжд		NaN		
+1		н”«Џѕж«		NaN		
+1		«бё«дждннд		NaN		
+1		нќЎЁ		NaN		
+1		дбЌў		NaN		
+1		 г«—”д		NaN		
+1		«Ё—нён		NaN		
+1		г” ёбнд		NaN		
+1		г” ёбжд		NaN		
+1		 Џ–—ж«		NaN		
+1		 ‘«»е		NaN		
+1		нЌнб		NaN		
+1		нЌнЎ		NaN		
+1		«бгЏ—ж÷		NaN		
+1		нќ ’		NaN		
+1		нЌжг		NaN		
+1		«’ЎЁж«		NaN		
+1		«г Ћб		NaN		
+1		нќ«Ё		NaN		
+1		н ће«д		NaN		
+1		нЌгн		NaN		
+1		нЌбг		NaN		
+1		г г”яжд		NaN		
+1		нЌяг		NaN		
+1		нЌЁў		NaN		
+1		нЌЁ“		NaN		
+1		«бжЁн		NaN		
+1		дя‘Ё		NaN		
+1		дя”»		NaN		
+1		«—ѕдн		NaN		
+1		«бг–еб		NaN		
+1		едёбж«		NaN		
+1		дя——		NaN		
+1		нЌў—		NaN		
+1		нЌЎг		NaN		
+1		ќ—жћн		NaN		
+1		н—ёжд		NaN		
+1		«ё Ќг 		NaN		
+1		нЌ’ѕ		NaN		
+1		дёнг		NaN		
+1		н Ќ«‘м		NaN		
+1		«бдў«гн		NaN		
+1		дя »		NaN		
+1		нЌ“г		NaN		
+1		«бж’н		NaN		
+1		«бё«”н		NaN		
+1		г ё«—»«		NaN		
+1		нћн“		NaN		
+1		нћн—		NaN		
+1		нЌ я		NaN		
+1		«б дЁ”н		NaN		
+1		«б ён 		NaN		
+1		Ћёнб«		NaN		
+1		«бё«»б		NaN		
+1		г’—Ённд		NaN		
+1		ж«ѕдм		NaN		
+1		«бё«∆б		NaN		
+1		«бЎжбм		NaN		
+1		«бгѕнѕ		NaN		
+1		«б д«“бн		NaN		
+1		«бгѕдн		NaN		
+1		«бг”бЌнд		NaN		
+1		«дЁ—«ѕн«		NaN		
+1		“ж—ё		NaN		
+1		—ж ндн		NaN		
+1		нћ—г		NaN		
+1		нћѕн		NaN		
+1		«бгѕЏн		NaN		
+1		—«÷нд		NaN		
+1		дЁёѕ		NaN		
+1		—«÷н«		NaN		
+1		÷«ЏЁ 		NaN		
+1		Џ«∆бн		NaN		
+1		ябЁж«		NaN		
+1		нћ»—		NaN		
+1		н—ЁЏ«		NaN		
+1		«бгд’ж’		NaN		
+1		«бгд÷»Ў		NaN		
+1		гќ’’«		NaN		
+1		«ж—ѕ 		NaN		
+1		«бг д«ё÷		NaN		
+1		«бЌнжн		NaN		
+1		дЁ”—		NaN		
+1		г«—”ж«		NaN		
+1		дЁќ—		NaN		
+1		»нЏ 		NaN		
+1		г ”«∆б«		NaN		
+1		Џ«∆ѕ«		NaN		
+1		«бд‘Ў		NaN		
+1		 ” Ёнѕ		NaN		
+1		«бгƒ””нд		NaN		
+1		 Ё ќ—		NaN		
+1		«г«—”		NaN		
+1		«б”бг«д		NaN		
+1		«бгќЎЎ		NaN		
+1		”«дѕ		NaN		
+1		«бгќ“н		NaN		
+1		н ёд		NaN		
+1		н я∆		NaN		
+1		«б”жѕ«Ѕ		NaN		
+1		н б«Ём		NaN		
+1		«бгќћб		NaN		
+1		ггЎ—«		NaN		
+1		—ћжбн«		NaN		
+1		«—ћже		NaN		
+1		«бў«бг		NaN		
+1		дЌ Ёб		NaN		
+1		дЌ Ёў		NaN		
+1		ня »жд		NaN		
+1		”Џнѕнд		NaN		
+1		”Џнѕжд		NaN		
+1		«бгЌёё		NaN		
+1		«бг”яндн		NaN		
+1		н ”Џ		NaN		
+1		«бг” еѕЁнд		NaN		
+1		”«ќд		NaN		
+1		«— »«Ўяг		NaN		
+1		”«ќ—		NaN		
+1		”«Ќё		NaN		
+1		«бгћ«дн		NaN		
+1		«бЁя—н		NaN		
+1		”«Ќ—		NaN		
+1		«бгя ж»		NaN		
+1		н ќЎ		NaN		
+1		«бг–б		NaN		
+1		«бгќб		NaN		
+1		”«∆Ќ		NaN		
+1		геѕѕжд		NaN		
+1		гж«“н«		NaN		
+1		«бгЌ——		NaN		
+1		ћ”ѕ 		NaN		
+1		«б«÷ЏЁ		NaN		
+1		джЁ«—н		NaN		
+1		н б«Ѕг		NaN		
+1		«бгЌ»»		NaN		
+1		г жЁ—		NaN		
+1		н” жћ»		NaN		
+1		«бгя ”»		NaN		
+1		н” «ебжд		NaN		
+1		нЏ«жѕж«		NaN		
+1		 Џ«н‘д«		NaN		
+1		ќ«дж«		NaN		
+1		г‘ж«—н		NaN		
+1		н»нд		NaN		
+1		Ё«— ЁЏ		NaN		
+1		“бд«		NaN		
+1		н»дн		NaN		
+1		«бгћ”г		NaN		
+1		«бгћ—н		NaN		
+1		«бгћѕн		NaN		
+1		ндѕгж«		NaN		
+1		«б—ћжбн		NaN		
+1		гЁнб«		NaN		
+1		«— гм		NaN		
+1		ћ“∆н		NaN		
+1		нёжгж«		NaN		
+1		«Џ гѕж«		NaN		
+1		«бгЋг—		NaN		
+1		н»Ўб		NaN		
+1		н” де÷		NaN		
+1		н” е«д		NaN		
+1		н»“џ		NaN		
+1		н»—г		NaN		
+1		н»ѕн		NaN		
+1		г—џж»		NaN		
+1		н»ќ”		NaN		
+1		н—‘Ќдн		NaN		
+1		»дн 		NaN		
+1		яж»—н		NaN		
+1		«бќ»—н		NaN		
+1		н«яб		NaN		
+1		я‘ќ’		NaN		
+1		”«ж— 		NaN		
+1		нќ‘«е		NaN		
+1		гё дЏ		NaN		
+1		дб ён		NaN		
+1		«” Ё“«“н		NaN		
+1		«бќ«дё		NaN		
+1		ћ—» 		NaN		
+1		÷Ќя 		NaN		
+1		«— «Ќ		NaN		
+1		«бќ«б’		NaN		
+1		«бг ёд		NaN		
+1		н’«—Џ		NaN		
+1		”«ег«		NaN		
+1		н’«ѕЁ		NaN		
+1		ѕЏж«		NaN		
+1		ќ«бн«		NaN		
+1		«б«”жѕ		NaN		
+1		«б«”еб		NaN		
+1		гё ÷»		NaN		
+1		« ’б 		NaN		
+1		н— ѕнд		NaN		
+1		«бќ«’—		NaN		
+1		« ’Ё 		NaN		
+1		«бќ«—ё		NaN		
+1		ћ–—н		NaN		
+1		«бг “д		NaN		
+1		н жЁ—		NaN		
+1		«бЌгнд		NaN		
+1		«џг«Ѕ		NaN		
+1		«бг—«еёнд		NaN		
+1		я“нд		NaN		
+1		г гяд		NaN		
+1		”«ден		NaN		
+1		нг бяжд		NaN		
+1		н ж’б		NaN		
+1		«б—ѕнЅ		NaN		
+1		«бгЏ ѕб		NaN		
+1		Џ’Ё 		NaN		
+1		н гн“жд		NaN		
+1		г÷«ЏЁ«		NaN		
+1		н ж«д		NaN		
+1		«д“Џћж«		NaN		
+1		«ё —»ж«		NaN		
+1		«ё —»д«		NaN		
+1		н” Ёнѕж«		NaN		
+1		нг‘жд		NaN		
+1		 Ё’нбн		NaN		
+1		 Ќ Ёб		NaN		
+1		Џ’»н		NaN		
+1		Џ‘д«		NaN		
+1		нг бя«д		NaN		
+1		н” ягб		NaN		
+1		џ«г»н«		NaN		
+1		«бћ«яж“н		NaN		
+1		н е—»		NaN		
+1		Џ‘ё 		NaN		
+1		н ећг		NaN		
+1		 Ќ ‘ѕ		NaN		
+1		нƒжн		NaN		
+1		 Ќ —г		NaN		
+1		 Џн‘ж«		NaN		
+1		н дёб		NaN		
+1		г Ќѕнд		NaN		
+1		я—ѕн		NaN		
+1		Ў«б»д«		NaN		
+1		« ”Џ 		NaN		
+1		«бг«е—		NaN		
+1		«бг«дн		NaN		
+1		«бг«дЏ		NaN		
+1		«бг”«дѕнд		NaN		
+1		нбЏ»ж«		NaN		
+1		Ќ«бннд		NaN		
+1		дЏнѕ		NaN		
+1		нƒ”Ё		NaN		
+1		ѕ—н”ѕд		NaN		
+1		«бћѕннд		NaN		
+1		нё —д		NaN		
+1		«дё”г 		NaN		
+1		дЏбд		NaN		
+1		нƒќ—		NaN		
+1		нѕЏгжд		NaN		
+1		нѕЏгжя		NaN		
+1		гё«—»		NaN		
+1		«бг«”н		NaN		
+1		«бгЏ«я”		NaN		
+1		 ё«»б «		NaN		
+1		дЏЎн		NaN		
+1		«б«”»«дннд		NaN		
+1		н” г Џжд		NaN		
+1		Ќ÷—д«		NaN		
+1		«Ќ Ёў 		NaN		
+1		н” Ёнё		NaN		
+1		нќж÷«д		NaN		
+1		нж«’б«д		NaN		
+1		гЎжб«		NaN		
+1		 ” џ—ё		NaN		
+1		 ” џ—»		NaN		
+1		«бжѕнЏ		NaN		
+1		Џ“г 		NaN		
+1		Џ“б 		NaN		
+1		«бгЏ«—÷		NaN		
+1		 Џ«“нд«		NaN		
+1		дЏ»—		NaN		
+1		г«Џѕ«		NaN		
+1		«б Ќ÷н—н		NaN		
+1		н Ёжёжд		NaN		
+1		нќЁЁж«		NaN		
+1		г Ё«ег		NaN		
+1		нЁ«ж÷дн		NaN		
+1		нЌ’бж«		NaN		
+1		г‘«—яжд		NaN		
+1		’ж н		NaN		
+1		г Ёег		NaN		
+1		Џ““ 		NaN		
+1		нгбя«д		NaN		
+1		«” џ—»ж«		NaN		
+1		ЁЏбн«		NaN		
+1		ЁЏбж«		NaN		
+1		н” Ё«ѕ		NaN		
+1		 ”Џнд		NaN		
+1		д” Џнд		NaN		
+1		н янЁ		NaN		
+1		 б ’ё		NaN		
+1		ћже«д”»н—ћ		NaN		
+1		н”гЌж«		NaN		
+1		ћ—«Ќн		NaN		
+1		н яед		NaN		
+1		 б “г		NaN		
+1		 Ќ«—»		NaN		
+1		Ќ”«»н		NaN		
+1		 д’н»я		NaN		
+1		н ябЁ		NaN		
+1		  ”«Ѕб		NaN		
+1		«б«дѕб”н		NaN		
+1		н е«жд		NaN		
+1		«бгƒнѕ		NaN		
+1		 яжд«		NaN		
+1		«бгƒбг		NaN		
+1		н—÷жд		NaN		
+1		нћб”жд		NaN		
+1		д÷нЁ		NaN		
+1		д÷жћ		NaN		
+1		н я——		NaN		
+1		дЎ»ё		NaN		
+1		«б‘Џб«жн		NaN		
+1		’дЏ«		NaN		
+1		нё«—д		NaN		
+1		д” Џћб		NaN		
+1		н—”гжд		NaN		
+1		«бг гн“« 		NaN		
+1		гќ«бЁ«		NaN		
+1		«бгƒ”Ё		NaN		
+1		«бгд ен		NaN		
+1		÷∆нб		NaN		
+1		г Ќћћ«		NaN		
+1		”«Ё— 		NaN		
+1		”«Ё—«		NaN		
+1		«б ёбнѕннд		NaN		
+1		 ж«Ёёдн		NaN		
+1		Џѕнг		NaN		
+1		Џѕнѕ		NaN		
+1		«б«ЌѕЋ		NaN		
+1		 д«“б г		NaN		
+1		—∆н”н		NaN		
+1		«”нжн		NaN		
+1		«бЏ«ЎЁн		NaN		
+1		д’н—		NaN		
+1		Џѕб 		NaN		
+1		д’дЏ		NaN		
+1		гƒћб«		NaN		
+1		ћ“«∆—н		NaN		
+1		д’г 		NaN		
+1		«бён«”м		NaN		
+1		«бён«ѕн		NaN		
+1		’гѕ 		NaN		
+1		н »«—жд		NaN		
+1		ћж«бн		NaN		
+1		«б»— ё«бн		NaN		
+1		—Ё÷д«		NaN		
+1		д’—Ё		NaN		
+1		д’ѕ—		NaN		
+1		«б»Ќ—ндннд		NaN		
+1		«б’«Џѕн		NaN		
+1		«‘ жд		NaN		
+1		«Ё—ѕ 		NaN		
+1		д‘н—		NaN		
+1		н Ё—џ		NaN		
+1		ггЋб«		NaN		
+1		д‘еѕ		NaN		
+1		я »д«		NaN		
+1		«дў—ж«		NaN		
+1		д” ÷нЁ		NaN		
+1		д‘яб		NaN		
+1		д‘я—		NaN		
+1		 б«‘м		NaN		
+1		Ён—жд		NaN		
+1		«‘ џб		NaN		
+1		 б«Ќё		NaN		
+1		яЋ— 		NaN		
+1		«бЏя—		NaN		
+1		е«нѕн		NaN		
+1		—Ё÷ «		NaN		
+1		гƒЋ—«		NaN		
+1		ћ«дн		NaN		
+1		ћ«гЏ		NaN		
+1		нќ Ён		NaN		
+1		 —яннд		NaN		
+1		÷—»ж«		NaN		
+1		гќ«б»		NaN		
+1		гбн∆«		NaN		
+1		«ћ «“ж«		NaN		
+1		«” »Џѕ 		NaN		
+1		 ћ«ж“ж«		NaN		
+1		н Ё—џж«		NaN		
+1		«б—«ёѕ		NaN		
+1		«бг‘«ен—		NaN		
+1		 ћ«ж“д«		NaN		
+1		Ќёнённд		NaN		
+1		«б«”Ўж—н		NaN		
+1		«» Џѕ 		NaN		
+1		нќ —ё		NaN		
+1		«бЁ÷нб		NaN		
+1		ћ«—н		NaN		
+1		нЁя—жд		NaN		
+1		нЁя—ж«		NaN		
+1		 —ян“н		NaN		
+1		«бћЏЁ—н		NaN		
+1		е«жн«		NaN		
+1		ћ∆д«		NaN		
+1		ћ«∆“		NaN		
+1		д”»н		NaN		
+1		гё—жд«		NaN		
+1		д“б 		NaN		
+1		нЏн‘жд		NaN		
+1		нЏн‘ж«		NaN		
+1		гЏ «ѕ«		NaN		
+1		г«“б 		NaN		
+1		ёж—д		NaN		
+1		Ё«  ег		NaN		
+1		«б “г 		NaN		
+1		 Џеѕ 		NaN		
+1		«бЎЁб		NaN		
+1		 Џдне		NaN		
+1		«” ќѕгж«		NaN		
+1		ёж»б		NaN		
+1		н жёЁж«		NaN		
+1		н«‘нд		NaN		
+1		нЏдн«д		NaN		
+1		 џ«Ёб		NaN		
+1		нг«—”ж«		NaN		
+1		«‘«еѕ		NaN		
+1		«б Џ«ѕбн		NaN		
+1		«  гЏ		NaN		
+1		г»ѕЏнд		NaN		
+1		д—ЁЏ		NaN		
+1		д—Ё÷		NaN		
+1		«б»«ёнд		NaN		
+1		д” ”бг		NaN		
+1		«бгЎбж»жд		NaN		
+1		я»—н		NaN		
+1		 г”яж«		NaN		
+1		ЏЋ— 		NaN		
+1		гћежб«		NaN		
+1		н” џ—»		NaN		
+1		ёдн«		NaN		
+1		д—”г		NaN		
+1		«‘«—я		NaN		
+1		 –я«—н«		NaN		
+1		«‘«ѕ 		NaN		
+1		н” Џн÷		NaN		
+1		Ўн»жд		NaN		
+1		д–н—		NaN		
+1		д–е»		NaN		
+1		нг Ўн		NaN		
+1		‘»«»н«		NaN		
+1		д–я—		NaN		
+1		«б‘ЌнЌ		NaN		
+1		ёЎ—ннд		NaN		
+1		«бћ«—«ббе		NaN		
+1		«бгд«ЁЌнд		NaN		
+1		я«–»		NaN		
+1		«бж«”Џ		NaN		
+1		«” дћѕ 		NaN		
+1		 »«нд 		NaN		
+1		гбгж”		NaN		
+1		н‘Џ—я		NaN		
+1		н” Џ«д		NaN		
+1		бн»—ед		NaN		
+1		–—нЏ«		NaN		
+1		«б”дџ«Ёж—н		NaN		
+1		дѕгћ		NaN		
+1		г—Ќ«÷		NaN		
+1		«ќ н«—н		NaN		
+1		«бѕ«∆гнд		NaN		
+1		дѕЁЏ		NaN		
+1		ндћЌж«		NaN		
+1		де«∆н нд		NaN		
+1		»ЏЋ 		NaN		
+1		г Џѕѕ		NaN		
+1		г гн“нд		NaN		
+1		гЋгднд		NaN		
+1		дѕЏж		NaN		
+1		ёг г		NaN		
+1		ћ«е“н н		NaN		
+1		гбгЌ«		NaN		
+1		ёбгн		NaN		
+1		ќ«Ў—н		NaN		
+1		дѕѕ 		NaN		
+1		гЌЁж—		NaN		
+1		ёбб 		NaN		
+1		«бг «»Џ« 		NaN		
+1		жЌѕЋ 		NaN		
+1		н»ќбж«		NaN		
+1		«ягбж«		NaN		
+1		дќбЎ		NaN		
+1		н џн»		NaN		
+1		 Џ »—«д		NaN		
+1		«Ё ёѕ		NaN		
+1		«‘ —Ўд«		NaN		
+1		Ќ÷«—н		NaN		
+1		ёб’ 		NaN		
+1		«бг—ж—н		NaN		
+1		г Ё«бнд		NaN		
+1		Ё”нжбжћн		NaN		
+1		‘еѕж«		NaN		
+1		н џб»		NaN		
+1		‘еѕд«		NaN		
+1		«б‘«ё		NaN		
+1		ѕЏгж«		NaN		
+1		ѕЏгдн		NaN		
+1		г Ўж—		NaN		
+1		«» ”г 		NaN		
+1		Џ»— 		NaN		
+1		Џ»—«		NaN		
+1		дќ‘м		NaN		
+1		”«Џѕ 		NaN		
+1		«бг—ежд		NaN		
+1		нг«дЏ		NaN		
+1		гд«Ё”жд		NaN		
+1		Џ—«ён«		NaN		
+1		г«ќЎЎ		NaN		
+1		дќѕг		NaN		
+1		«бгг«—”нд		NaN		
+1		Џ«дё		NaN		
+1		ќ«’нд		NaN		
+1		дЌгн		NaN		
+1		дЌгѕ		NaN		
+1		«б”—н		NaN		
+1		дЌяг		NaN		
+1		д” ёб		NaN		
+1		дЌЁ“		NaN		
+1		 ћЏбд«		NaN		
+1		н Џбг		NaN		
+1		ѕЏг г		NaN		
+1		Џ«’Ё		NaN		
+1		Џ«‘ё		NaN		
+1		д” џб		NaN		
+1		дЌўм		NaN		
+1		д” Џѕ		NaN		
+1		д” ЎЏ		NaN		
+1		г” ‘еѕ«		NaN		
+1		дЌ—’		NaN		
+1		Џ« »		NaN		
+1		дЌѕѕ		NaN		
+1		Џ«»—		NaN		
+1		г” еѕЁ		NaN		
+1		дћнѕ		NaN		
+1		б« яжд		NaN		
+1		дћг 		NaN		
+1		«бќ«‘ёћн		NaN		
+1		—‘«жн		NaN		
+1		дћЏб		NaN		
+1		 дёбж«		NaN		
+1		  ћ«ж»		NaN		
+1		  ћ«еб		NaN		
+1		Ќ’б «		NaN		
+1		«бг» ѕ∆		NaN		
+1		«бг—гжё		NaN		
+1		дћ“г		NaN		
+1		«”Ё— 		NaN		
+1		«д ёѕ 		NaN		
+1		дћ—»		NaN		
+1		дћѕѕ		NaN		
+1		ўбж«		NaN		
+1		 е«дн		NaN		
+1		ўбг 		NaN		
+1		г” дѕ«		NaN		
+1		 де«—		NaN		
+1		«б—÷«		NaN		
+1		гжЋжё		NaN		
+1		ћб”ж«		NaN		
+1		 ’«Џѕ 		NaN		
+1		д” Ќж–		NaN		
+1		г–еб«		NaN		
+1		—«ЁЏнд		NaN		
+1		н Ўж—		NaN		
+1		ёЁ“ 		NaN		
+1		«д Ё÷ 		NaN		
+1		гѕЏжг«		NaN		
+1		д ћ«ж“		NaN		
+1		д ћ«еб		NaN		
+1		гн“ 		NaN		
+1		«бЁ—д”нннд		NaN		
+1		ќ«”—«		NaN		
+1		гбЁ «		NaN		
+1		г” г—«		NaN		
+1		гг«—”н		NaN		
+1		«Ё«ѕ 		NaN		
+1		Ќёжён		NaN		
+1		н— я»		NaN		
+1		дЋ» 		NaN		
+1		 ” Ћн—		NaN		
+1		н— ЁЏ		NaN		
+1		«б«” Џ—«÷н		NaN		
+1		г–е»н		NaN		
+1		нџдџ—		NaN		
+1		Џ«—÷ж«		NaN		
+1		гЌ’ж—«		NaN		
+1		«б‘«Ён		NaN		
+1		н— ‘Ё		NaN		
+1		нбёне		NaN		
+1		ќЎЁж«		NaN		
+1		д —я		NaN		
+1		г Џбб«		NaN		
+1		«б‘«”Џ		NaN		
+1		н— «Ќ		NaN		
+1		 ”«Ѕб 		NaN		
+1		Ќўнд«		NaN		
+1		д »Џ		NaN		
+1		«б‘«Ќ»		NaN		
+1		гжЁё		NaN		
+1		ќ«—ё«		NaN		
+1		«б‘«∆я		NaN		
+1		’Џѕ 		NaN		
+1		”«»ёнд		NaN		
+1		«Ќ —Ё 		NaN		
+1		«Ќ —Ё«		NaN		
+1		”«»ёжд		NaN		
+1		’Џ» 		NaN		
+1		«бќЁн		NaN		
+1		н” Ћг—ж«		NaN		
+1		 е—»ж«		NaN		
+1		н ёѕгжд		NaN		
+1		г Ё«∆бнд		NaN		
+1		н” —нЌ		NaN		
+1		»“џ 		NaN		
+1		н ’—Ё		NaN		
+1		геж—		NaN		
+1		д»е 		NaN		
+1		н ’ѕм		NaN		
+1		«ж—ж»н		NaN		
+1		н” бгж«		NaN		
+1		гќ«Ў»«		NaN		
+1		ќбЁ 		NaN		
+1		«ббжћ” не		NaN		
+1		»—нЅ		NaN		
+1		ё бж«		NaN		
+1		 ” Ё“		NaN		
+1		«б»—‘бждн		NaN		
+1		 ” Ёѕ		NaN		
+1		»—ед		NaN		
+1		г —жя		NaN		
+1		”«»ё«д		NaN		
+1		«Ќ Ёб		NaN		
+1		«бгж“г»нён		NaN		
+1		ќб’ 		NaN		
+1		ўЁ— 		NaN		
+1		«Ќ Ё 		NaN		
+1		«бг—ЁжЏ		NaN		
+1		Ёя—н«		NaN		
+1		«бгжбжѕ		NaN		
+1		нёжѕжд		NaN		
+1		геѕ 		NaN		
+1		н—«жџ		NaN		
+1		нЌгб«д		NaN		
+1		г” ё—«		NaN		
+1		«Ќ ÷д		NaN		
+1		гднЁ		NaN		
+1		«б«ёбнгн		NaN		
+1		д»  		NaN		
+1		гдже		NaN		
+1		«Ќ ‘ѕ		NaN		
+1		д«е“		NaN		
+1		«бЌ”н		NaN		
+1		г” Ён÷		NaN		
+1		н—«Ёё		NaN		
+1		«Ќ —г		NaN		
+1		«бгё—жд		NaN		
+1		н ÷«нё		NaN		
+1		«Ќ’«Ѕ« н		NaN		
+1		нгнбнж		NaN		
+1		«Ќ ѕ 		NaN		
+1		д«ё’		NaN		
+1		г Ё—џнд		NaN		
+1		«Ќ ћ 		NaN		
+1		«бћ—нЌнд		NaN		
+1		«д ёбж«		NaN		
+1		’«ежѕ		NaN		
+1		н ”бб		NaN		
+1		»—»Ў		NaN		
+1		ггн“ «д		NaN		
+1		«Ќ «—		NaN		
+1		«Ќ «ћ		NaN		
+1		 дё÷н		NaN		
+1		«бЌ«—		NaN		
+1		«бЌ«ѕ		NaN		
+1		гд’Ё		NaN		
+1		д«‘ѕ		NaN		
+1		н ÷«ЏЁ		NaN		
+1		гд”ё		NaN		
+1		”«—н«		NaN		
+1		Џднѕ«		NaN		
+1		гд ћ		NaN		
+1		гж«ће		NaN		
+1		гегнд		NaN		
+1		ЌѕЋд«		NaN		
+1		гж÷жЏн		NaN		
+1		—«∆Џ нд		NaN		
+1		н” ѕ—я		NaN		
+1		”ƒ«бн		NaN		
+1		  Џ«жд		NaN		
+1		гЌўжў		NaN		
+1		  Џ«гб		NaN		
+1		«” Ќж«–«		NaN		
+1		ќЁнЁ		NaN		
+1		«б–ж«ѕн		NaN		
+1		 ”«н—		NaN		
+1		гбян		NaN		
+1		 ”«ж 		NaN		
+1		ќЁЁ 		NaN		
+1		 ”«дѕ		NaN		
+1		 “«гд 		NaN		
+1		«ћдн«		NaN		
+1		«бгд ”»нд		NaN		
+1		«Ќ»» 		NaN		
+1		н»«ежд		NaN		
+1		нёбёдн		NaN		
+1		«бнжд«дннд		NaN		
+1		«б ёЎ		NaN		
+1		н” Ќнб		NaN		
+1		д Џ«жд		NaN		
+1		 ”«—Џ		NaN		
+1		«бг‘ежѕ		NaN		
+1		г«нёжг		NaN		
+1		Ё«∆“нд		NaN		
+1		нж«я»		NaN		
+1		гяд 		NaN		
+1		дƒгд		NaN		
+1		’«гѕ«		NaN		
+1		н — »		NaN		
+1		н —»Џ		NaN		
+1		 ’ж—ж«		NaN		
+1		«я«ѕнгн		NaN		
+1		н –г—		NaN		
+1		 ”«Ѕб		NaN		
+1		г” Ќнб«		NaN		
+1		нж«ў»		NaN		
+1		г ЌЁў		NaN		
+1		дƒѕн		NaN		
+1		н” ћн»		NaN		
+1		гёнѕ		NaN		
+1		н” ћгЏ		NaN		
+1		гя»б		NaN		
+1		 бё«∆н		NaN		
+1		«’Ўѕгд«		NaN		
+1		«” Ё«ѕж«		NaN		
+1		«бћд«ндн		NaN		
+1		г— »Ў«		NaN		
+1		«бЁ«—Џ		NaN		
+1		«бЁ«—Ў		NaN		
+1		бн —«ћЏ		NaN		
+1		’«бЌн		NaN		
+1		«бЁ«ќ—		NaN		
+1		«б«Џѕ«н		NaN		
+1		»ЌЋ 		NaN		
+1		«б»н÷		NaN		
+1		«бг Џ’»жд		NaN		
+1		«бЁ«∆ 		NaN		
+1		«д Џ‘ 		NaN		
+1		«б»я—		NaN		
+1		”«ќ—«		NaN		
+1		«бЁд“жнбн		NaN		
+1		«ббѕжѕ		NaN		
+1		«бгЏ—÷нд		NaN		
+1		гёѕ”		NaN		
+1		гжћжѕ«		NaN		
+1		 ЏЎб 		NaN		
+1		гЁнѕ		NaN		
+1		«д ўг 		NaN		
+1		«б ж«»жд		NaN		
+1		ќ—«Ён		NaN		
+1		—жћ 		NaN		
+1		н ’Ёжд		NaN		
+1		 »дне		NaN		
+1		«бг жЁн		NaN		
+1		«бг жЁм		NaN		
+1		г— «ѕн		NaN		
+1		гЁЏг		NaN		
+1		«бё”дЎндн		NaN		
+1		«‘ё«∆н		NaN		
+1		«бг ЌЁ“« 		NaN		
+1		«д ў— 		NaN		
+1		гЎ—жЌ		NaN		
+1		ж«Ёёж«		NaN		
+1		гЁ—Ў		NaN		
+1		гЁ—Ќ		NaN		
+1		’—Ё 		NaN		
+1		н ќЎм		NaN		
+1		н”н”—		NaN		
+1		ё——ж«		NaN		
+1		»—ж”н«		NaN		
+1		«ббн»нд		NaN		
+1		«н”—		NaN		
+1		«бгЌнгнѕ		NaN		
+1		џ«бн«		NaN		
+1		 —ян“д«		NaN		
+1		н‘ ен		NaN		
+1		ёЎЏ«		NaN		
+1		“«жб		NaN		
+1		н‘ ян		NaN		
+1		д÷«ен		NaN		
+1		«б—г÷«дн		NaN		
+1		’—Ќ 		NaN		
+1		н ЌЁў		NaN		
+1		н ЌЁ“		NaN		
+1		 ”ћнбя		NaN		
+1		«ягб 		NaN		
+1		г‘«я”		NaN		
+1		н џб»ж«		NaN		
+1		«” Ћднд«		NaN		
+1		г‘н—нд		NaN		
+1		гЌўж—«		NaN		
+1		«бџ—»н		NaN		
+1		н‘ —я		NaN		
+1		ге гнд		NaN		
+1		н Ќѕм		NaN		
+1		Џ“н“«		NaN		
+1		“«ќ—		NaN		
+1		«бё»—’н		NaN		
+1		н Ќ г		NaN		
+1		ћб»д«		NaN		
+1		«бг дЁ”		NaN		
+1		нЌ÷—«		NaN		
+1		«бЁб«дн		NaN		
+1		н ћд»		NaN		
+1		н ћгЏ		NaN		
+1		«жЁё		NaN		
+1		нбЏ»д		NaN		
+1		«бЎ«∆—		NaN		
+1		’ѕг 		NaN		
+1		’ѕё 		NaN		
+1		«бг ж«Ё—нд		NaN		
+1		  д«жб		NaN		
+1		н ћ”ѕ		NaN		
+1		жж—н		NaN		
+1		«ж”Џ		NaN		
+1		«ЎбЏд«		NaN		
+1		н— »Ўжд		NaN		
+1		 я—— 		NaN		
+1		«Џ ёб 		NaN		
+1		гг ѕЌ«		NaN		
+1		н Џ»жд		NaN		
+1		«бднж“нбдѕн		NaN		
+1		«б»ж—яндн		NaN		
+1		«бё—џн“” «дн		NaN		
+1		 джн—н		NaN		
+1		ћѕнѕ нд		NaN		
+1		г” Џѕ«		NaN		
+1		г ж — нд		NaN		
+1		г ”«»ё		NaN		
+1		«е г		NaN		
+1		ж«—ѕЁ 		NaN		
+1		ё«—Џ 		NaN		
+1		«б ћ«—ннд		NaN		
+1		«дёб		NaN		
+1		«дё–		NaN		
+1		н Џ«бм		NaN		
+1		гЎЌжд		NaN		
+1		н Џ«Ён		NaN		
+1		н Џ«Ём		NaN		
+1		«бЌ«яг		NaN		
+1		ж÷ЏнЁ		NaN		
+1		н Џ«Ўм		NaN		
+1		г жёЏнд		NaN		
+1		«д“б		NaN		
+1		нџ«ѕ—ж«		NaN		
+1		дя ‘Ё		NaN		
+1		н—		NaN		
+1		ем		NaN		
+1		дд		NaN		
+1		н Џ«Ўжд		NaN		
+1		«дћЌ		NaN		
+1		—ёгн		NaN		
+1		бЁ		NaN		
+1		г «ќг		NaN		
+1		яд		NaN		
+1		г «ќ—		NaN		
+1		г «Ќ«		NaN		
+1		Ё÷		NaN		
+1		«гдЌ		NaN		
+1		гƒебжд		NaN		
+1		гЌ–—«		NaN		
+1		»«Ѕ 		NaN		
+1		»—ед 		NaN		
+1		Џ»		NaN		
+1		÷ќ		NaN		
+1		 дЎжн		NaN		
+1		 ж’бж«		NaN		
+1		ё«ѕж«		NaN		
+1		ћб		NaN		
+1		«бћгЏн		NaN		
+1		ћ—		NaN		
+1		«бг ёб»		NaN		
+1		«б’«»—нд		NaN		
+1		 Џ—÷ 		NaN		
+1		 Џ—÷«		NaN		
+1		«г Џ		NaN		
+1		д«ћЌ нд		NaN		
+1		«бЏ”я—м		NaN		
+1		ќЎн—		NaN		
+1		 ÷«ЏЁ		NaN		
+1		«–«Џн		NaN		
+1		«бЌн		NaN		
+1		«бЌ—		NaN		
+1		«бћг		NaN		
+1		гЁ»—я		NaN		
+1		«Ќ ”» «		NaN		
+1		 жд”н«		NaN		
+1		ЎгжЌн		NaN		
+1		«е “ 		NaN		
+1		«бг —«ћЏ		NaN		
+1		ќЎЎ«		NaN		
+1		гџЎм		NaN		
+1		н ѕ«жб		NaN		
+1		 ћ «“		NaN		
+1		 Џѕжд		NaN		
+1		ё—»н		NaN		
+1		гџ—н		NaN		
+1		ё—«Ѕ		NaN		
+1		«бг Ё—Џ		NaN		
+1		«бг Ё—ѕ		NaN		
+1		дЏ ёѕ		NaN		
+1		гЋ«бн« 		NaN		
+1		—џ»ж«		NaN		
+1		нЏ«дн«д		NaN		
+1		гЏбд		NaN		
+1		г д«”нд		NaN		
+1		гќ бЁ «д		NaN		
+1		ћЏбж«		NaN		
+1		г Џ«ѕбнд		NaN		
+1		«я »		NaN		
+1		 Ёжёж«		NaN		
+1		ќ÷Џ 		NaN		
+1		«бб«–Џ		NaN		
+1		Ќ’—н«		NaN		
+1		ёѕнг		NaN		
+1		«ден«		NaN		
+1		 Ќ÷н—н«		NaN		
+1		г“«ћн нд		NaN		
+1		 ќ —Џжд		NaN		
+1		дЏ «ѕ		NaN		
+1		«бг«÷нд		NaN		
+1		ЁЏ«ѕ 		NaN		
+1		жёЏ«		NaN		
+1		Ќ«б нд		NaN		
+1		«ё÷н		NaN		
+1		нѕ«ЁЏжд		NaN		
+1		«ё’ 		NaN		
+1		«бгџ«ѕ—жд		NaN		
+1		гЏ«ё		NaN		
+1		гƒЎ—жд		NaN		
+1		«б«” Ћд«∆н		NaN		
+1		«ё— 		NaN		
+1		«бгЌ гбнд		NaN		
+1		«ёЌг		NaN		
+1		жё н		NaN		
+1		«Ёж“		NaN		
+1		«Ёег		NaN		
+1		»«е—«		NaN		
+1		«Ёя—		NaN		
+1		н ж«ћѕж«		NaN		
+1		«Ёёѕ		NaN		
+1		 д‘—е		NaN		
+1		«бябжн		NaN		
+1		«де «		NaN		
+1		 ѕ—ћн		NaN		
+1		нќ «—ж«		NaN		
+1		«я Ёж«		NaN		
+1		«б«дгж–ћ		NaN		
+1		я”»ж«		NaN		
+1		гџ—н«		NaN		
+1		«б”ндг«∆н		NaN		
+1		гЎжб		NaN		
+1		«÷Ў— 		NaN		
+1		«÷Ў—«		NaN		
+1		«г—нян		NaN		
+1		гЎж—		NaN		
+1		»«бџнд		NaN		
+1		«‘«ѕж«		NaN		
+1		 ћ«—н		NaN		
+1		жбн«ён		NaN		
+1		 я ”Ќ		NaN		
+1		г” џбнд		NaN		
+1		гжд «дн«		NaN		
+1		ЌѕнЋнд		NaN		
+1		н ж«ћѕ«д		NaN		
+1		б«Ё «		NaN		
+1		 н ж		NaN		
+1		«бѕнѕн		NaN		
+1		’«Ён		NaN		
+1		дЏ«бћ		NaN		
+1		«дЁ—ѕ 		NaN		
+1		 “Џ“Џ		NaN		
+1		н д«Ём		NaN		
+1		«бдЁ”«дннд		NaN		
+1		«бежн‘б		NaN		
+1		«Ќ н«Ўн		NaN		
+1		 д”«е		NaN		
+1		гЌ б«		NaN		
+1		нд«ндћ		NaN		
+1		гё—ќ«’		NaN		
+1		«б —яг«дн		NaN		
+1		Ќ«ж— 		NaN		
+1		 Ќбнбн		NaN		
+1		Ќ«∆—нд		NaN		
+1		’«—ќ		NaN		
+1		«бё«е—н		NaN		
+1		 д«ёб 		NaN		
+1		«нћ«»ннд		NaN		
+1		’«ѕЁ		NaN		
+1		 д“Џћ		NaN		
+1		«б‘—Ё«Ѕ		NaN		
+1		«бгќ«бЁ		NaN		
+1		«бџ«“н		NaN		
+1		ёЎЏж«		NaN		
+1		ёЎЏд«		NaN		
+1		«бџ«ѕ—		NaN		
+1		н ѕ—»жд		NaN		
+1		н ѕ—»ж«		NaN		
+1		 жећ		NaN		
+1		 ждћ		NaN		
+1		«” ё»б 		NaN		
+1		г÷Ќн		NaN		
+1		г÷Ќя		NaN		
+1		«бџ«∆—		NaN		
+1		«д »«ен		NaN		
+1		г’ж—		NaN		
+1		«Ё  Ќ 		NaN		
+1		г÷«ѕ		NaN		
+1		г’гг		NaN		
+1		 ж÷Џ		NaN		
+1		 ж÷Ќ		NaN		
+1		 ж’Ё		NaN		
+1		гд’Ёнд		NaN		
+1		 ж”Ў		NaN		
+1		нѕќбж«		NaN		
+1		 ж—н		NaN		
+1		 ж—ѕ		NaN		
+1		г’џ—		NaN		
+1		 д«ё‘«д		NaN		
+1		 жЌн		NaN		
+1		 жћ»		NaN		
+1		 дў—ж«		NaN		
+1		г«∆ нд		NaN		
+1		гЌ»ня		NaN		
+1		 ед∆		NaN		
+1		«бгдёЎЏнд		NaN		
+1		«дяг‘		NaN		
+1		гћежб		NaN		
+1		 д«Ё” 		NaN		
+1		«бЏг«—		NaN		
+1		«” г— «		NaN		
+1		г‘нд		NaN		
+1		г‘нЎ		NaN		
+1		«” дѕ		NaN		
+1		«” гЏ		NaN		
+1		 ѕ«жб 		NaN		
+1		Џ»ё—н		NaN		
+1		н ”«Ѕбжд		NaN		
+1		 е‘г		NaN		
+1		“«жб«		NaN		
+1		 Џ —н		NaN		
+1		 Џ —Ё		NaN		
+1		 Џ —÷		NaN		
+1		«бёжбжд		NaN		
+1		ё«»Џ«		NaN		
+1		« ж«ћѕ		NaN		
+1		Ќ«гб«		NaN		
+1		 ден		NaN		
+1		« егдн		NaN		
+1		‘яб«		NaN		
+1		«÷«Ён«		NaN		
+1		ћнѕжд		NaN		
+1		нЌ Ён		NaN		
+1		«дёб»		NaN		
+1		«” ћѕ		NaN		
+1		гЌ»»«		NaN		
+1		 дЁн		NaN		
+1		ќ—ћ«		NaN		
+1		 дЁё		NaN		
+1		 дЁ”		NaN		
+1		г‘  		NaN		
+1		«бг џн—		NaN		
+1		е« Ё«		NaN		
+1		нд ўгжд		NaN		
+1		г я«Ё∆«		NaN		
+1		г”бЌ		NaN		
+1		нЎ«—ѕ		NaN		
+1		 д’Ё		NaN		
+1		Ќ—Ён«		NaN		
+1		 д’»		NaN		
+1		—џ» 		NaN		
+1		 д‘Ў		NaN		
+1		нЌ –м		NaN		
+1		Ћ«— 		NaN		
+1		Ќжбд«		NaN		
+1		 дЌм		NaN		
+1		 дћ»		NaN		
+1		 д ћ		NaN		
+1		 д«б		NaN		
+1		 гдЌ		NaN		
+1		ЁжёЏ		NaN		
+1		«бѕнд«гнян		NaN		
+1		 ќнб 		NaN		
+1		г«—«Ћжд		NaN		
+1		«бде«—н		NaN		
+1		н”ћбжд		NaN		
+1		«” Џ«ѕж«		NaN		
+1		 ёб’ 		NaN		
+1		 г”м		NaN		
+1		«бгг«Ћб		NaN		
+1		нќ бЁжд		NaN		
+1		г” Ќё«		NaN		
+1		«бджЏн		NaN		
+1		г— »Ўжд		NaN		
+1		г“Џћ		NaN		
+1		‘ћ«Џ«		NaN		
+1		‘Ёен		NaN		
+1		«б—ѕ«ѕн		NaN		
+1		«бЏЁжн		NaN		
+1		«б жЏжн		NaN		
+1		 бЁ 		NaN		
+1		г—н»		NaN		
+1		г ж«Ёё«		NaN		
+1		 Џ«ждж«		NaN		
+1		«”»«д		NaN		
+1		г—жЏ		NaN		
+1		«бг ЏЋ—		NaN		
+1		г—ж«		NaN		
+1		”нгдЏ		NaN		
+1		гё ’—«		NaN		
+1		џ«÷»«		NaN		
+1		г—я»		NaN		
+1		«бгд«”»нд		NaN		
+1		 дќ—Ўж		NaN		
+1		«д ёѕж«		NaN		
+1		 б“г		NaN		
+1		 Џ«—÷		NaN		
+1		нћдне		NaN		
+1		«џбм		NaN		
+1		г—Џ»		NaN		
+1		 бќ’		NaN		
+1		 дЌ’—		NaN		
+1		 бЌў		NaN		
+1		н” —“ёжд		NaN		
+1		 б Ё		NaN		
+1		Ёднд		NaN		
+1		 ябг		NaN		
+1		 ябб		NaN		
+1		н “«нѕ		NaN		
+1		Џд’—н		NaN		
+1		нб Ё 		NaN		
+1		нд«бж«		NaN		
+1		г—»н		NaN		
+1		г–еб		NaN		
+1		нЌ«÷—		NaN		
+1		н д«Ё”«д		NaN		
+1		г” Ћдм		NaN		
+1		н”Џдн		NaN		
+1		 я—г		NaN		
+1		 »«ѕбж«		NaN		
+1		ё«—»		NaN		
+1		«бгќ÷—гнд		NaN		
+1		 Ё«Џб 		NaN		
+1		Ќ«Ёб«		NaN		
+1		 я Ё		NaN		
+1		 ёжм		NaN		
+1		 я »		NaN		
+1		«” Ќж– 		NaN		
+1		ё« б		NaN		
+1		няжд«		NaN		
+1		 я»ѕ		NaN		
+1		 ёдЏ		NaN		
+1		«бе«—»		NaN		
+1		 ёбё		NaN		
+1		 ёбЏ		NaN		
+1		«бг Ў—Ё		NaN		
+1		 ёбѕ		NaN		
+1		«бе«ѕ∆		NaN		
+1		’џн—«		NaN		
+1		 ёЁ“		NaN		
+1		«д «»я		NaN		
+1		«ЏЎ 		NaN		
+1		гб«∆г		NaN		
+1		г  «бн«д		NaN		
+1		гягб«		NaN		
+1		гѕе‘		NaN		
+1		бё«∆ѕ		NaN		
+1		н –я—жд		NaN		
+1		—÷ќ 		NaN		
+1		«Џ—ё		NaN		
+1		жЏѕ 		NaN		
+1		гЏжб«		NaN		
+1		«бг ÷гд		NaN		
+1		«Џѕ 		NaN		
+1		”ндг«∆н		NaN		
+1		џ«дгнд		NaN		
+1		«Џћ»		NaN		
+1		 ё”г		NaN		
+1		«Џ«ё		NaN		
+1		ѕЏ«дн		NaN		
+1		ѕЏ«д«		NaN		
+1		нƒнѕжд		NaN		
+1		г Ё«∆б«		NaN		
+1		 гн“ 		NaN		
+1		 ё б		NaN		
+1		Џ« »д«		NaN		
+1		 Ёдд		NaN		
+1		гѕ—н		NaN		
+1		«бя—н” «б		NaN		
+1		 ѕ«жб		NaN		
+1		Ёбян		NaN		
+1		 д гн		NaN		
+1		«н«ег		NaN		
+1		гѕ«д		NaN		
+1		 ѕ«ЁЏ		NaN		
+1		 д ёб		NaN		
+1		џ«“н«		NaN		
+1		 д ёѕ		NaN		
+1		«бгд ѕ»нд		NaN		
+1		гќ «—н		NaN		
+1		’«бЌнд		NaN		
+1		«бгќ бЁнд		NaN		
+1		 Ё’б		NaN		
+1		 Ё‘б		NaN		
+1		«бднћ—н		NaN		
+1		«бџд«∆н		NaN		
+1		 Ё—ё		NaN		
+1		 Ё—џ		NaN		
+1		«” г Џ 		NaN		
+1		ёЎ—н«		NaN		
+1		«ЎгЌ		NaN		
+1		 Ёќ—		NaN		
+1		дўнЁ нд		NaN		
+1		«бгЌ —Ё«д		NaN		
+1		 ЁЌ’		NaN		
+1		’«ѕё 		NaN		
+1		’«ѕё«		NaN		
+1		гЎ—жЌ«		NaN		
+1		Ёяд 		NaN		
+1		«бќжнбѕн		NaN		
+1		н —яжд		NaN		
+1		Ёяя 		NaN		
+1		гќћб		NaN		
+1		н —яж«		NaN		
+1		гЏдн«		NaN		
+1		«бг‘—жЎ		NaN		
+1		гЏджн		NaN		
+1		Џўнг«		NaN		
+1		гё —Ќ«		NaN		
+1		н‘«еѕжд		NaN		
+1		н‘«еѕж«		NaN		
+1		 Џ«еѕ 		NaN		
+1		—”г 		NaN		
+1		ндў—жд		NaN		
+1		Ёя—н		NaN		
+1		нб«Ќў		NaN		
+1		«” ‘Џ«—		NaN		
+1		нд«Ё”я		NaN		
+1		«” Џ—«÷н		NaN		
+1		 —»Ўдн		NaN		
+1		 ” Џћбж«		NaN		
+1		нд”Ќ»ж«		NaN		
+1		н »«ѕб		NaN		
+1		н »«ѕ—		NaN		
+1		«бяждћжбн		NaN		
+1		б«няжд		NaN		
+1		 д»е 		NaN		
+1		 ќббе		NaN		
+1		«бг ”нѕ		NaN		
+1		гдёЎЏнд		NaN		
+1		гћдн		NaN		
+1		гЌ»»		NaN		
+1		«бгд÷гжд		NaN		
+1		«бг Џ«жднд		NaN		
+1		 “ѕ«ѕ		NaN		
+1		«бг ќ’’нд		NaN		
+1		«’бн		NaN		
+1		«’бЌ		NaN		
+1		Ёёѕ«		NaN		
+1		«»бџ 		NaN		
+1		«бд”«∆н		NaN		
+1		гћ”г		NaN		
+1		 »—Џ«		NaN		
+1		гћ—»		NaN		
+1		«бдёѕн		NaN		
+1		«’џ—		NaN		
+1		 гдн 		NaN		
+1		 гдж«		NaN		
+1		«’ЎЁ		NaN		
+1		нЏгб«д		NaN		
+1		 еѕнЁ«		NaN		
+1		«бЏг—«дн		NaN		
+1		гЏбжг		NaN		
+1		«Џ –— 		NaN		
+1		«бдё«б		NaN		
+1		«бг«бянд		NaN		
+1		гЋбя		NaN		
+1		гЋб 		NaN		
+1		«’ѕ—		NaN		
+1		ёбнбнд		NaN		
+1		«дЎ»ё 		NaN		
+1		«‘нЏ		NaN		
+1		«‘нѕ		NaN		
+1		н” жЏ»ж«		NaN		
+1		г”—ж—		NaN		
+1		«’«»		NaN		
+1		г Џ«—Ё		NaN		
+1		«бдЁЎн		NaN		
+1		«бгџЁж—		NaN		
+1		нЏ »—ж«		NaN		
+1		нЏдне		NaN		
+1		«бяжн н« 		NaN		
+1		нЏджд		NaN		
+1		 д«Ћ—		NaN		
+1		«б«Џ н«ѕн		NaN		
+1		«” Ќёж«		NaN		
+1		я»н—Џд		NaN		
+1		«я ‘Ё 		NaN		
+1		гЋ» 		NaN		
+1		ќ«бн		NaN		
+1		ќ«бЁ		NaN		
+1		 жёЏж«		NaN		
+1		«”жѕ		NaN		
+1		«‘»е		NaN		
+1		«”еб		NaN		
+1		 »ѕб 		NaN		
+1		«‘«Џ		NaN		
+1		«”гм		NaN		
+1		«”гя		NaN		
+1		Ё÷н нд		NaN		
+1		ќ«Ў»		NaN		
+1		н”«Ё—ж«		NaN		
+1		нЏ »—«д		NaN		
+1		ќ«”—		NaN		
+1		Џг—«дн		NaN		
+1		нёе—жд		NaN		
+1		нЌбгжд		NaN		
+1		«”Џм		NaN		
+1		нЏгбд		NaN		
+1		нЌбгж«		NaN		
+1		«бгж«я»		NaN		
+1		н—ѕѕжд		NaN		
+1		г ће		NaN		
+1		ќ« г		NaN		
+1		«б”«–ћ		NaN		
+1		 ёѕгд«		NaN		
+1		г »Џ		NaN		
+1		«бг — »		NaN		
+1		гѕгн«		NaN		
+1		«д÷гж«		NaN		
+1		”д Џ«ёѕ		NaN		
+1		«б«’Ўд«Џн		NaN		
+1		’ж ж«		NaN		
+1		«б”«∆ѕ		NaN		
+1		«бћ”ѕн		NaN		
+1		гд«”»нд		NaN		
+1		‘Џ»н		NaN		
+1		«бё«ѕж—н		NaN		
+1		г гн“«		NaN		
+1		«бЏўнг		NaN		
+1		ЎЁнЁ		NaN		
+1		н”н—жд		NaN		
+1		«бЏўгм		NaN		
+1		 гядн		NaN		
+1		 —нЋ 		NaN		
+1		«Ћн— 		NaN		
+1		«ћ еѕ		NaN		
+1		—“ёдн		NaN		
+1		«бћ«д»н		NaN		
+1		«Џ—» 		NaN		
+1		«бћ—нЌ		NaN		
+1		г Џ«ѕб«		NaN		
+1		 џдн		NaN		
+1		 џбё		NaN		
+1		«—џг		NaN		
+1		«д÷г«		NaN		
+1		«—џ»		NaN		
+1		 ЌЁ“дн		NaN		
+1		я—н” нд		NaN		
+1		 џЁб		NaN		
+1		Ќянг		NaN		
+1		џн— 		NaN		
+1		—я“ж«		NaN		
+1		нжўЁж«		NaN		
+1		еб«бн нд		NaN		
+1		«бгЁ—ж÷		NaN		
+1		г«б 		NaN		
+1		 џЎн		NaN		
+1		 џЎм		NaN		
+1		«—Ќб		NaN		
+1		«—ћж		NaN		
+1		н»«ѕ—жд		NaN		
+1		—Ќгд		NaN		
+1		«бџ—»ннд		NaN		
+1		Ќ—’д«		NaN		
+1		«ћ «Ќ		NaN		
+1		н÷Џж«		NaN		
+1		«–ям		NaN		
+1		«–я—		NaN		
+1		«‘ »е 		NaN		
+1		«–я 		NaN		
+1		«бя”жб		NaN		
+1		 Џдм		NaN		
+1		гЌ —Ёжд		NaN		
+1		«бб« ндн		NaN		
+1		«г дЏ«		NaN		
+1		 Џё»		NaN		
+1		нЌ Ёбжд		NaN		
+1		гЎ«б»н		NaN		
+1		г ќбЁ«		NaN		
+1		 ЏЎм		NaN		
+1		 ЏЎб		NaN		
+1		г ж«÷Џ«		NaN		
+1		«ѕнд		NaN		
+1		—Ќ» 		NaN		
+1		—Ќ»«		NaN		
+1		«бн«»”		NaN		
+1		«ѕн 		NaN		
+1		 д«“б 		NaN		
+1		 Џ““		NaN		
+1		”ядн«		NaN		
+1		 Џѕм		NaN		
+1		”«Џѕждн		NaN		
+1		гќ бЁнд		NaN		
+1		 Џћб		NaN		
+1		—ћЏ 		NaN		
+1		—ћЏ«		NaN		
+1		«бг Ќ—я		NaN		
+1		жб«нгяд		NaN		
+1		нб Ќё«		NaN		
+1		г ж«’б«		NaN		
+1		гж«Ёёнд		NaN		
+1		«д‘џб		NaN		
+1		нЏ«дне		NaN		
+1		 я—нгн«		NaN		
+1		—Ћн 		NaN		
+1		«бЁ÷«∆н		NaN		
+1		«ќн»		NaN		
+1		«ѕ«—		NaN		
+1		«я дЁ		NaN		
+1		«бЏ’—н		NaN		
+1		ге«—ннд		NaN		
+1		«ќЁё		NaN		
+1		 Ўн—		NaN		
+1		 Ўжн		NaN		
+1		 ЎжЏ		NaN		
+1		 ЎгЌ		NaN		
+1		 Ўбё		NaN		
+1		«д‘∆ 		NaN		
+1		 ЎЁж		NaN		
+1		«бг ћѕѕ		NaN		
+1		 » ”г		NaN		
+1		«ќЎ—		NaN		
+1		«ќ÷Џ		NaN		
+1		 я«б» 		NaN		
+1		бядя		NaN		
+1		бяд 		NaN		
+1		гƒбг		NaN		
+1		«ќ– 		NaN		
+1		«бг‘еж—нд		NaN		
+1		«бгжћжѕжд		NaN		
+1		н»–б«д		NaN		
+1		 Ў—Ќ		NaN		
+1		«ќ«Ё		NaN		
+1		«бгЎ—Ён		NaN		
+1		«Ќгб		NaN		
+1		«Ќбг		NaN		
+1		г ќ’’нд		NaN		
+1		 ÷нё		NaN		
+1		«д”Ќ»		NaN		
+1		 ÷нЁ		NaN		
+1		не«ѕд		NaN		
+1		«бя—«г		NaN		
+1		«д”«е		NaN		
+1		” —«ё»		NaN		
+1		не«ћг		NaN		
+1		«д“бё		NaN		
+1		бён 		NaN		
+1		«Ќ÷—		NaN		
+1		«Ќ’б		NaN		
+1		«Џ »— 		NaN		
+1		«Ќ—’		NaN		
+1		 ÷џЎ		NaN		
+1		«Ћг— 		NaN		
+1		нЏ—Ёж«		NaN		
+1		«ЌѕЋ		NaN		
+1		 ÷Ў—		NaN		
+1		«б«ќ—нд		NaN		
+1		”д д«Ё”		NaN		
+1		б»д«дн		NaN		
+1		«Ќ ћ		NaN		
+1		 ÷——		NaN		
+1		 ÷—»		NaN		
+1		ггн“жд		NaN		
+1		г” «Ѕ		NaN		
+1		«ћб 		NaN		
+1		 ’н—		NaN		
+1		 ’н»		NaN		
+1		ггджЏ«		NaN		
+1		жЏѕждн		NaN		
+1		гдёЎЏ		NaN		
+1		 ’дЏ		NaN		
+1		Ёќ”— 		NaN		
+1		ЁЏ«б		NaN		
+1		д«ё’«		NaN		
+1		”нЎ— 		NaN		
+1		«ћЏб		NaN		
+1		 ’ёб		NaN		
+1		«ќ н— 		NaN		
+1		«бг ÷——нд		NaN		
+1		гдё–«		NaN		
+1		«Џ «ѕ 		NaN		
+1		жћѕд		NaN		
+1		д«Ён«		NaN		
+1		«Џ н«ѕн		NaN		
+1		жћѕ«		NaN		
+1		 —яж«		NaN		
+1		 ’Џѕ		NaN		
+1		‘н‘н—жЁ«		NaN		
+1		нЏ—Ё«д		NaN		
+1		»«—Џ«		NaN		
+1		—»д«		NaN		
+1		«ћ»—		NaN		
+1		«Ћдм		NaN		
+1		«б дўнгн		NaN		
+1		«ћ«»		NaN		
+1		 ’ѕ 		NaN		
+1		»«—ѕ«		NaN		
+1		дў—н«		NaN		
+1		«д ќ«»н		NaN		
+1		д«ё‘д«		NaN		
+1		Ё‘бж«		NaN		
+1		 Ќ”гж«		NaN		
+1		 ’»ж		NaN		
+1		«бдў—н		NaN		
+1		 ’«»		NaN		
+1		гд«е÷«		NaN		
+1		 ‘Ём		NaN		
+1		нжѕ		NaN		
+1		нег		NaN		
+1		«бг”бжё		NaN		
+1		ндб		NaN		
+1		«бг”бж»		NaN		
+1		ќѕгж«		NaN		
+1		нгб		NaN		
+1		бЁ  		NaN		
+1		ндяг‘		NaN		
+1		нг 		NaN		
+1		нбё		NaN		
+1		нбЁ		NaN		
+1		 »«ѕ—		NaN		
+1		нё÷		NaN		
+1		нЁя		NaN		
+1		нЁё		NaN		
+1		нЁ“		NaN		
+1		—«н 		NaN		
+1		 гдЌдн		NaN		
+1		н” гѕ		NaN		
+1		–е»н		NaN		
+1		—«ед		NaN		
+1		«Џ —÷		NaN		
+1		нџ÷		NaN		
+1		нџ‘		NaN		
+1		нЏн		NaN		
+1		ећн «		NaN		
+1		нЏЎ		NaN		
+1		г”«жн		NaN		
+1		нЏћ		NaN		
+1		нўд		NaN		
+1		 ‘—Џ		NaN		
+1		 ‘—Ќ		NaN		
+1		«бЋб«Ћжд		NaN		
+1		нЎб		NaN		
+1		«Ћ«—		NaN		
+1		н’Ё		NaN		
+1		н’Ќ		NaN		
+1		н‘д		NaN		
+1		н‘ё		NaN		
+1		ндя‘Ё		NaN		
+1		н”Џ		NaN		
+1		«бг” ж—ѕ		NaN		
+1		н—ё		NaN		
+1		н—Ћ		NaN		
+1		 ‘»е		NaN		
+1		нѕг		NaN		
+1		—«Џм		NaN		
+1		нЌў		NaN		
+1		нЌЎ		NaN		
+1		”Џжѕн«		NaN		
+1		нЌѕ		NaN		
+1		 ”бё		NaN		
+1		 ”бЎ		NaN		
+1		нћ—		NaN		
+1		 ”б»		NaN		
+1		 ”яд		NaN		
+1		 ”я 		NaN		
+1		”«г”ждћ		NaN		
+1		 ћ«ж» 		NaN		
+1		н»ѕ		NaN		
+1		—«”ќ		NaN		
+1		нд ёѕжд		NaN		
+1		н∆д		NaN		
+1		«б÷«џЎ		NaN		
+1		«” нёў		NaN		
+1		 жбн 		NaN		
+1		 ”ЏЁ		NaN		
+1		—«ћ 		NaN		
+1		«— ‘ж«		NaN		
+1		«” ебя 		NaN		
+1		«б÷∆нб		NaN		
+1		»«ѕ— 		NaN		
+1		‘ѕдн		NaN		
+1		«бг÷—«жн		NaN		
+1		д жёЁ		NaN		
+1		няжджд		NaN		
+1		 “ж—		NaN		
+1		 “жћ		NaN		
+1		«б»«я” «дн		NaN		
+1		 ќЎж«		NaN		
+1		«бгнгжд		NaN		
+1		д ж’б		NaN		
+1		«бн«»«дннд		NaN		
+1		«бн«»«днжд		NaN		
+1		 “Џћ		NaN		
+1		«б«нЁж«—н		NaN		
+1		«ўе— 		NaN		
+1		«бг Ќ”»нд		NaN		
+1		«б»—жяндн		NaN		
+1		 ё—— 		NaN		
+1		нЌ«жб«д		NaN		
+1		г»«‘—«		NaN		
+1		«»бм		NaN		
+1		«»бџ		NaN		
+1		 “ЌЁ		NaN		
+1		  г«‘м		NaN		
+1		«»ём		NaN		
+1		 —жд		NaN		
+1		ндЁ—ѕ		NaN		
+1		 —жЌ		NaN		
+1		гЏ »—нд		NaN		
+1		 —гн		NaN		
+1		гћ—жЌ		NaN		
+1		 —ём		NaN		
+1		 —я«		NaN		
+1		ен«		NaN		
+1		 —ёѕ		NaN		
+1		«бЁб”Ўнднжд		NaN		
+1		”джёЏ		NaN		
+1		ж«Ё		NaN		
+1		«»”Ў		NaN		
+1		н”«жн		NaN		
+1		нд ў—«д		NaN		
+1		 —Џм		NaN		
+1		«дѕе‘ 		NaN		
+1		‘ќ’ 		NaN		
+1		н”«дѕ		NaN		
+1		 —÷ќ		NaN		
+1		«»ЌЋ		NaN		
+1		 —”б		NaN		
+1		н”«Ё—		NaN		
+1		’«ѕёнд		NaN		
+1		 —ѕЏ		NaN		
+1		г»дн«		NaN		
+1		 —Ќб		NaN		
+1		«” ћ«»ж«		NaN		
+1		ж«Ё—		NaN		
+1		’«ѕёж«		NaN		
+1		 —ћг		NaN		
+1		е“«		NaN		
+1		 — ѕ		NaN		
+1		 —«Џ		NaN		
+1		«бћ«гѕ		NaN		
+1		«бЏ»жѕн		NaN		
+1		н”«—Џ		NaN		
+1		дег		NaN		
+1		е» 		NaN		
+1		дгб		NaN		
+1		дг—		NaN		
+1		дг 		NaN		
+1		гѕЏжг		NaN		
+1		едџ«—н«		NaN		
+1		г ’ѕ—«		NaN		
+1		«б»ѕнен		NaN		
+1		«бћ«—м		NaN		
+1		н Ёёж«		NaN		
+1		дЏ‘		NaN		
+1		дўд		NaN		
+1		дўб		NaN		
+1		«б«—гндн		NaN		
+1		г” Ёнѕнд		NaN		
+1		нЌ ћжд		NaN		
+1		”н—Џм		NaN		
+1		д’ 		NaN		
+1		д‘я		NaN		
+1		д‘»		NaN		
+1		 ѕнд		NaN		
+1		д”»		NaN		
+1		д“б		NaN		
+1		д гяд		NaN		
+1		«ќж н		NaN		
+1		д“Џ		NaN		
+1		«” еѕЁ		NaN		
+1		д–—		NaN		
+1		«ќ бЎ 		NaN		
+1		дѕѕ		NaN		
+1		 ѕдм		NaN		
+1		гћѕн«		NaN		
+1		дЌ»		NaN		
+1		г”нЎ—«		NaN		
+1		гн 		NaN		
+1		 ж«ћѕж«		NaN		
+1		д —		NaN		
+1		д ћ		NaN		
+1		«” е«д		NaN		
+1		геѕ		NaN		
+1		гдя		NaN		
+1		«бд”»н		NaN		
+1		гбЌ		NaN		
+1		«бгЁ«ћ∆		NaN		
+1		«б‘—«—н		NaN		
+1		н ж’б«		NaN		
+1		”дЁ ёѕ		NaN		
+1		бЌўд«		NaN		
+1		Џ«днд«		NaN		
+1		“ендеж«		NaN		
+1		 ѕ—я		NaN		
+1		«б Ёб“нждн		NaN		
+1		”нн«		NaN		
+1		н —‘Ќж«		NaN		
+1		 ќжб		NaN		
+1		 ж÷нЌн«		NaN		
+1		«д ен		NaN		
+1		«д ея		NaN		
+1		«д ећ		NaN		
+1		 ќбЎ		NaN		
+1		 ќЁн		NaN		
+1		 Џ«ёѕ« н		NaN		
+1		бгм		NaN		
+1		«дѕбЏ 		NaN		
+1		бгЌ		NaN		
+1		«ќ ЎЁж«		NaN		
+1		ЌЎг 		NaN		
+1		«я ‘Ёж«		NaN		
+1		 ’«—Џ		NaN		
+1		 ќЎЎ		NaN		
+1		 ’«ѕё		NaN		
+1		 ’«ѕЁ		NaN		
+1		 ќ’г		NaN		
+1		’ѕёждн		NaN		
+1		ѕ—«”н«		NaN		
+1		 ’«Ќ»		NaN		
+1		«д ’—		NaN		
+1		 ќ”—		NaN		
+1		«бЁ—д”нжд		NaN		
+1		нЏ‘ёжд		NaN		
+1		г’н—н		NaN		
+1		 ќѕЏ		NaN		
+1		д яед		NaN		
+1		ќ«—ёнд		NaN		
+1		«ƒяѕ		NaN		
+1		 ќћб		NaN		
+1		«ќ «—ж«		NaN		
+1		б“г		NaN		
+1		 Ќн—		NaN		
+1		нѕ—”жд		NaN		
+1		гя——«		NaN		
+1		 Ќжг		NaN		
+1		  жбм		NaN		
+1		«бЏ нё		NaN		
+1		 Ќгн		NaN		
+1		бЌЋ		NaN		
+1		 Ќбб		NaN		
+1		 Ќян		NaN		
+1		 Ќяг		NaN		
+1		«” г Џ		NaN		
+1		нѕЏжд		NaN		
+1		б»Ћ		NaN		
+1		б«г		NaN		
+1		нЌ Ёўжд		NaN		
+1		«” бг 		NaN		
+1		«д енд«		NaN		
+1		бЏбн		NaN		
+1		  ж’б		NaN		
+1		гдЏж«		NaN		
+1		  ж‘Ќ		NaN		
+1		ѕ—«” н		NaN		
+1		«бгѕдннд		NaN		
+1		«б Ўжн—н		NaN		
+1		нЌ”гжд		NaN		
+1		«б»дндм		NaN		
+1		«бгбЌжў		NaN		
+1		  жће		NaN		
+1		Ќ”«»« н		NaN		
+1		гЌяжгжд		NaN		
+1		«б”д«дн		NaN		
+1		«” б“г		NaN		
+1		 Ќћ“		NaN		
+1		ћгнб«		NaN		
+1		»–бж«		NaN		
+1		 —‘нЌя		NaN		
+1		 ћн“		NaN		
+1		ё«”н нд		NaN		
+1		н г Џжд		NaN		
+1		 ћн»		NaN		
+1		я—г		NaN		
+1		я——		NaN		
+1		гяд «е		NaN		
+1		Ќ÷—д		NaN		
+1		 —«яг 		NaN		
+1		«“ѕѕ 		NaN		
+1		 ћбм		NaN		
+1		нЏЎнд«		NaN		
+1		я—жн«		NaN		
+1		 ћб 		NaN		
+1		гѕ—янд		NaN		
+1		«д”Ќ» 		NaN		
+1		Ў»нЏн«		NaN		
+1		нгдЌдн		NaN		
+1		«“ѕ«ѕ		NaN		
+1		гб “г«		NaN		
+1		ёбѕ		NaN		
+1		«бгЌ —г		NaN		
+1		нћ гЏж«		NaN		
+1		 ћ“г		NaN		
+1		 ћ—Џ		NaN		
+1		 ћ—»		NaN		
+1		гд ен«		NaN		
+1		«б»жбдѕннд		NaN		
+1		ё÷н		NaN		
+1		«бе«ѕ∆нд		NaN		
+1		 д”нён		NaN		
+1		«бгЌћ»« 		NaN		
+1		 ‘яб 		NaN		
+1		«б«‘я«бн« 		NaN		
+1		гЏ—жЁ«		NaN		
+1		 ж—Ўж«		NaN		
+1		”еб 		NaN		
+1		 ћ»—		NaN		
+1		ннбџ		NaN		
+1		ё«”н «д		NaN		
+1		нЋн—ж«		NaN		
+1		 «—ѕнбн		NaN		
+1		«б ‘«ѕн		NaN		
+1		Ёдѕ		NaN		
+1		гЏ—ж÷«		NaN		
+1		«’Ўѕг		NaN		
+1		«бг«÷н«д		NaN		
+1		«” ё«б« 		NaN		
+1		 ё ÷н		NaN		
+1		«бгЌ»ж”		NaN		
+1		Џ—Ёж«		NaN		
+1		Џ—Ёд«		NaN		
+1		Ё’б		NaN		
+1		Џ«г«д		NaN		
+1		«бЏ»—н		NaN		
+1		гЋн—н		NaN		
+1		«” ёѕг		NaN		
+1		  гяд		NaN		
+1		Џ«бё«		NaN		
+1		г жёЏ«		NaN		
+1		ндЁ—ѕ«д		NaN		
+1		 Ёжёд		NaN		
+1		«бЌѕжѕн		NaN		
+1		Ў—« 		NaN		
+1		 ѕ—»ж«		NaN		
+1		Ё«ё		NaN		
+1		 ѕ—»д«		NaN		
+1		‘«џ—		NaN		
+1		‘«Џ 		NaN		
+1		гЏ—»«		NaN		
+1		ндЏя”		NaN		
+1		«бг ж«ћѕжд		NaN		
+1		жёЏж«		NaN		
+1		‘«Ў—		NaN		
+1		няЁндн		NaN		
+1		  Џѕ		NaN		
+1		н г«‘м		NaN		
+1		”д—ѕ		NaN		
+1		  ”Џ		NaN		
+1		«бЏ«Ўб		NaN		
+1		«бѕнгжё—«Ўн		NaN		
+1		«Џб«дн		NaN		
+1		‘∆д«		NaN		
+1		ЁЌ м		NaN		
+1		дќ  г		NaN		
+1		 Ёег 		NaN		
+1		нжяѕ		NaN		
+1		  «»Џ 		NaN		
+1		‘«Ѕ 		NaN		
+1		 — н»н		NaN		
+1		«бЏ«∆г		NaN		
+1		«бг”Џжѕ		NaN		
+1		Ќ”»н		NaN		
+1		”н нЌ		NaN		
+1		Ќ”«”		NaN		
+1		”гЏ 		NaN		
+1		г д«ё÷нд		NaN		
+1		«бгЌ«—»		NaN		
+1		нж’Ё		NaN		
+1		«’»Ќд«		NaN		
+1		д’—«жннд		NaN		
+1		»бџж«		NaN		
+1		нжѕн		NaN		
+1		гд’Ё«		NaN		
+1		  ж«Ёё		NaN		
+1		  ж«Ё—		NaN		
+1		нжћ»		NaN		
+1		ненб		NaN		
+1		нен∆		NaN		
+1		  яед		NaN		
+1		 »нд		NaN		
+1		 »нЌ		NaN		
+1		«б—∆н”н нд		NaN		
+1		«бге“ж“		NaN		
+1		 »д 		NaN		
+1		  яЁб		NaN		
+1		 »бм		NaN		
+1		Џёѕж«		NaN		
+1		ндЎжн		NaN		
+1		д«’Ќ«		NaN		
+1		«б«Џ д«Ѕ		NaN		
+1		нЁегжд		NaN		
+1		Ќ—ян		NaN		
+1		”бЎ 		NaN		
+1		гяЋЁ«		NaN		
+1		  ж«ћѕ		NaN		
+1		 жЏжн		NaN		
+1		гд’»«		NaN		
+1		«д‘џбж«		NaN		
+1		Џ«ёѕж		NaN		
+1		«б”н«”ннд		NaN		
+1		не—»		NaN		
+1		б”«жЋе«г» жд		NaN		
+1		 »—г		NaN		
+1		неѕ—		NaN		
+1		 »——		NaN		
+1		неѕ∆		NaN		
+1		«ћ «Ќ 		NaN		
+1		 »ѕн		NaN		
+1		н÷«ен		NaN		
+1		 »ќб		NaN		
+1		 »ќ—		NaN		
+1		не “		NaN		
+1		нджм		NaN		
+1		  я»ѕ		NaN		
+1		нћ еѕ		NaN		
+1		Ќ—— 		NaN		
+1		 »«Џ		NaN		
+1		ндя—		NaN		
+1		 «г—		NaN		
+1		ндёб		NaN		
+1		«б”жнбг		NaN		
+1		гћ«дн		NaN		
+1		яждж«		NaN		
+1		н÷«ЏЁ		NaN		
+1		«бѕ«гн		NaN		
+1		«” нёў 		NaN		
+1		Ќ—«Ѕ		NaN		
+1		Ё«—”н		NaN		
+1		 ÷«Ё— 		NaN		
+1		ндЎё		NaN		
+1		нд’Ќ		NaN		
+1		нд’»		NaN		
+1		нд‘—		NaN		
+1		нд‘ѕ		NaN		
+1		нд“б		NaN		
+1		Ё—Ќд«		NaN		
+1		ндѕ—		NaN		
+1		ндѕ»		NaN		
+1		Ё —м		NaN		
+1		»—нЎ«днжд		NaN		
+1		нЏ —÷ж«		NaN		
+1		н”ѕѕж«		NaN		
+1		ндћж		NaN		
+1		‘—Ё«д«		NaN		
+1		гѕ«ЁЏ«		NaN		
+1		нгн“		NaN		
+1		 «Ћ—		NaN		
+1		дЎёж«		NaN		
+1		нд«б		NaN		
+1		я»«—«		NaN		
+1		нгяЋ		NaN		
+1		«— »Ў 		NaN		
+1		гя »н		NaN		
+1		гя »е		NaN		
+1		‘«ян—«		NaN		
+1		«бгб«’ё		NaN		
+1		«бгЌ»Ўнд		NaN		
+1		нг÷н		NaN		
+1		 е«днд«		NaN		
+1		нЏ гѕж«		NaN		
+1		«” џ—ё 		NaN		
+1		«бгб«Ќё		NaN		
+1		  Ё—ѕ		NaN		
+1		  Ё—ћ		NaN		
+1		нг“Ќ		NaN		
+1		н’бжд		NaN		
+1		нгЌж		NaN		
+1		Ё—д”ннд		NaN		
+1		нбжг		NaN		
+1		гЋг—«		NaN		
+1		нбж–		NaN		
+1		гд“Џћ		NaN		
+1		нёндн		NaN		
+1		н‘«—я«		NaN		
+1		нбгЌ		NaN		
+1		нбём		NaN		
+1		нбЁў		NaN		
+1		гЋбж«		NaN		
+1		«бгжћ“		NaN		
+1		«бд»жн		NaN		
+1		”н∆жд		NaN		
+1		нбџн		NaN		
+1		нбџм		NaN		
+1		 ќ Ён		NaN		
+1		«” џ—» 		NaN		
+1		«бг”бгнд		NaN		
+1		«» я—		NaN		
+1		÷нЏ 		NaN		
+1		нд‘џб		NaN		
+1		Ё Ќжб 		NaN		
+1		 ќ ’—		NaN		
+1		н” ё»бжд		NaN		
+1		нянб		NaN		
+1		нѕ—”д		NaN		
+1		г г«‘н«		NaN		
+1		нб»н		NaN		
+1		нћ«гб		NaN		
+1		«н—«дн		NaN		
+1		«бгѕндн		NaN		
+1		«» ”г		NaN		
+1		 ƒгд		NaN		
+1		 ƒгб		NaN		
+1		ня Ён		NaN		
+1		џн»		NaN		
+1		«бг Ќћ»« 		NaN		
+1		н —«жЌ		NaN		
+1		 ќ «—		NaN		
+1		Ё«ё 		NaN		
+1		нд”ж«		NaN		
+1		«бге г		NaN		
+1		«бћ«гЏн« 		NaN		
+1		«бѕƒж»		NaN		
+1		«бгден		NaN		
+1		‘Ёен«		NaN		
+1		«бд«ёб		NaN		
+1		 –я—ж«		NaN		
+1		Ё«÷Ќ		NaN		
+1		Ё«’б		NaN		
+1		ня—”		NaN		
+1		 ƒ””		NaN		
+1		нћ«ѕб		NaN		
+1		гёдЏ«		NaN		
+1		ня–»		NaN		
+1		 ƒ—ё		NaN		
+1		нёнѕ		NaN		
+1		ня Ё		NaN		
+1		д Џбг		NaN		
+1		 ƒћ—		NaN		
+1		«бд«’Џ		NaN		
+1		«— »«Ўн		NaN		
+1		»Ўжбн«		NaN		
+1		«бд«‘∆		NaN		
+1		Ё«  		NaN		
+1		нёбё		NaN		
+1		џѕ 		NaN		
+1		Ё«∆ё		NaN		
+1		нёЁб		NaN		
+1		нё —»жд		NaN		
+1		«е гж«		NaN		
+1		н ќббе«		NaN		
+1		«б”»«дн		NaN		
+1		«бгдћ»		NaN		
+1		џ»н		NaN		
+1		«” џд 		NaN		
+1		нд”«ё		NaN		
+1		«бгд ћ		NaN		
+1		«бггжб		NaN		
+1		Џд«		NaN		
+1		Џгд		NaN		
+1		«’ѕ— 		NaN		
+1		Џбб		NaN		
+1		«бгд«д		NaN		
+1		ЏяЁ		NaN		
+1		«бгд«Ў		NaN		
+1		гЏ ёѕнд		NaN		
+1		нёЎЏ		NaN		
+1		нё’—		NaN		
+1		нё—Џ		NaN		
+1		«бгџ«ѕ—		NaN		
+1		нЁнё		NaN		
+1		Џ‘»		NaN		
+1		Ќћ“ 		NaN		
+1		Џѕб		NaN		
+1		нЁбЌ		NaN		
+1		«бя—«ж н		NaN		
+1		Џћб		NaN		
+1		«бгг ѕ		NaN		
+1		ўб«		NaN		
+1		Ў»ё 		NaN		
+1		 «—нќн«		NaN		
+1		«бгЏ гѕнд		NaN		
+1		«бгбём		NaN		
+1		нЁ’б		NaN		
+1		гнѕ«дн«		NaN		
+1		нЁ‘б		NaN		
+1		нЁ”—		NaN		
+1		н»џж«		NaN		
+1		Ё«—ёж«		NaN		
+1		нЁ—“		NaN		
+1		гдќЁ÷		NaN		
+1		 ќ«Ў»		NaN		
+1		г—гжё«		NaN		
+1		еЎб 		NaN		
+1		бн” Ќж–		NaN		
+1		нЁ ‘		NaN		
+1		«” Џ—÷		NaN		
+1		гЏ»—«		NaN		
+1		гЌ «ћнд		NaN		
+1		«»«—я		NaN		
+1		нЏ бн		NaN		
+1		нЏбгжд		NaN		
+1		нЏ ёѕ		NaN		
+1		 г «“		NaN		
+1		яжЁ∆ 		NaN		
+1		«бгягб		NaN		
+1		Ўёг		NaN		
+1		ЎЁЌ		NaN		
+1		нЏжѕжд		NaN		
+1		гЏ«я”		NaN		
+1		гЏ«Ём		NaN		
+1		«бг÷џжЎ		NaN		
+1		Ўџм		NaN		
+1		н ’—Ёжд		NaN		
+1		Ўџ 		NaN		
+1		«” ћгЏ 		NaN		
+1		ЎЏд		NaN		
+1		«Џ »—ж«		NaN		
+1		н‘Ў«Ўжд		NaN		
+1		г Ўж—«		NaN		
+1		нЏ –—		NaN		
+1		«бг—Ќ»нд		NaN		
+1		н ж«’б		NaN		
+1		гдЎён«		NaN		
+1		ня«»—		NaN		
+1		н ж«ће		NaN		
+1		«бгёнѕ		NaN		
+1		гя«д н		NaN		
+1		г«“«бж«		NaN		
+1		д— »Ў		NaN		
+1		«б»Ќ—м		NaN		
+1		ж«ёЏн		NaN		
+1		ж«ёЏ«		NaN		
+1		н‘џбжд		NaN		
+1		гћ гЏнд		NaN		
+1		«б”Џжжѕн		NaN		
+1		 «—я«		NaN		
+1		«бЏёб«Ѕ		NaN		
+1		«б ѕ—нћн		NaN		
+1		нёбжд		NaN		
+1		нёбёя		NaN		
+1		÷бж«		NaN		
+1		гџд«Ўн”н		NaN		
+1		 г«—”«д		NaN		
+1		’дЁ		NaN		
+1		÷«Џ		NaN		
+1		’гг		NaN		
+1		«бгЁж÷		NaN		
+1		ћж«д		NaN		
+1		д«ћЌ«		NaN		
+1		Ќ»бм		NaN		
+1		«б—жЌн		NaN		
+1		’Ёё		NaN		
+1		ндќЁ÷		NaN		
+1		«жяб 		NaN		
+1		нќ»—дн		NaN		
+1		д ’ѕм		NaN		
+1		«бћ—«Ќн		NaN		
+1		 г«Ўб		NaN		
+1		’ѕг		NaN		
+1		’ЌЌ		NaN		
+1		‘нЏ		NaN		
+1		«бг »ёнд		NaN		
+1		ћдж«		NaN		
+1		«” ягб 		NaN		
+1		«»д«∆н		NaN		
+1		«жёЁ 		NaN		
+1		 —ћг 		NaN		
+1		ћ«гЏн		NaN		
+1		яЋ«дн		NaN		
+1		«жёЏ 		NaN		
+1		Ќ«÷—		NaN		
+1		–е»ж«		NaN		
+1		«бнгднжд		NaN		
+1		‘—Џ		NaN		
+1		Ќ«”»		NaN		
+1		‘–м		NaN		
+1		«б”ж—ннд		NaN		
+1		гд ў—		NaN		
+1		Ќ«ѕ«		NaN		
+1		«б ‘—нЏн		NaN		
+1		нЌягж«		NaN		
+1		‘«–		NaN		
+1		ндЌ«“		NaN		
+1		‘« 		NaN		
+1		”бя		NaN		
+1		”б”		NaN		
+1		яждн		NaN		
+1		г гЋб«		NaN		
+1		яжд 		NaN		
+1		г»”Ў«		NaN		
+1		«бћ«»—н		NaN		
+1		«б“«∆Ё		NaN		
+1		”Џѕ 		NaN		
+1		»ЌЋд«		NaN		
+1		«бге«—н		NaN		
+1		гЁ«ћмЅ		NaN		
+1		”ЎЏ		NaN		
+1		”Ў—		NaN		
+1		«б«жбн		NaN		
+1		  ЎжЏ		NaN		
+1		  Ўж—		NaN		
+1		«б«жЁ—		NaN		
+1		«“ѕ«д 		NaN		
+1		ћ“Ѕнд		NaN		
+1		”—н		NaN		
+1		”—м		NaN		
+1		«бќг”нд		NaN		
+1		”ѕм		NaN		
+1		”ћд		NaN		
+1		«” ‘«—		NaN		
+1		ѕг«џн		NaN		
+1		н–я—дн		NaN		
+1		  Ё«Џб		NaN		
+1		Ё«∆“«		NaN		
+1		 — ён		NaN		
+1		«“ѕ«ѕ 		NaN		
+1		“Џг		NaN		
+1		ћгЏж«		NaN		
+1		—жгдн		NaN		
+1		гЁ«ћ∆«		NaN		
+1		гЏ гѕ«		NaN		
+1		г»—гћ		NaN		
+1		«бгѕЁжЏ		NaN		
+1		«г÷н«		NaN		
+1		 — Ўг		NaN		
+1		 бён 		NaN		
+1		 бён«		NaN		
+1		—жћ		NaN		
+1		нд ем		NaN		
+1		 — ѕн		NaN		
+1		«бжўнЁн		NaN		
+1		нд ећ		NaN		
+1		«бг“ндн		NaN		
+1		ћб» 		NaN		
+1		жнб«Ќё		NaN		
+1		н ‘«ж—		NaN		
+1		«б«Ё–«–		NaN		
+1		 — «Ќ		NaN		
+1		г»—“«		NaN		
+1		ё’н—«		NaN		
+1		н—«Џж«		NaN		
+1		«б»«е 		NaN		
+1		Ќяжгн«		NaN		
+1		д«ЁЏнд		NaN		
+1		Џ«‘ж«		NaN		
+1		нЏнд		NaN		
+1		нд ’—		NaN		
+1		нд ‘—		NaN		
+1		нЏжб		NaN		
+1		нЏжё		NaN		
+1		д –я—		NaN		
+1		нЏеѕ		NaN		
+1		Ё Ќж«		NaN		
+1		нЏяЁ		NaN		
+1		нЏёб		NaN		
+1		—Ќ 		NaN		
+1		нЏЁм		NaN		
+1		—ћЏ		NaN		
+1		нЏЁж		NaN		
+1		гд«‘Ў		NaN		
+1		—ћЌ		NaN		
+1		гд«”я		NaN		
+1		—«н		NaN		
+1		г —ѕѕ«		NaN		
+1		«г «“ 		NaN		
+1		«б»«—я		NaN		
+1		ге“жг«		NaN		
+1		нЏЎм		NaN		
+1		«б»«ѕн		NaN		
+1		нЏ“Ё		NaN		
+1		нЎб»жд		NaN		
+1		Џжё»		NaN		
+1		нЏ—»		NaN		
+1		нЏѕж		NaN		
+1		«бё”—н		NaN		
+1		 бЁў 		NaN		
+1		ќбнћн«		NaN		
+1		ё«∆бнд		NaN		
+1		« ег 		NaN		
+1		«б«н—«дннд		NaN		
+1		нЏћб		NaN		
+1		‘г«бн		NaN		
+1		нЏћ“		NaN		
+1		нЏЋ—		NaN		
+1		нЏ “		NaN		
+1		нЏ »		NaN		
+1		«ќ—нд		NaN		
+1		нЏ»—		NaN		
+1		”н«”н«		NaN		
+1		«ќ—жд		NaN		
+1		«бг” ќѕг		NaN		
+1		нЏ«ѕ		NaN		
+1		нЏ«»		NaN		
+
